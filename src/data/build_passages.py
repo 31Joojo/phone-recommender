@@ -32,7 +32,7 @@ for _, phone in data.iterrows():
         f"Note : {phone['rating']}, Rapport qualité-prix : {phone['quality-price_ratio']}, "
         f"5G : {'Disponible' if phone['has_5g'] else 'Non disponible'}, "
         f"Stockage : {phone['internal_memory']} Go, RAM : {phone['ram_capacity']} Go, "
-        f"CPU : {phone['processor_brand']} {phone['num_cores'] * phone['processor_speed']} GHz, "
+        f"CPU : {phone['processor_brand']} {round(phone['num_cores'] * phone['processor_speed'], 2)} GHz, "
         f"Batterie : {phone['battery_capacity']} mAh, Autonomie : {phone['quality_battery_autonomy']}, "
         f"Charge rapide : {'Non disponible' if phone['fast_charging_available'] == 0 else 'Disponible'}, "
         f"App. AR : {phone['num_rear_cameras']} ×, App. AV : {phone['num_front_cameras']} ×, "
