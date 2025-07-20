@@ -23,6 +23,7 @@ from sentence_transformers import SentenceTransformer
 import faiss
 import json
 import numpy as np
+from src.config import device
 ### Chargement des variables d'environnement
 from dotenv import load_dotenv
 import os
@@ -31,11 +32,11 @@ load_dotenv()
 
 # --------------- Chargement du modèle d'embeddings - BERT ---------------- #
 TRANSFORMER = os.getenv("TRANSFORMER")
-embedder = SentenceTransformer(TRANSFORMER)
+embedder = SentenceTransformer(TRANSFORMER, device=str(device))
 
 texts: list = []
 # ------------------------ Chargement des passages ------------------------ #
-with open("data/processed/passages.jsonl") as f:
+with open("../../data/processed/passages.jsonl") as f:
     for line in f:
         j = json.loads(line)
         texts.append(j["text"])
