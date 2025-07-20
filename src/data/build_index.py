@@ -7,6 +7,9 @@ Objectif : Encoder tous les passages JSONL en vecteurs d'embedding via un
       modèle SentenceTransformer, puis construire et sauvegarder un
       index FAISS pour recherches de similarité.
 
+Variables clés :
+  - TRANSFORMER : modèle utilisé pour le calcul des embeddings.
+
 Entrée : data/processed/passages.jsonl
 Sortie : models/faiss_index.idx
 Usage :
