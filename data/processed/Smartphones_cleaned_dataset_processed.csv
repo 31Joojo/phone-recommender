@@ -1,0 +1,980 @@
+brand_name,model,price (€),price_segment,rating,ratio_rating_price,ratio_segment,quality-price_ratio,has_5g,processor_brand,num_cores,processor_speed,battery_capacity,quality_battery_autonomy,fast_charging_available,fast_charging,ram_capacity,internal_memory,screen_size,refresh_rate,num_rear_cameras,num_front_cameras,os,primary_camera_rear,primary_camera_front,extended_memory_available,extended_upto,resolution_width,resolution_height,performance category
+apple,Apple iPhone 11,388.66,milieu,73.0,0.18782483404518086,0.4798024144907597,moyen,False,bionic,6,2.65,3110,faible,0,,4,64,6.1,60,2,1.0,ios,12.0,12.0,0,,828,1792,basique
+apple,Apple iPhone 11 (128GB),468.39,milieu,75.0,0.1601229744443733,0.32784714742213994,moyen,False,bionic,6,2.65,3110,faible,0,,4,128,6.1,60,2,1.0,ios,12.0,12.0,0,,828,1792,basique
+apple,Apple iPhone 11 Pro Max,1095.26,haut,77.0,0.07030294176725162,0.528966811082235,moyen,False,bionic,6,2.65,3500,moyenne,1,18.0,4,64,6.5,60,3,1.0,ios,12.0,12.0,0,,1242,2688,basique
+apple,Apple iPhone 12,518.22,milieu,74.0,0.1427964956968083,0.23280480212889287,faible,True,bionic,6,3.1,2815,faible,0,,4,64,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,basique
+apple,Apple iPhone 12 (128GB),558.09,milieu,75.0,0.13438692683975703,0.18667510903175796,faible,True,bionic,6,3.1,2815,faible,0,,4,128,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,basique
+apple,Apple iPhone 12 (256GB),677.68,milieu,76.0,0.11214732617164444,0.0646824158436087,faible,True,bionic,6,3.1,2815,faible,0,,4,256,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,basique
+apple,Apple iPhone 12 Mini,408.6,milieu,74.0,0.1811062163485071,0.4429482335389418,moyen,True,bionic,6,3.1,2227,faible,0,,4,64,5.4,60,2,1.0,ios,12.0,12.0,0,,1080,2340,basique
+apple,Apple iPhone 12 Mini (128GB),458.43,milieu,75.0,0.16360185851711276,0.3469301536170916,moyen,True,bionic,6,3.1,2227,faible,0,,4,128,5.4,60,2,1.0,ios,12.0,12.0,0,,1080,2340,basique
+apple,Apple iPhone 12 Mini (256GB),558.09,milieu,75.0,0.13438692683975703,0.18667510903175796,faible,True,bionic,6,3.1,2227,faible,0,,4,256,5.4,60,2,1.0,ios,12.0,12.0,0,,1080,2340,basique
+apple,Apple iPhone 12 Pro (256GB),1194.92,haut,80.0,0.06695008870886754,0.4997639233625901,moyen,True,bionic,6,3.1,2815,faible,0,,6,256,6.1,60,3,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 12 Pro (512GB),1394.24,haut,80.0,0.05737893045673629,0.41640045502179435,moyen,True,bionic,6,3.1,2815,faible,0,,6,512,6.1,60,3,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 13,627.85,milieu,79.0,0.12582623238034563,0.1397164343572682,faible,True,bionic,6,3.22,3240,faible,1,,4,128,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,basique
+apple,Apple iPhone 13 (256GB),727.51,haut,79.0,0.10858957265192232,0.8624380856711044,excellent,True,bionic,6,3.22,3240,faible,1,,4,256,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,basique
+apple,Apple iPhone 13 (512GB),916.86,haut,80.0,0.08725432454246014,0.676611017153025,bon,True,bionic,6,3.22,3240,faible,1,,4,512,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 13 Mini,646.79,milieu,79.0,0.1221416533960018,0.1195051131077349,faible,True,bionic,6,3.22,2438,faible,1,,4,128,5.4,60,2,1.0,ios,12.0,12.0,0,,1080,2340,basique
+apple,Apple iPhone 13 Pro,1194.92,haut,83.0,0.06946071703545006,0.5216311498262173,moyen,True,bionic,6,3.22,3095,faible,1,,6,128,6.1,120,3,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 13 Pro (1TB),1473.97,haut,84.0,0.05698894821468551,0.4130037634791136,moyen,True,bionic,6,3.22,3095,faible,1,,6,1024,6.1,120,3,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 13 Pro (256GB),1294.58,haut,83.0,0.0641134576464954,0.47505725803188975,moyen,True,bionic,6,3.22,3095,faible,1,,6,256,6.1,120,3,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 13 Pro Max,1294.58,haut,84.0,0.06488590894344112,0.4817852022933278,moyen,True,bionic,6,3.22,4352,moyenne,1,,6,128,6.7,120,3,1.0,ios,12.0,12.0,0,,1284,2778,performance intermédiaire
+apple,Apple iPhone 13 Pro Max (1TB),1792.88,haut,86.0,0.04796751595198786,0.3344283326891603,faible,True,bionic,6,3.22,4352,moyenne,1,,6,1024,6.7,120,3,1.0,ios,12.0,12.0,0,,1284,2778,performance intermédiaire
+apple,Apple iPhone 13 Pro Max (256GB),1394.24,haut,84.0,0.0602478769795731,0.44138858355625743,moyen,True,bionic,6,3.22,4352,moyenne,1,,6,256,6.7,120,3,1.0,ios,12.0,12.0,0,,1284,2778,performance intermédiaire
+apple,Apple iPhone 14,657.75,milieu,81.0,0.12314709236031927,0.12502032936201135,faible,True,bionic,6,3.22,3279,faible,1,,6,128,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 14 (256GB),757.41,haut,82.0,0.10826368809495518,0.8595996761252759,excellent,True,bionic,6,3.22,3279,faible,1,,6,256,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 14 (512GB),956.73,haut,82.0,0.08570861162501436,0.6631480708237489,bon,True,bionic,6,3.22,3279,faible,1,,6,512,6.1,60,2,1.0,ios,12.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 14 Mini,697.52,milieu,70.0,0.10035554536070651,0.0,faible,False,bionic,6,3.22,3500,moyenne,1,,6,128,5.42,60,2,1.0,ios,12.0,12.0,0,,1080,2340,basique
+apple,Apple iPhone 14 Plus,747.44,haut,82.0,0.10970780263298725,0.8721777145821067,excellent,True,bionic,6,3.22,4325,moyenne,1,,6,128,6.7,60,2,1.0,ios,12.0,12.0,0,,1284,2778,performance intermédiaire
+apple,Apple iPhone 14 Plus (256GB),847.1,haut,83.0,0.09798134812891039,0.7700419131410723,bon,True,bionic,6,3.22,4325,moyenne,1,,6,256,6.7,60,2,1.0,ios,12.0,12.0,0,,1284,2778,performance intermédiaire
+apple,Apple iPhone 14 Plus (512GB),1046.42,haut,83.0,0.07931805584755643,0.607487211374938,bon,True,bionic,6,3.22,4325,moyenne,1,,6,512,6.7,60,2,1.0,ios,12.0,12.0,0,,1284,2778,performance intermédiaire
+apple,Apple iPhone 14 Pro,1195.82,haut,75.0,0.06271846933484973,0.46290710223149234,moyen,True,bionic,6,3.46,3200,faible,1,,6,128,6.1,120,3,1.0,ios,48.0,12.0,0,,1179,2556,performance intermédiaire
+apple,Apple iPhone 14 Pro (1TB),1724.11,haut,77.0,0.044660723503720766,0.30562662653104583,faible,True,bionic,6,3.46,3200,faible,1,,6,1024,6.1,120,3,1.0,ios,48.0,12.0,0,,1179,2556,performance intermédiaire
+apple,Apple iPhone 14 Pro (256GB),1295.48,haut,76.0,0.05866551394077871,0.42760641972474733,moyen,True,bionic,6,3.46,3200,faible,1,,6,256,6.1,120,3,1.0,ios,48.0,12.0,0,,1179,2556,performance intermédiaire
+apple,Apple iPhone 14 Pro Max,1295.48,haut,76.0,0.05866551394077871,0.42760641972474733,moyen,True,bionic,6,3.46,4323,moyenne,1,,6,128,6.7,120,3,1.0,ios,48.0,12.0,0,,1290,2796,performance intermédiaire
+apple,Apple iPhone 14 Pro Max (1TB),1823.77,haut,78.0,0.042768550858935064,0.2891460637596812,faible,True,bionic,6,3.46,4323,moyenne,1,,6,1024,6.7,120,3,1.0,ios,48.0,12.0,0,,1290,2796,performance intermédiaire
+apple,Apple iPhone 14 Pro Max (256GB),1395.14,haut,77.0,0.055191593675186716,0.397349053327672,faible,True,bionic,6,3.46,4323,moyenne,1,,6,256,6.7,120,3,1.0,ios,48.0,12.0,0,,1290,2796,performance intermédiaire
+apple,Apple iPhone 14 Pro Max (512GB),1693.22,haut,78.0,0.04606607528850356,0.3178670467531578,faible,True,bionic,6,3.46,4323,moyenne,1,,6,512,6.7,120,3,1.0,ios,48.0,12.0,0,,1290,2796,performance intermédiaire
+apple,Apple iPhone 15,827.08,haut,72.0,0.0870532475697635,0.6748596644529767,bon,False,bionic,6,3.46,3285,faible,1,,6,128,6.06,60,2,1.0,ios,50.0,13.0,0,,1170,2532,basique
+apple,Apple iPhone 15 Plus,847.01,haut,75.0,0.08854677040412746,0.6878680423565634,bon,True,bionic,6,3.46,4532,haute,1,,8,128,6.71,120,2,1.0,ios,12.0,12.0,0,,1284,2778,performance intermédiaire
+apple,Apple iPhone 15 Pro,1305.45,haut,75.0,0.057451453521774096,0.4170321209160355,moyen,True,bionic,6,3.78,4441,moyenne,0,,8,128,6.06,120,3,1.0,ios,50.0,12.0,0,,1170,2532,performance intermédiaire
+apple,Apple iPhone 15 Pro Max,1425.04,haut,79.0,0.055437040363779264,0.39948686013378987,faible,True,bionic,6,3.78,4352,moyenne,1,25.0,8,256,6.68,120,3,1.0,ios,50.0,12.0,0,,1284,2778,performance intermédiaire
+apple,Apple iPhone 15 Ultra,1493.9,haut,79.0,0.05288171899056161,0.37723036339794763,faible,True,bionic,8,3.78,4700,haute,1,,8,128,6.73,120,3,1.0,ios,48.0,12.0,0,,1290,2796,haut performance
+apple,Apple iPhone 7s,528.1,milieu,77.5,0.14675250899450862,0.2545050441285866,faible,False,fusion,4,2.37,2230,faible,0,,3,32,4.7,60,1,1.0,ios,13.0,7.0,0,,750,1334,basique
+apple,Apple iPhone 9,298.88,bas,61.0,0.20409528907922914,0.0,faible,False,bionic,6,2.65,2050,faible,1,,3,64,4.7,60,1,1.0,ios,12.0,7.0,0,,750,1334,basique
+apple,Apple iPhone SE 2020,397.64,milieu,63.0,0.15843476511417362,0.31858667526124756,moyen,False,bionic,6,2.65,1821,faible,1,18.0,3,64,4.7,60,1,1.0,ios,12.0,7.0,0,,750,1334,basique
+apple,Apple iPhone SE 3 2022,437.51,milieu,77.5,0.1771388082558113,0.42118548674203654,moyen,True,bionic,6,3.22,2018,faible,0,,4,64,4.7,60,1,1.0,ios,12.0,7.0,0,,750,1334,basique
+apple,Apple iPhone SE 4,498.2,milieu,60.0,0.12043356081894821,0.11013557375318055,faible,True,bionic,6,3.22,3279,faible,0,,4,64,6.1,60,1,1.0,ios,12.0,10.8,0,,750,1580,basique
+apple,Apple iPhone XR2,717.54,haut,60.0,0.08361903169161301,0.644948117794566,bon,False,bionic,6,2.25,3060,faible,1,,4,64,6.1,60,2,1.0,ios,12.0,7.0,0,,828,1792,basique
+asus,Asus ROG Phone 5s 5G,398.63,milieu,87.0,0.21824749767955248,0.6466823295620556,bon,True,snapdragon,8,2.9,6000,haute,1,65.0,8,128,6.78,144,3,1.0,android,64.0,24.0,0,,1080,2448,haut performance
+asus,Asus ROG Phone 6,717.54,haut,86.0,0.11985394542464532,0.9605492189614475,excellent,True,snapdragon,8,3.2,6000,haute,1,65.0,12,256,6.78,165,3,1.0,android,50.0,12.0,0,,1080,2448,haut performance
+asus,Asus ROG Phone 6 Batman Edition,727.51,haut,88.0,0.12096053662492612,0.9701874756970177,excellent,True,dimensity,8,3.2,6000,haute,1,65.0,16,256,6.78,165,3,1.0,android,50.0,12.0,0,,1080,2448,haut performance
+asus,Asus ROG Phone 6 Pro 5G,896.93,haut,88.0,0.0981124502469535,0.7711837945078823,bon,True,snapdragon,8,3.2,6000,haute,1,65.0,18,512,6.78,165,3,1.0,android,50.0,12.0,0,,1080,2448,haut performance
+asus,Asus ROG Phone 6D Ultimate,1076.23,haut,87.0,0.0808377391449783,0.6207234433037596,bon,True,dimensity,8,3.2,6000,haute,1,65.0,16,512,6.78,165,3,1.0,,50.0,12.0,0,,1080,2448,haut performance
+asus,Asus ROG Phone 7,757.32,haut,87.0,0.11487878307716684,0.9172162410794876,excellent,True,snapdragon,8,3.2,6000,haute,1,120.0,18,256,6.8,165,3,1.0,android,64.0,32.0,0,,1080,2448,haut performance
+asus,Asus ZenFone 9,637.72,milieu,86.0,0.13485542244245122,0.18924498612498364,faible,True,snapdragon,8,3.2,4300,moyenne,1,30.0,8,128,5.9,120,2,1.0,android,50.0,12.0,0,,1080,2400,haut performance
+blackview,Blackview BV5200 Pro,89.59,bas,67.0,0.7478513226922647,0.33929291483704577,excellent,True,helio,8,2.3,5180,haute,1,10.0,4,64,6.1,60,2,1.0,android,13.0,8.0,1,,720,1560,basique
+blu,BLU F91 5G,149.39,bas,85.0,0.5689805207845238,0.22768110364433164,bon,True,dimensity,8,2.4,5000,haute,1,,8,128,6.8,60,4,1.0,android,48.0,16.0,1,,1080,2460,performance intermédiaire
+cat,CAT S22 Flip,149.48,bas,,,,faible,False,snapdragon,4,1.3,2000,faible,0,,2,16,4.0,60,1,1.0,,5.0,2.0,0,,480,640,basique
+cola,Cola Phone,149.48,bas,74.0,0.4950495049504951,0.18154962498741137,moyen,False,helio,8,2.2,5000,haute,1,33.0,4,64,6.4,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,basique
+doogee,Doogee S99,149.48,bas,84.0,0.561948086700562,0.22329300510151193,bon,False,helio,8,2.5,6000,haute,1,33.0,8,128,6.3,60,3,1.0,android,108.0,32.0,1,1024.0,1080,2340,performance intermédiaire
+doogee,Doogee V Max,458.43,milieu,88.0,0.1919595139934123,0.5024827112228412,bon,True,dimensity,8,2.6,22000,haute,1,33.0,12,256,6.58,120,3,1.0,android,108.0,32.0,1,2048.0,1080,2408,haut performance
+duoqin,Duoqin F22 Pro,99.56,bas,,,,faible,False,helio,8,2.0,2150,faible,0,,4,64,3.54,60,1,1.0,android,8.0,2.0,1,,640,960,basique
+gionee,Gionee G13 Pro,61.69,bas,67.0,1.0860755389852488,0.5503380768594481,excellent,False,tiger,4,2.0,3500,moyenne,0,,4,32,6.26,60,2,1.0,other,13.0,5.0,1,,720,1600,basique
+gionee,Gionee K10,69.75,bas,67.0,0.9605734767025089,0.4720272942699997,excellent,False,tiger,4,2.0,4800,haute,0,,3,32,6.8,60,1,1.0,android,13.0,5.0,1,,720,1600,basique
+gionee,Gionee M12 Pro,74.74,bas,67.0,0.8964409954508965,0.4320099056720148,excellent,False,helio,8,1.99,4000,moyenne,0,,6,128,6.2,60,1,1.0,android,16.0,13.0,1,256.0,720,1520,basique
+google,Google Pixel 2 XL,159.36,bas,69.0,0.4329819277108433,0.14282069528968291,moyen,False,snapdragon,8,2.35,3520,moyenne,1,,4,128,6.0,60,1,1.0,android,12.2,8.0,0,,1440,2880,basique
+google,Google Pixel 3a XL,159.45,bas,67.0,0.4201944183129508,0.13484154458805647,moyen,False,snapdragon,8,2.0,3700,moyenne,1,18.0,4,64,6.0,60,1,1.0,android,12.2,8.0,0,,1080,2160,basique
+google,Google Pixel 4,200.52,bas,78.0,0.38898862956313585,0.11536975509017901,moyen,False,snapdragon,8,2.8,2800,faible,1,,6,64,5.7,60,2,2.0,android,16.0,8.0,0,,1080,2280,basique
+google,Google Pixel 5,358.78,milieu,82.0,0.2285523161826189,0.7032081899299806,excellent,True,snapdragon,8,2.4,4080,moyenne,1,18.0,8,128,6.0,90,2,1.0,android,16.0,8.0,0,,1080,2340,performance intermédiaire
+google,Google Pixel 5A,328.87,milieu,78.0,0.23717578374433668,0.7505111990160639,excellent,True,snapdragon,8,2.4,4620,haute,1,18.0,6,128,6.34,60,2,1.0,android,16.0,8.0,0,,1080,2400,performance intermédiaire
+google,Google Pixel 6,403.42,milieu,84.0,0.20821972138218234,0.5916761513729626,bon,True,google,8,2.8,4614,haute,1,30.0,8,128,6.4,90,2,1.0,android,50.0,8.0,0,,1080,2400,haut performance
+google,Google Pixel 6 Pro,541.15,milieu,89.0,0.16446456620160768,0.35166243435523226,moyen,True,google,8,2.8,5003,haute,1,30.0,12,128,6.71,120,3,1.0,android,50.0,11.1,0,,1440,3120,haut performance
+google,Google Pixel 6 Pro (12GB RAM + 256GB),794.29,haut,78.0,0.09820090898790115,0.7719542579414813,bon,True,google,8,2.8,5003,haute,1,30.0,12,256,6.71,120,3,1.0,android,50.0,11.1,0,,1440,3120,haut performance
+google,Google Pixel 6A,298.97,bas,71.0,0.23748202160751913,0.020832654896975028,faible,True,google,8,2.8,4410,moyenne,1,,6,128,6.14,60,2,1.0,android,12.2,8.0,0,,1080,2400,performance intermédiaire
+google,Google Pixel 7 5G,529.19,milieu,86.0,0.1625125191330146,0.3409547115556433,moyen,True,google,8,2.85,4355,moyenne,1,30.0,8,128,6.3,90,2,1.0,android,50.0,10.8,0,,1080,2400,haut performance
+google,Google Pixel 7 Pro 5G,817.2,haut,78.0,0.09544787077826725,0.7479756748291695,bon,True,google,8,2.85,5000,haute,1,30.0,12,128,6.7,120,3,1.0,android,50.0,10.8,0,,1440,3120,haut performance
+google,Google Pixel 7A,348.71,milieu,69.0,0.19787215738005795,0.534915815636996,bon,True,google,8,2.85,4410,moyenne,1,,6,128,6.1,90,2,1.0,android,12.2,8.0,0,,1080,2400,performance intermédiaire
+google,Google Pixel 8,538.06,milieu,75.0,0.1393896591458202,0.21411700407401274,faible,True,google,8,3.0,4830,haute,1,67.0,8,128,6.6,120,2,1.0,android,50.0,10.1,0,,1080,2400,haut performance
+google,Google Pixel 8 Pro,707.49,haut,80.0,0.11307580319156454,0.9015125349393212,excellent,True,google,8,3.0,5000,haute,1,67.0,12,256,6.73,120,3,1.0,android,50.0,12.0,0,,1440,3120,haut performance
+honor,Honor 50,328.78,milieu,85.0,0.25853154084798347,0.8676556731019344,excellent,True,snapdragon,8,2.4,4300,moyenne,1,66.0,6,128,6.57,120,4,1.0,android,108.0,32.0,0,,1080,2340,performance intermédiaire
+honor,Honor 60 SE 5G,249.05,bas,75.0,0.3011443485243927,0.06055667657156803,faible,True,dimensity,8,2.0,4300,moyenne,1,66.0,8,128,6.67,120,3,1.0,android,64.0,16.0,0,,1080,2340,performance intermédiaire
+honor,Honor 70 5G,398.54,milieu,88.0,0.2208059416871581,0.6607163708884541,bon,True,snapdragon,8,2.5,4800,haute,1,66.0,12,512,6.67,120,3,1.0,android,54.0,32.0,0,,1080,2400,haut performance
+honor,Honor 70 5G (8GB RAM + 256GB),308.85,milieu,86.0,0.27845232313420754,0.9769287629283936,excellent,True,snapdragon,8,2.5,4800,haute,1,66.0,8,256,6.67,120,3,1.0,android,54.0,32.0,0,,1080,2400,haut performance
+honor,Honor 80 Pro Plus,548.03,milieu,76.0,0.138678539496013,0.21021624153094345,faible,True,snapdragon,8,3.0,4500,haute,1,100.0,12,256,6.78,120,3,1.0,android,200.0,50.0,0,,1200,2652,haut performance
+honor,Honor Magic 4 Pro Plus 5G,946.67,haut,76.0,0.08028140745983289,0.6158778710543118,bon,True,snapdragon,8,3.0,4600,haute,1,120.0,12,512,6.76,120,4,2.0,android,50.0,13.0,0,,1344,2772,haut performance
+honor,Honor Play 30,99.65,bas,68.0,0.6823883592574008,0.2984453319052259,bon,True,snapdragon,8,2.2,5000,haute,0,,4,128,6.5,60,1,1.0,android,13.0,5.0,1,,720,1600,basique
+honor,Honor X6,139.51,bas,71.0,0.5089240914629776,0.19020709011694606,moyen,False,helio,8,2.0,5000,haute,1,10.0,4,64,6.5,60,3,1.0,android,50.0,5.0,1,,720,1600,basique
+honor,Honor X7a,139.51,bas,75.0,0.5375958712637088,0.20809770859434773,bon,False,helio,8,2.3,5000,haute,1,22.0,6,128,6.75,90,4,1.0,android,50.0,8.0,1,,720,1600,basique
+honor,Honor X8,169.41,bas,76.0,0.44861578419219644,0.15257590977522417,moyen,False,snapdragon,8,2.4,4000,moyenne,1,22.0,6,128,6.7,90,4,1.0,android,64.0,16.0,0,,1080,2388,performance intermédiaire
+honor,Honor X8 5G,149.39,bas,75.0,0.5020416359863445,0.1859125752324182,moyen,True,snapdragon,8,2.2,5000,haute,1,22.0,6,128,6.5,60,3,1.0,android,48.0,8.0,1,1024.0,720,1600,basique
+honor,Honor X9 5G,169.41,bas,80.0,0.47222714125494364,0.16730892544007456,moyen,True,snapdragon,8,2.2,4800,haute,1,66.0,8,128,6.81,60,3,1.0,android,48.0,16.0,0,,1080,2388,performance intermédiaire
+honor,Honor X9a,279.04,bas,81.0,0.29028096330275227,0.053778140961844356,faible,True,snapdragon,8,2.2,5100,haute,1,40.0,8,256,6.67,120,3,1.0,android,64.0,16.0,0,,1080,2400,performance intermédiaire
+huawei,Huawei Honor 9N,109.12,bas,66.0,0.6048387096774194,0.25005589799724576,bon,False,kirin,8,2.36,3000,faible,0,,4,64,5.84,60,2,1.0,android,13.0,16.0,1,256.0,1080,2280,basique
+huawei,Huawei Mate 30 RS Porsche Design,2142.59,haut,82.0,0.038271437839250626,0.24997682959118706,faible,True,kirin,8,2.86,4500,haute,1,,12,512,6.53,60,4,2.0,android,40.0,32.0,1,256.0,1176,2400,haut performance
+huawei,Huawei Mate 40 Pro 4G,697.52,milieu,82.0,0.11755935313682762,0.09436944822077838,faible,False,kirin,8,3.13,4400,moyenne,1,66.0,8,128,6.76,90,3,2.0,other,50.0,13.0,1,256.0,1344,2772,performance intermédiaire
+huawei,Huawei Mate 50 Pro 5G,996.5,haut,85.0,0.08529854490717512,0.659576446266962,bon,True,kirin,8,3.13,4500,haute,1,66.0,8,256,6.76,120,3,1.0,other,64.0,13.0,0,,1440,3200,haut performance
+huawei,Huawei Mate 50 RS Porsche Design,2391.83,haut,81.0,0.03386528306777656,0.21159982921982298,faible,False,snapdragon,8,3.2,4700,haute,1,66.0,12,512,6.74,120,3,1.0,other,50.0,13.0,1,256.0,1212,2616,haut performance
+huawei,Huawei Mate X,1684.25,haut,82.0,0.048686358913462964,0.3406893557422051,faible,True,kirin,8,2.86,4500,haute,1,55.0,8,512,8.0,60,4,,,48.0,,0,,2200,2480,haut performance
+huawei,Huawei Mate Xs 2,1624.36,haut,89.0,0.05479080991898348,0.3938582820864469,faible,False,snapdragon,8,2.84,4600,haute,1,66.0,8,512,7.8,120,3,1.0,,50.0,10.7,0,,2200,2480,haut performance
+huawei,Huawei Nova 10,298.88,bas,82.0,0.2743576017130621,0.04384228106550148,faible,False,snapdragon,8,2.4,4000,moyenne,1,66.0,8,128,6.67,120,3,1.0,other,50.0,60.0,0,,1080,2400,performance intermédiaire
+huawei,Huawei Nova 10 SE,239.17,bas,84.0,0.3512146172178785,0.0917995251314366,faible,False,snapdragon,8,2.4,4500,haute,1,66.0,8,256,6.67,90,3,1.0,android,108.0,16.0,1,,1080,2160,performance intermédiaire
+huawei,Huawei Nova 7i,219.15,bas,81.0,0.36960985626283366,0.10327778723588757,moyen,False,kirin,8,2.2,4200,moyenne,1,40.0,8,128,6.4,60,4,1.0,android,48.0,16.0,1,256.0,1080,2340,basique
+huawei,Huawei Nova 9,298.88,bas,83.0,0.277703426124197,0.04593000873528726,faible,False,snapdragon,8,2.4,4300,moyenne,1,66.0,8,128,6.57,120,4,1.0,other,50.0,32.0,0,,1080,2340,performance intermédiaire
+huawei,Huawei Nova 9 SE,199.22,bas,84.0,0.42164441321152496,0.13574631247148963,moyen,False,snapdragon,8,2.4,4000,moyenne,1,66.0,8,128,6.78,90,4,1.0,android,108.0,16.0,1,,1080,2388,performance intermédiaire
+huawei,Huawei Nova Y61,219.15,bas,63.0,0.2874743326488706,0.052026859437483024,faible,False,kirin,8,2.2,5000,haute,1,22.0,4,64,6.52,60,3,1.0,other,50.0,5.0,1,,720,1600,basique
+huawei,Huawei Nova Y90,229.12,bas,82.0,0.357891061452514,0.09596549311171752,faible,False,snapdragon,8,2.4,5000,haute,1,40.0,8,128,6.7,90,4,1.0,other,50.0,8.0,1,,1080,2388,performance intermédiaire
+huawei,Huawei P40 Pro,827.08,haut,82.0,0.09914397639889733,0.7801682450252608,bon,True,kirin,8,2.86,4200,moyenne,1,40.0,8,256,6.58,90,4,2.0,android,50.0,32.0,1,256.0,1200,2640,haut performance
+huawei,Huawei P50 Pro 4G,607.92,milieu,82.0,0.13488616923279378,0.18941364399869084,faible,False,snapdragon,8,2.84,4360,moyenne,1,66.0,8,256,6.6,120,4,1.0,other,50.0,13.0,1,256.0,1288,2700,haut performance
+ikall,iKall Z18,67.76,bas,61.0,0.9002361275088547,0.43437799234790914,excellent,False,,4,1.3,5000,haute,0,,4,64,6.82,60,1,1.0,android,20.0,13.0,1,64.0,720,1560,basique
+ikall,iKall Z19,79.72,bas,61.0,0.7651781234320121,0.35010449275872313,excellent,False,,4,1.6,5000,haute,0,,4,32,6.5,60,1,1.0,android,20.0,13.0,1,128.0,720,1600,basique
+ikall,iKall Z19 Pro,80.71,bas,60.0,0.7434023045471442,0.3365168162904407,excellent,False,,4,1.6,5000,haute,0,,4,64,6.5,60,1,1.0,android,13.0,8.0,1,128.0,720,1600,basique
+infinix,Infinix Hot 11S,96.57,bas,71.0,0.735217976597287,0.3314099589602552,excellent,False,helio,8,2.0,5000,haute,0,,4,64,6.78,90,3,1.0,android,50.0,8.0,1,256.0,1080,2480,basique
+infinix,Infinix Hot 12,99.65,bas,72.0,0.7225288509784245,0.3234921977735882,excellent,False,helio,8,2.3,6000,haute,1,18.0,4,64,6.82,90,3,1.0,android,50.0,8.0,1,512.0,720,1640,basique
+infinix,Infinix Hot 12 Play,88.8,bas,66.0,0.7432432432432433,0.3364175652107245,excellent,False,tiger,8,1.82,6000,haute,1,18.0,4,64,6.82,90,2,1.0,android,13.0,8.0,1,256.0,1640,720,basique
+infinix,Infinix Hot 12 Pro,108.13,bas,74.0,0.6843614168130954,0.2996764804494814,bon,False,tiger,8,2.0,5000,haute,1,18.0,6,64,6.6,90,2,1.0,android,50.0,8.0,1,256.0,720,1612,basique
+infinix,Infinix Hot 12 Pro (8GB RAM+ 128GB),122.98,bas,76.0,0.6179866644982924,0.2582599594504645,bon,False,tiger,8,2.0,5000,haute,1,18.0,8,128,6.6,90,2,1.0,android,50.0,8.0,1,256.0,720,1612,performance intermédiaire
+infinix,Infinix Hot 20,179.38,bas,75.0,0.41810681235366265,0.1335389201256636,moyen,True,dimensity,8,2.4,5000,haute,1,18.0,4,64,6.6,120,2,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+infinix,Infinix Hot 20 (6GB RAM+ 128GB),199.31,bas,78.0,0.39135015804525614,0.11684330174095421,moyen,True,dimensity,8,2.4,5000,haute,1,18.0,6,128,6.6,120,2,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+infinix,Infinix Hot 20 Play,89.68,bas,67.0,0.747100802854594,0.3388246054342529,excellent,False,helio,8,2.3,6000,haute,1,18.0,4,64,6.82,90,2,1.0,android,13.0,8.0,1,256.0,720,1640,basique
+infinix,Infinix Hot 20i,99.65,bas,64.0,0.6422478675363773,0.27339846603686363,bon,False,helio,8,2.0,5000,haute,0,,3,64,6.6,60,2,1.0,android,13.0,8.0,1,,720,1612,basique
+infinix,Infinix Hot 20S,129.55,bas,77.0,0.5943651099961405,0.24352058078690578,bon,False,helio,8,2.5,5000,haute,1,18.0,8,128,6.78,60,2,1.0,android,50.0,8.0,1,,1080,2460,performance intermédiaire
+infinix,Infinix Note 11 (6GB RAM + 128GB),127.55,bas,77.0,0.6036848294786359,0.24933589977779316,bon,False,helio,8,2.0,5000,haute,1,33.0,6,128,6.7,60,3,1.0,android,50.0,16.0,1,,1080,2400,basique
+infinix,Infinix Note 11S (8GB RAM + 128GB),159.45,bas,79.0,0.495453120100345,0.18180147278715905,moyen,False,helio,8,2.5,5000,haute,1,33.0,8,128,6.95,120,3,1.0,android,50.0,16.0,1,2048.0,1080,2460,performance intermédiaire
+infinix,Infinix Note 12,116.6,bas,74.0,0.6346483704974272,0.26865653152533625,bon,False,helio,8,2.0,5000,haute,1,33.0,4,64,6.7,60,3,1.0,android,50.0,16.0,1,512.0,2400,1080,basique
+infinix,Infinix Note 12 (6GB RAM + 128GB),129.55,bas,77.0,0.5943651099961405,0.24352058078690578,bon,False,helio,8,2.0,5000,haute,1,33.0,6,128,6.7,60,3,1.0,android,50.0,16.0,1,512.0,2400,1080,basique
+infinix,Infinix Note 12 (G96),169.41,bas,79.0,0.46632430198925684,0.16362567152386195,moyen,False,helio,8,2.5,5000,haute,1,33.0,8,128,6.7,60,3,1.0,android,50.0,16.0,1,,1080,2400,performance intermédiaire
+infinix,Infinix Note 12 5G,159.45,bas,78.0,0.48918156161806214,0.17788814543723383,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,6,64,6.7,60,3,1.0,android,50.0,16.0,1,2048.0,1080,2400,performance intermédiaire
+infinix,Infinix Note 12 Pro,168.43,bas,83.0,0.49278632072671136,0.18013744319147149,moyen,False,helio,8,2.2,5000,haute,1,33.0,8,256,6.7,60,3,1.0,android,108.0,16.0,1,2048.0,1080,2400,performance intermédiaire
+infinix,Infinix Note 12 Pro 5G,189.34,bas,84.0,0.44364635048061685,0.14947508229954923,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,8,128,6.7,60,3,1.0,android,108.0,16.0,1,2048.0,1080,2400,performance intermédiaire
+infinix,Infinix Note 12 Turbo,149.48,bas,79.0,0.5284987958255285,0.20242131504446165,bon,False,helio,8,2.0,5000,haute,1,33.0,8,128,6.7,60,3,1.0,android,50.0,16.0,1,512.0,2400,1080,basique
+infinix,Infinix Note 12 VIP,199.31,bas,84.0,0.42145401635642965,0.13562750863309936,moyen,False,helio,8,2.5,4500,haute,1,120.0,8,128,6.7,120,3,1.0,android,108.0,16.0,1,256.0,1080,2400,performance intermédiaire
+infinix,Infinix Note 12i (2022),99.65,bas,73.0,0.7325639739086803,0.32975391424067874,excellent,False,helio,8,2.0,5000,haute,1,33.0,4,64,6.7,60,3,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+infinix,Infinix Note 13 Pro,169.41,bas,80.0,0.47222714125494364,0.16730892544007456,moyen,False,helio,8,2.2,5000,haute,1,120.0,6,128,6.91,60,4,1.0,android,108.0,16.0,1,256.0,1080,2460,performance intermédiaire
+infinix,Infinix Smart 6,72.95,bas,60.0,0.822481151473612,0.3858604388289412,excellent,False,helio,4,2.0,5000,haute,0,,2,64,6.6,60,2,1.0,android,8.0,5.0,1,512.0,720,1600,basique
+infinix,Infinix Smart 6 HD,69.75,bas,77.0,1.103942652329749,0.5614867990650643,excellent,False,helio,4,2.0,5000,haute,0,,2,32,6.6,60,2,1.0,android,8.0,5.0,1,512.0,720,1600,basique
+infinix,Infinix Smart 6 Plus,82.71,bas,63.0,0.7616974972796519,0.34793265149225405,excellent,False,helio,8,2.0,5000,haute,0,,3,64,6.82,60,2,1.0,android,8.0,5.0,1,512.0,720,1600,basique
+infinix,Infinix Zero 20,179.38,bas,87.0,0.48500390233024865,0.175281369402879,moyen,False,helio,8,2.2,4500,haute,1,45.0,8,128,6.7,90,3,1.0,android,108.0,60.0,1,2048.0,1080,2400,performance intermédiaire
+infinix,Infinix Zero 5G 2023,194.33,bas,85.0,0.4374002984613801,0.14557767047360745,moyen,True,dimensity,8,2.6,5000,haute,1,33.0,8,256,6.78,120,3,1.0,android,50.0,16.0,1,256.0,1080,2460,haut performance
+infinix,Infinix Zero Ultra,368.73,milieu,89.0,0.2413690234046592,0.7735127181071673,excellent,True,dimensity,8,2.5,4500,haute,1,180.0,8,256,6.8,120,3,1.0,android,200.0,32.0,1,,1080,2400,haut performance
+infinix,Infinix Zero X Pro,219.15,bas,85.0,0.3878621948437143,0.11466688230219968,moyen,True,helio,8,2.5,4500,haute,1,45.0,8,128,6.67,120,3,1.0,android,108.0,16.0,1,512.0,1080,2400,haut performance
+iqoo,iQOO 11 (16GB RAM + 256GB),647.78,milieu,89.0,0.13739232455463274,0.20316086193760421,faible,True,snapdragon,8,3.2,5000,haute,1,120.0,16,256,6.78,144,3,1.0,android,50.0,16.0,0,,1440,3200,haut performance
+iqoo,iQOO 11 5G,597.95,milieu,88.0,0.1471694957772389,0.2567923756957431,faible,True,snapdragon,8,3.2,5000,haute,1,120.0,8,256,6.78,144,3,1.0,android,50.0,16.0,0,,1440,3200,haut performance
+iqoo,iQOO 11 Pro 5G,587.89,milieu,89.0,0.1513888652639099,0.2799372268518578,faible,True,snapdragon,8,3.2,4700,haute,1,200.0,8,256,6.78,144,3,1.0,android,50.0,16.0,0,,1440,3200,haut performance
+iqoo,iQOO 7,249.05,bas,83.0,0.33326641236699456,0.08060020344394145,faible,True,snapdragon,8,3.2,4400,moyenne,1,66.0,8,128,6.62,120,3,1.0,android,48.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO 7 (12GB RAM + 256GB),358.68,milieu,85.0,0.23698003791680605,0.7494374584828069,excellent,True,snapdragon,8,3.2,4400,moyenne,1,66.0,12,256,6.62,120,3,1.0,android,48.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO 7 Legend,398.54,milieu,84.0,0.21076930797410548,0.6056616063955907,bon,True,snapdragon,8,2.84,4000,moyenne,1,66.0,8,128,6.62,120,3,1.0,android,48.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO 9 5G,348.71,milieu,84.0,0.24088784376702704,0.7708732642438517,excellent,True,snapdragon,8,2.9,4350,moyenne,1,120.0,8,128,6.56,120,3,1.0,android,48.0,16.0,0,,1080,2376,haut performance
+iqoo,iQOO 9 5G (12GB RAM + 256GB),398.54,milieu,85.0,0.21327846640236864,0.6194252975188066,bon,True,snapdragon,8,2.9,4350,moyenne,1,120.0,12,256,6.56,120,3,1.0,android,48.0,16.0,0,,1080,2376,haut performance
+iqoo,iQOO 9 Pro 5G,597.86,milieu,88.0,0.14719165021911484,0.25691390126047153,faible,True,snapdragon,8,3.0,4700,haute,1,120.0,8,256,6.78,120,3,1.0,android,50.0,16.0,0,,1440,3200,haut performance
+iqoo,iQOO 9 SE 5G,308.85,milieu,83.0,0.2687388700016189,0.9236467671999191,excellent,True,snapdragon,8,2.84,4500,haute,1,66.0,8,128,6.62,120,3,1.0,android,48.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO 9 SE 5G (12GB RAM + 256GB),348.3,milieu,85.0,0.2440424921045076,0.7881777137478647,excellent,True,snapdragon,8,2.84,4500,haute,1,66.0,12,256,6.62,120,3,1.0,android,48.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO 9T 5G,478.27,milieu,85.0,0.17772387981683987,0.4243948274358202,moyen,True,snapdragon,8,3.2,4700,haute,1,120.0,8,128,6.78,120,3,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO Neo 6 5G,289.0,bas,82.0,0.2837370242214533,0.049694853553230375,faible,True,snapdragon,8,3.2,4700,haute,1,80.0,8,128,6.62,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO Neo 6 5G (12GB RAM + 256GB),336.34,milieu,84.0,0.24974727953856218,0.8194706489732747,excellent,True,snapdragon,8,3.2,4700,haute,1,80.0,12,256,6.62,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO Neo 6 SE 5G,229.12,bas,83.0,0.36225558659217877,0.09868886970889618,faible,True,snapdragon,8,3.2,4700,haute,1,80.0,8,128,6.62,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO Neo 7 5G,298.97,bas,82.0,0.27427501087065587,0.04379074602786215,faible,True,dimensity,8,3.1,5000,haute,1,120.0,8,128,6.78,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO Neo 7 Racing Edition,328.78,milieu,84.0,0.25548999330859545,0.8509716246189172,excellent,True,snapdragon,8,3.2,5000,haute,1,120.0,8,256,6.78,120,3,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO Neo 7 SE 5G,249.05,bas,83.0,0.33326641236699456,0.08060020344394145,faible,True,dimensity,8,3.1,5000,haute,1,120.0,8,128,6.78,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+iqoo,iQOO Z6 4G,144.4,bas,77.0,0.5332409972299169,0.20538035409465508,bon,False,snapdragon,8,2.4,5000,haute,1,44.0,4,128,6.44,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+iqoo,iQOO Z6 4G (6GB RAM + 128GB),159.45,bas,80.0,0.5017246785826278,0.18571480013708425,moyen,False,snapdragon,8,2.4,5000,haute,1,44.0,6,128,6.44,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+iqoo,iQOO Z6 5G,154.46,bas,78.0,0.5049851094134403,0.187749243916697,moyen,True,snapdragon,8,2.2,5000,haute,1,18.0,4,128,6.58,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+iqoo,iQOO Z6 5G (6GB RAM + 128GB),168.82,bas,80.0,0.47387750266556095,0.16833871802889835,moyen,True,snapdragon,8,2.2,5000,haute,1,18.0,6,128,6.58,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+iqoo,iQOO Z6 5G (8GB RAM + 128GB),184.35,bas,82.0,0.44480607540005423,0.150198727508064,moyen,True,snapdragon,8,2.2,5000,haute,1,18.0,8,128,6.58,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+iqoo,iQOO Z6 Lite (6GB RAM + 128GB),154.46,bas,79.0,0.5114592774828435,0.19178899560610257,moyen,True,snapdragon,8,2.0,5000,haute,1,18.0,6,128,6.58,120,2,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+iqoo,iQOO Z6 Lite 5G,139.41,bas,75.0,0.5379814934366258,0.20833832913552214,bon,True,snapdragon,8,2.0,5000,haute,1,18.0,4,64,6.58,120,2,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+iqoo,iQOO Z6 Pro 5G,217.14,bas,78.0,0.3592152528322741,0.09679176210970099,faible,True,snapdragon,8,2.4,4700,haute,1,66.0,6,128,6.44,90,3,1.0,android,64.0,16.0,0,,1080,2404,performance intermédiaire
+iqoo,iQOO Z6 Pro 5G (12GB RAM + 256GB),279.04,bas,82.0,0.2938646788990825,0.05601430798429838,faible,True,snapdragon,8,2.4,4700,haute,1,66.0,12,256,6.44,90,3,1.0,android,64.0,16.0,0,,1080,2404,haut performance
+iqoo,iQOO Z6 Pro 5G (8GB RAM + 128GB),233.19,bas,80.0,0.34306788455765685,0.08671612651180519,faible,True,snapdragon,8,2.4,4700,haute,1,66.0,8,128,6.44,90,3,1.0,android,64.0,16.0,0,,1080,2404,performance intermédiaire
+iqoo,iQOO Z7 5G,179.38,bas,80.0,0.4459805998439068,0.15093160732450334,moyen,True,snapdragon,8,2.2,4200,moyenne,1,55.0,8,128,6.67,120,3,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+iqoo,iQOO Z7 Pro 5G,249.14,bas,80.0,0.3211045998233925,0.07301147509420317,faible,True,snapdragon,8,2.36,5000,haute,1,67.0,6,128,6.62,144,3,1.0,android,50.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+iqoo,iQOO Z8 5G,149.48,bas,78.0,0.5218089376505218,0.19824697703305158,moyen,True,snapdragon,8,2.2,5000,haute,1,18.0,4,128,6.58,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+iqoo,iQOO Z9,199.22,bas,76.0,0.38148780242947494,0.11068938863068746,moyen,True,snapdragon,8,2.8,5000,haute,1,45.0,8,128,6.67,120,3,1.0,android,64.0,16.0,1,1024.0,1080,2412,haut performance
+itel,Itel A23 Pro,39.85,bas,61.0,1.5307402760351316,0.8277999999142113,excellent,False,spreadtrum,4,1.4,2400,faible,0,,1,8,5.0,60,1,1.0,android,5.0,2.0,0,,854,480,basique
+itel,itel A23s,47.71,bas,61.0,1.2785579543072731,0.6704432632158003,excellent,False,spreadtrum,4,1.4,3020,faible,0,,2,32,5.0,60,1,,android,2.0,,0,,854,480,basique
+itel,Itel A24 Pro,59.7,bas,61.0,1.0217755443886096,0.510216163276737,excellent,False,unisoc,4,1.4,3020,faible,0,,2,32,5.0,60,1,1.0,android,2.0,0.3,1,,854,480,basique
+itel,itel A56,54.71,bas,61.0,1.114969840979711,0.5683675447455181,excellent,False,spreadtrum,4,1.3,4000,moyenne,0,,1,16,6.0,60,2,1.0,android,8.0,5.0,1,32.0,720,1600,basique
+itel,itel P36,64.68,bas,61.0,0.9431045145330859,0.46112701045290155,excellent,False,spreadtrum,4,1.3,5000,haute,0,,1,16,6.5,60,2,1.0,android,8.0,8.0,0,,1600,720,basique
+itel,itel S16,59.7,bas,61.0,1.0217755443886096,0.510216163276737,excellent,False,unisoc,4,1.3,4000,moyenne,0,,1,16,6.5,60,3,1.0,android,8.0,8.0,1,32.0,1600,720,basique
+itel,itel S16 Pro,69.66,bas,61.0,0.8756818834338215,0.419056634001811,excellent,False,unisoc,4,1.3,4000,moyenne,0,,2,32,6.6,60,3,1.0,android,8.0,8.0,1,32.0,1600,720,basique
+itel,itel Vision 1 (3GB RAM + 32GB),58.7,bas,61.0,1.039182282793867,0.5210776207066121,excellent,False,unisoc,8,1.6,4000,moyenne,0,,3,32,6.09,60,2,1.0,android,8.0,5.0,1,128.0,1520,720,basique
+itel,itel Vision 3,66.76,bas,61.0,0.91372079089275,0.4427921532257527,excellent,False,unisoc,8,1.6,5000,haute,1,18.0,3,64,6.6,60,2,1.0,android,8.0,5.0,1,128.0,1612,720,basique
+itel,itel Vision 3 (2GB RAM + 32GB),57.65,bas,61.0,1.0581092801387684,0.5328876893794955,excellent,False,unisoc,8,1.6,5000,haute,1,18.0,2,32,6.6,60,2,1.0,android,8.0,5.0,1,128.0,1612,720,basique
+jio,Jio JioPhone 5G,119.49,bas,64.0,0.5356096744497447,0.2068583614151135,bon,True,snapdragon,8,2.2,5000,haute,1,18.0,4,32,6.5,90,1,1.0,android,13.0,8.0,1,512.0,720,1600,basique
+jio,Jio JioPhone Next,46.33,bas,64.0,1.3813943449169006,0.7346111189532727,excellent,False,snapdragon,4,1.3,3500,moyenne,0,,2,32,5.45,60,1,1.0,android,13.0,8.0,1,512.0,720,1440,basique
+jio,Jio JioPhone Next (3GB RAM + 32GB),74.74,bas,64.0,0.8563018464008564,0.40696387760355446,excellent,False,snapdragon,4,1.3,3000,faible,0,,3,32,5.5,60,1,1.0,android,13.0,8.0,1,,720,1440,basique
+jio,Jio Phone 3,44.84,bas,64.0,1.4272970561998215,0.7632534948486162,excellent,False,qualcomm,4,1.4,2800,faible,0,,2,64,5.0,60,1,1.0,android,5.0,2.0,1,128.0,720,1280,basique
+lava,Lava Agni 5G,179.29,bas,84.0,0.46851469685983604,0.16499243421584492,moyen,True,dimensity,8,2.4,5000,haute,1,30.0,8,128,6.78,90,4,1.0,android,64.0,16.0,1,1024.0,1080,2460,performance intermédiaire
+lava,Lava Blaze 5G,109.62,bas,73.0,0.6659368728334245,0.2881799326505201,bon,True,dimensity,8,2.2,5000,haute,0,,4,128,6.5,90,3,1.0,android,50.0,8.0,1,1024.0,1600,720,basique
+lava,Lava Blaze NXT,89.68,bas,66.0,0.7359500446030329,0.33186675478811584,excellent,False,helio,8,2.3,5000,haute,0,,4,64,6.5,60,3,1.0,android,13.0,8.0,1,256.0,720,1600,basique
+lava,Lava X3,69.75,bas,73.0,1.0465949820788532,0.5257029971470385,excellent,False,helio,4,2.0,4000,moyenne,0,,3,32,6.5,60,2,1.0,android,8.0,5.0,1,512.0,1600,720,basique
+leeco,LeEco S1 Pro,109.62,bas,65.0,0.5929574895092137,0.24264225369079928,bon,False,tiger,4,1.8,5000,haute,1,10.0,8,128,6.5,60,2,1.0,android,13.0,5.0,0,,720,1600,basique
+leitz,Leitz Phone 2,1245.65,haut,89.0,0.07144864127162526,0.5389456957527137,moyen,True,snapdragon,8,3.0,5000,haute,1,,12,256,6.6,240,2,1.0,android,47.2,12.6,1,1024.0,1260,2730,haut performance
+lenovo,Lenovo Legion Pro 2,597.95,milieu,89.0,0.14884187641107116,0.2659660214190418,faible,True,snapdragon,8,2.84,5000,haute,1,120.0,16,512,6.5,144,2,1.0,android,64.0,20.0,0,,1080,2400,haut performance
+lenovo,Lenovo Legion Y90,468.3,milieu,87.0,0.18577834721332478,0.46857665356465794,moyen,True,snapdragon,8,3.0,5600,haute,1,68.0,12,256,6.92,144,2,1.0,android,64.0,16.0,0,,1080,2460,haut performance
+letv,Letv Y1 Pro,54.8,bas,60.0,1.094890510948905,0.5558384434703394,excellent,False,tiger,4,2.0,4000,moyenne,0,,4,32,6.54,60,2,1.0,android,8.0,5.0,0,,720,1560,basique
+letv,Letv Y1 Pro Plus,59.79,bas,60.0,1.0035122930255895,0.4988202588521241,excellent,False,tiger,4,1.8,4000,moyenne,1,10.0,6,64,6.5,60,2,1.0,android,8.0,5.0,0,,720,1560,basique
+letv,Letv Y2 Pro,69.75,bas,60.0,0.8602150537634409,0.4094056409134545,excellent,False,unisoc,8,1.8,4000,moyenne,0,,4,32,6.5,60,3,1.0,android,13.0,8.0,0,,720,1560,basique
+lg,LG V60 ThinQ,797.18,haut,87.0,0.10913469981685442,0.8671860680947997,excellent,True,snapdragon,8,2.84,5000,haute,1,,8,128,6.8,60,3,1.0,,64.0,10.0,0,,1080,2460,haut performance
+lg,LG Velvet 5G,548.12,milieu,85.0,0.1550755309056411,0.3001599942131377,moyen,True,snapdragon,8,2.4,4300,moyenne,1,25.0,6,128,6.8,60,3,1.0,android,48.0,16.0,1,,1080,2460,performance intermédiaire
+lg,LG Wing 5G,548.12,milieu,89.0,0.1623732029482595,0.3401905091386754,moyen,True,snapdragon,8,2.4,4000,moyenne,1,,8,128,6.8,60,3,1.0,,64.0,32.0,0,,1080,2460,performance intermédiaire
+lyf,Lyf Earth 1,39.76,bas,60.0,1.5090543259557345,0.8142683997872956,excellent,False,snapdragon,8,1.5,3500,moyenne,0,,3,32,5.5,60,2,1.0,android,13.0,5.0,1,64.0,1080,1920,basique
+lyf,Lyf Earth 2,38.77,bas,60.0,1.5475883415011606,0.8383128565777981,excellent,False,snapdragon,8,1.5,2500,faible,0,,3,32,5.0,60,1,1.0,android,13.0,13.0,1,64.0,1080,1920,basique
+micromax,Micromax IN 2B,69.75,bas,66.0,0.946236559139785,0.46308134379049326,excellent,False,unisoc,8,1.8,5000,haute,0,,4,64,6.52,60,2,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+micromax,Micromax IN 2B (6GB RAM + 64GB),77.64,bas,68.0,0.8758371973209685,0.419153546768249,excellent,False,unisoc,8,1.8,5000,haute,0,,6,64,6.52,60,2,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+micromax,Micromax IN 2C,59.79,bas,60.0,1.0035122930255895,0.4988202588521241,excellent,False,tiger,8,1.8,5000,haute,0,,3,32,6.52,60,1,1.0,android,8.0,5.0,1,256.0,720,1600,basique
+motorola,Motorola Edge 20 Fusion 5G,189.34,bas,87.0,0.45949086299778175,0.15936174194799504,moyen,True,dimensity,8,2.4,5000,haute,1,30.0,6,128,6.67,90,3,1.0,android,108.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+motorola,Motorola Edge 30 5G,229.21,bas,83.0,0.36211334584005933,0.09860011431785336,faible,True,snapdragon,8,2.5,4020,moyenne,1,33.0,6,128,6.5,144,3,1.0,android,50.0,32.0,0,,1080,2400,performance intermédiaire
+motorola,Motorola Edge 30 5G (8GB RAM + 128GB),249.14,bas,85.0,0.3411736373123545,0.08553415402864914,faible,True,snapdragon,8,2.5,4020,moyenne,1,33.0,8,128,6.5,144,3,1.0,android,50.0,32.0,0,,1080,2400,performance intermédiaire
+motorola,Motorola Edge 30 Fusion 5G,398.63,milieu,88.0,0.22075608960690365,0.6604429132116716,bon,True,snapdragon,8,2.9,4400,moyenne,1,68.0,8,128,6.55,144,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+motorola,Motorola Edge 30 Pro 5G,348.8,milieu,89.0,0.2551605504587156,0.8491645049179755,excellent,True,snapdragon,8,3.0,4800,haute,1,68.0,8,128,6.7,144,3,1.0,android,50.0,60.0,0,,1080,2400,haut performance
+motorola,Motorola Edge 30 Ultra,548.12,milieu,81.0,0.1477778588630227,0.26012947928759983,faible,True,snapdragon,8,3.2,4610,haute,1,125.0,8,128,6.67,144,3,1.0,android,200.0,60.0,0,,1080,2400,haut performance
+motorola,Motorola Edge 30 Ultra (12GB RAM + 256GB),597.95,milieu,81.0,0.13546283134041306,0.19257685563265228,faible,True,snapdragon,8,3.2,4610,haute,1,125.0,12,256,6.67,144,3,1.0,android,200.0,60.0,0,,1080,2400,haut performance
+motorola,Motorola Edge 40 5G,348.8,milieu,86.0,0.24655963302752293,0.8019851918998007,excellent,True,snapdragon,8,2.36,4200,moyenne,1,67.0,8,128,6.5,144,3,1.0,android,50.0,32.0,0,,1080,2412,performance intermédiaire
+motorola,Motorola Edge 40 Fusion,428.44,milieu,87.0,0.20306227243021194,0.5633855765096567,bon,True,snapdragon,8,3.2,4500,haute,1,68.0,8,128,6.67,144,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+motorola,Motorola Edge 40 Pro 5G,597.86,milieu,89.0,0.1488642826079684,0.2660889279560966,faible,True,snapdragon,8,3.2,4800,haute,1,125.0,8,128,6.7,165,3,1.0,android,50.0,60.0,0,,1080,2460,haut performance
+motorola,Motorola Edge Plus,578.02,milieu,89.0,0.1539739109373378,0.2941171884627695,faible,True,snapdragon,8,2.84,5000,haute,1,18.0,12,256,6.7,90,3,1.0,android,108.0,25.0,0,,1080,2340,haut performance
+motorola,Motorola Edge S,224.14,bas,87.0,0.38815026322833945,0.11484663122607354,moyen,True,snapdragon,8,3.2,5000,haute,1,20.0,6,128,6.7,90,4,2.0,android,64.0,16.0,1,,1080,2520,haut performance
+motorola,Motorola Moto E13,104.63,bas,65.0,0.6212367389849948,0.26028794107800357,bon,False,tiger,8,2.0,5000,haute,1,10.0,2,64,6.5,60,1,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+motorola,Motorola Moto E22s,89.91,bas,70.0,0.7785563341118897,0.3584522292734228,excellent,False,helio,8,2.3,5000,haute,1,10.0,4,64,6.5,90,2,1.0,android,16.0,8.0,1,,720,1600,basique
+motorola,Motorola Moto E32,89.68,bas,71.0,0.7917038358608385,0.3666560080188013,excellent,False,helio,8,2.3,5000,haute,1,10.0,4,64,6.5,90,2,1.0,android,50.0,8.0,1,1024.0,720,1600,basique
+motorola,Motorola Moto E32s,79.63,bas,65.0,0.8162752731382645,0.3819880945801185,excellent,False,helio,8,1.8,5000,haute,1,18.0,3,32,6.5,90,3,1.0,android,16.0,8.0,1,1024.0,720,1600,basique
+motorola,Motorola Moto E32s (4GB RAM + 64GB),88.29,bas,67.0,0.7588628383735417,0.3461638808977794,excellent,False,helio,8,1.8,5000,haute,1,18.0,4,64,6.5,90,3,1.0,android,16.0,8.0,1,,720,1600,basique
+motorola,Motorola Moto E40,79.72,bas,71.0,0.8906171600602107,0.4283759485973552,excellent,False,tiger,8,1.8,5000,haute,0,,4,64,6.5,90,3,1.0,android,48.0,8.0,1,1024.0,720,1600,basique
+motorola,Motorola Moto Edge 30 Neo,318.81,milieu,84.0,0.2634798155641291,0.8947988474900858,excellent,True,snapdragon,8,2.2,4020,moyenne,1,68.0,8,128,6.28,120,2,1.0,android,64.0,32.0,0,,1080,2400,performance intermédiaire
+motorola,Motorola Moto Edge S30 5G,239.08,bas,85.0,0.3555295298644805,0.09449194452291446,faible,True,snapdragon,8,2.9,5000,haute,1,33.0,6,128,6.8,144,3,1.0,android,108.0,16.0,0,,1080,2460,haut performance
+motorola,Motorola Moto Edge S30 Pro,348.71,milieu,83.0,0.23802013134122912,0.7551427676700614,excellent,True,snapdragon,8,3.0,5000,haute,1,68.0,8,128,6.67,120,3,1.0,android,64.0,16.0,0,,1080,2460,haut performance
+motorola,Motorola Moto Edge X30 Pro,597.86,milieu,81.0,0.1354832234971398,0.19268871439109547,faible,True,snapdragon,8,3.2,4450,moyenne,1,125.0,8,128,6.67,144,3,1.0,android,200.0,60.0,0,,1080,2340,haut performance
+motorola,Motorola Moto G 5G,199.22,bas,82.0,0.41160526051601243,0.12948208151128907,moyen,True,snapdragon,8,2.2,5000,haute,1,20.0,6,128,6.67,60,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,basique
+motorola,Motorola Moto G13,159.45,bas,75.0,0.4703668861712136,0.1661481633874582,moyen,False,helio,8,2.0,5000,haute,1,10.0,4,128,6.5,90,3,1.0,android,50.0,8.0,1,512.0,720,1600,basique
+motorola,Motorola Moto G22,94.67,bas,75.0,0.7922256258582444,0.3669815945653567,excellent,False,helio,8,2.3,5000,haute,1,20.0,4,64,6.53,90,4,1.0,android,50.0,16.0,1,1024.0,720,1600,basique
+motorola,Motorola Moto G23,199.31,bas,77.0,0.3863328483267272,0.11371260059226336,moyen,False,helio,8,2.0,5000,haute,1,30.0,4,128,6.5,90,3,1.0,android,50.0,16.0,1,512.0,720,1600,basique
+motorola,Motorola Moto G31,99.65,bas,75.0,0.7526342197691921,0.34227734717485986,excellent,False,helio,8,2.0,5000,haute,1,20.0,4,64,6.47,60,3,1.0,android,50.0,13.0,1,1024.0,1080,2400,basique
+motorola,Motorola Moto G31 (6GB RAM+ 128GB),119.58,bas,78.0,0.6522829904666332,0.2796601825039542,bon,False,helio,8,2.0,5000,haute,1,20.0,6,128,6.47,60,3,1.0,android,50.0,13.0,1,1024.0,1080,2400,basique
+motorola,Motorola Moto G32,104.63,bas,75.0,0.7168116219057632,0.3199247609141476,excellent,False,snapdragon,8,2.4,5000,haute,1,33.0,4,64,6.55,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+motorola,Motorola Moto G40 Fusion,144.5,bas,77.0,0.532871972318339,0.20515008991337366,bon,False,snapdragon,8,2.3,6000,haute,1,20.0,4,64,6.78,120,3,1.0,android,64.0,16.0,1,256.0,1080,2460,performance intermédiaire
+motorola,Motorola Moto G42,109.62,bas,78.0,0.7115489874110563,0.3166409820003456,excellent,False,snapdragon,8,2.4,5000,haute,1,20.0,4,64,6.47,60,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,basique
+motorola,Motorola Moto G51 5G,129.55,bas,77.0,0.5943651099961405,0.24352058078690578,bon,True,snapdragon,8,2.2,5000,haute,0,,4,64,6.8,120,3,1.0,android,50.0,13.0,1,512.0,1080,2400,performance intermédiaire
+motorola,Motorola Moto G52,119.58,bas,75.0,0.6271951831409935,0.2640058913362278,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,4,64,6.6,90,3,1.0,android,50.0,16.0,1,,2460,1080,performance intermédiaire
+motorola,Motorola Moto G52 (6GB RAM + 128GB),129.55,bas,79.0,0.609803164801235,0.25315361893349897,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,6,128,6.6,90,3,1.0,android,50.0,16.0,1,,2460,1080,performance intermédiaire
+motorola,Motorola Moto G52 5G,169.41,bas,76.0,0.44861578419219644,0.15257590977522417,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,4,64,6.6,90,3,1.0,android,50.0,16.0,1,,2460,1080,basique
+motorola,Motorola Moto G53,219.24,bas,79.0,0.36033570516329133,0.09749090200668893,faible,True,snapdragon,8,2.2,5000,haute,1,10.0,4,128,6.5,120,2,1.0,android,50.0,16.0,1,1024.0,720,1600,performance intermédiaire
+motorola,Motorola Moto G60,159.45,bas,84.0,0.5268109125117592,0.20136810953678508,bon,False,snapdragon,8,2.3,6000,haute,1,20.0,6,128,6.78,120,3,1.0,android,108.0,32.0,1,1024.0,1080,2460,performance intermédiaire
+motorola,Motorola Moto G62 (8GB RAM + 128GB),164.43,bas,84.0,0.5108556832694764,0.1914123648611133,moyen,True,snapdragon,8,2.2,5000,haute,1,,8,128,6.55,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+motorola,Motorola Moto G62 5G,149.48,bas,81.0,0.541878512175542,0.21076999106728178,bon,True,snapdragon,8,2.2,5000,haute,1,,6,128,6.55,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+motorola,Motorola Moto G71 5G,169.41,bas,80.0,0.47222714125494364,0.16730892544007456,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,6,128,6.4,60,3,1.0,android,50.0,16.0,0,,1080,2400,basique
+motorola,Motorola Moto G72,199.22,bas,81.0,0.4065856841682562,0.1263499660311888,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,6,128,6.5,120,3,1.0,android,108.0,16.0,0,,1080,2400,performance intermédiaire
+motorola,Motorola Moto G72 4G,159.45,bas,83.0,0.5205393540294764,0.19745478218685988,moyen,False,helio,8,2.2,5000,haute,1,33.0,6,128,6.55,120,3,1.0,android,108.0,16.0,1,,1080,2400,performance intermédiaire
+motorola,Motorola Moto G73,259.11,bas,85.0,0.32804600362780284,0.07734277255900592,faible,True,dimensity,8,2.2,5000,haute,1,30.0,8,256,6.5,120,2,1.0,android,50.0,16.0,1,,1080,2400,performance intermédiaire
+motorola,Motorola Moto G82 (8GB RAM + 128GB),204.29,bas,86.0,0.42097018943658526,0.13532561028942514,moyen,True,snapdragon,8,2.2,5000,haute,1,30.0,8,128,6.6,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+motorola,Motorola Moto G82 5G,189.34,bas,83.0,0.4383648463082286,0.14617952908340068,moyen,True,snapdragon,8,2.2,5000,haute,1,30.0,6,128,6.6,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+motorola,Motorola Moto G91 5G,199.22,bas,80.0,0.40156610782049995,0.12321785055108854,moyen,True,snapdragon,8,2.2,5000,haute,1,,6,128,6.8,60,3,1.0,android,108.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+motorola,Motorola Moto S30 Pro,239.08,bas,83.0,0.34716412916178685,0.08927210140809454,faible,True,snapdragon,8,2.9,4400,moyenne,1,68.0,8,128,6.55,144,3,1.0,android,50.0,32.0,0,,1080,2460,haut performance
+motorola,Motorola Moto X30 Pro,418.47,milieu,81.0,0.19356226252777975,0.5112743983186976,bon,True,snapdragon,8,3.2,4450,moyenne,1,125.0,8,128,6.67,144,3,1.0,android,200.0,60.0,0,,1080,2400,haut performance
+motorola,Motorola Moto X40,398.63,milieu,89.0,0.22326468153425483,0.6742034968612876,bon,True,snapdragon,8,3.2,4600,haute,1,125.0,8,128,6.7,165,3,1.0,android,50.0,60.0,0,,1080,2400,haut performance
+motorola,Motorola One Fusion Plus,194.33,bas,80.0,0.41167086914012246,0.12952301998357568,moyen,False,snapdragon,8,2.2,5000,haute,1,18.0,6,128,6.5,60,4,1.0,android,64.0,16.0,1,1024.0,1080,2340,performance intermédiaire
+motorola,Motorola One Macro,114.51,bas,68.0,0.5938345995982883,0.2431895528844794,bon,False,helio,8,2.0,4000,moyenne,1,10.0,4,64,6.2,60,3,1.0,android,13.0,8.0,1,512.0,720,1520,basique
+motorola,Motorola ThinkPhone,498.2,milieu,89.0,0.1786431152147732,0.42943718424524585,moyen,True,snapdragon,8,3.2,5000,haute,1,68.0,8,128,6.6,144,3,2.0,android,50.0,32.0,0,,1080,2400,haut performance
+nokia,Nokia C01 Plus,52.31,bas,75.5,1.443318677117186,0.7732506666047558,excellent,False,unisoc,8,1.6,3000,faible,0,,2,16,5.45,60,1,1.0,android,5.0,5.0,1,256.0,720,1440,basique
+nokia,Nokia C21 Plus (4GB RAM + 64GB),89.68,bas,64.0,0.7136485280999108,0.31795105349584163,excellent,False,unisoc,8,1.6,5050,haute,0,,4,64,6.52,60,2,1.0,android,13.0,5.0,1,,720,1600,basique
+nokia,Nokia C31,94.67,bas,62.0,0.6549065173761487,0.2812972109454931,bon,False,unisoc,8,1.6,5050,haute,1,10.0,3,32,6.74,60,3,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+nokia,Nokia G11 Plus,104.63,bas,70.0,0.669024180445379,0.2901063509960756,bon,False,unisoc,8,1.6,5000,haute,1,10.0,4,64,6.52,90,2,1.0,android,50.0,8.0,1,512.0,720,1600,basique
+nokia,Nokia G21,119.58,bas,71.0,0.5937447733734739,0.24313350311259257,bon,False,unisoc,8,1.6,5050,haute,1,18.0,4,64,6.5,90,3,1.0,android,50.0,8.0,1,512.0,720,1600,basique
+nokia,Nokia G21 (6GB RAM + 128GB),134.53,bas,75.0,0.5574964691890285,0.22051528460213315,bon,False,unisoc,8,1.6,5050,haute,1,18.0,6,128,6.5,90,3,1.0,android,50.0,8.0,1,512.0,720,1600,basique
+nokia,Nokia G60,284.01,bas,81.0,0.285201225308968,0.05060848581509137,faible,True,snapdragon,8,2.2,4500,haute,1,20.0,6,128,6.58,120,3,1.0,android,50.0,8.0,1,,1080,2400,performance intermédiaire
+nokia,Nokia N73 5G,468.39,milieu,75.5,0.1611904609406691,0.3337027180579844,moyen,True,snapdragon,8,3.0,6000,haute,1,65.0,12,256,6.9,120,1,1.0,android,200.0,32.0,1,,1400,3200,haut performance
+nokia,Nokia X100 5G,179.29,bas,82.0,0.4573595850298399,0.15803186702363592,moyen,True,snapdragon,8,2.0,4470,moyenne,1,18.0,6,128,6.67,60,4,1.0,android,48.0,16.0,1,1024.0,1080,2400,basique
+nokia,Nokia X30,418.47,milieu,85.0,0.20312089277606518,0.5637071314679933,bon,True,snapdragon,8,2.2,4200,moyenne,1,33.0,6,128,6.43,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+nokia,Nokia X50 5G,348.8,milieu,76.0,0.21788990825688073,0.6447208151725518,bon,True,snapdragon,8,2.4,6000,haute,1,33.0,6,64,6.81,60,4,1.0,android,108.0,32.0,1,,1080,2400,performance intermédiaire
+nokia,Nokia X60 5G,398.54,milieu,87.0,0.21829678325889496,0.6469526797652383,bon,True,snapdragon,8,3.2,6000,haute,1,33.0,6,128,6.51,144,4,1.0,other,200.0,16.0,1,,1080,2400,haut performance
+nokia,Nokia X60 Pro 5G,498.2,milieu,75.5,0.15154556403050984,0.28079677936100855,faible,True,snapdragon,8,3.2,6000,haute,1,44.0,8,128,6.51,144,4,1.0,android,200.0,32.0,1,,1080,2408,haut performance
+nothing,Nothing Phone 1,266.58,bas,85.0,0.31885362742891443,0.07160691323607452,faible,True,snapdragon,8,2.5,4500,haute,1,33.0,8,128,6.55,120,2,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+nothing,Nothing Phone 1 (12GB RAM + 256GB),358.77,milieu,87.0,0.24249519190567775,0.7796901819237679,excellent,True,snapdragon,8,2.5,4500,haute,1,33.0,12,256,6.55,120,2,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+nothing,Nothing Phone 1 (8GB RAM + 256GB),281.53,bas,86.0,0.3054736617767201,0.06325808165366806,faible,True,snapdragon,8,2.5,4500,haute,1,33.0,8,256,6.55,120,2,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+nothing,Nothing Phone 1 Lite,249.05,bas,80.0,0.32122063842601883,0.0730838808668014,faible,True,snapdragon,8,2.5,5000,haute,1,33.0,6,128,6.55,120,2,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+nothing,Nothing Phone 2,398.54,milieu,88.0,0.2208059416871581,0.6607163708884541,bon,True,snapdragon,8,3.2,4700,haute,1,66.0,8,128,6.67,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+nubia,Nubia Red Magic 6S 5G,448.46,milieu,84.0,0.18730767515497482,0.4769656007024219,moyen,True,snapdragon,8,2.9,5050,haute,1,30.0,8,128,6.8,165,3,1.0,android,64.0,8.0,0,,1080,2400,haut performance
+nubia,Nubia Red Magic 7S Pro,607.83,milieu,86.0,0.1414869289110442,0.22562132876130794,faible,True,snapdragon,8,3.2,5000,haute,1,135.0,12,256,6.8,120,3,1.0,android,64.0,8.0,0,,1080,2400,haut performance
+nubia,Nubia Red Magic 8 Pro 5G,468.3,milieu,84.0,0.17937219730941703,0.4334364776502028,moyen,True,snapdragon,8,3.2,6000,haute,1,80.0,8,128,6.8,120,3,1.0,android,50.0,16.0,0,,1116,2480,haut performance
+nubia,Nubia Red Magic 8 Pro Plus,607.92,milieu,86.0,0.1414659823661008,0.22550642897201925,faible,True,snapdragon,8,3.2,5000,haute,1,165.0,12,256,6.8,120,3,1.0,android,50.0,16.0,0,,1116,2480,haut performance
+nubia,Nubia Z40 Pro 5G,498.2,milieu,84.0,0.1686069851465275,0.37438518243626906,moyen,True,snapdragon,8,3.0,5000,haute,1,80.0,8,128,6.67,144,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+nubia,Nubia Z50,348.8,milieu,82.0,0.23509174311926606,0.7390794412089011,excellent,True,snapdragon,8,3.2,5000,haute,1,80.0,8,128,6.67,144,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+oneplus,OnePlus 10 Pro 5G,607.92,milieu,89.0,0.14640084221608107,0.25257601770201554,faible,True,snapdragon,8,3.0,5000,haute,1,80.0,8,128,6.7,120,3,1.0,android,50.0,32.0,0,,1440,3216,haut performance
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 256GB),652.76,milieu,84.0,0.12868435565904773,0.1553943308013595,faible,True,snapdragon,8,3.0,5000,haute,1,80.0,12,256,6.7,120,3,1.0,android,50.0,32.0,0,,1440,3216,haut performance
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 512GB),747.44,haut,84.0,0.11238360269720646,0.895483564100389,excellent,True,snapdragon,8,3.0,5000,haute,1,80.0,12,512,6.7,120,3,1.0,android,50.0,32.0,0,,1440,3216,haut performance
+oneplus,OnePlus 10R 5G,328.87,milieu,86.0,0.2615015051540122,0.8839470602438182,excellent,True,dimensity,8,2.85,5000,haute,1,80.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus 10R 5G (12GB RAM + 256GB),368.73,milieu,87.0,0.23594500040680172,0.7437598829147695,excellent,True,dimensity,8,2.85,5000,haute,1,80.0,12,256,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus 10R Prime Edition,352.69,milieu,85.0,0.2410048484504806,0.7715150795652298,excellent,True,dimensity,8,2.85,5000,haute,1,80.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus 10T,448.46,milieu,85.0,0.18953752843062927,0.4891971965197666,moyen,True,snapdragon,8,3.2,4800,haute,1,150.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus 10T (12GB RAM + 256GB),508.26,milieu,87.0,0.17117223468303625,0.3884565546847399,moyen,True,snapdragon,8,3.2,4800,haute,1,150.0,12,256,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus 10T (16GB RAM + 256GB),558.09,milieu,87.0,0.15588883513411814,0.30462127814956563,moyen,True,snapdragon,8,3.2,4800,haute,1,150.0,16,256,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus 11 5G,548.12,milieu,89.0,0.1623732029482595,0.3401905091386754,moyen,True,snapdragon,8,3.2,5000,haute,1,100.0,12,256,6.7,120,3,1.0,android,50.0,16.0,0,,1440,3216,haut performance
+oneplus,OnePlus 11 Pro,697.61,milieu,84.0,0.12041111795989162,0.11001246611019662,faible,True,snapdragon,8,3.2,4500,haute,1,100.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1440,3216,haut performance
+oneplus,OnePlus 11R,398.63,milieu,85.0,0.2132303138248501,0.6191611622628234,bon,True,snapdragon,8,3.2,5000,haute,1,100.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus 12 Pro,697.61,milieu,84.0,0.12041111795989162,0.11001246611019662,faible,True,snapdragon,8,3.2,4800,haute,1,150.0,12,256,6.73,144,3,1.0,android,108.0,32.0,0,,1440,3412,haut performance
+oneplus,OnePlus 6 (8GB RAM + 128GB),279.04,bas,77.0,0.27594610091743116,0.044833472872028185,faible,False,snapdragon,8,2.8,3300,faible,0,,8,128,6.28,60,2,1.0,android,20.0,16.0,0,,1080,2280,performance intermédiaire
+oneplus,OnePlus 9 Pro,645.8,milieu,89.0,0.13781356457107466,0.20547152411410863,faible,True,snapdragon,8,2.84,4500,haute,1,65.0,8,128,6.7,120,4,1.0,android,48.0,16.0,0,,1440,3216,haut performance
+oneplus,OnePlus 9RT 5G,428.53,milieu,85.0,0.19835250740904956,0.5375507187804555,bon,True,snapdragon,8,2.84,4500,haute,1,,8,128,6.62,120,3,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+oneplus,OnePlus 9T,448.46,milieu,86.0,0.19176738170628374,0.5014287923371115,bon,True,snapdragon,8,2.84,4500,haute,1,65.0,8,128,6.55,120,4,1.0,android,108.0,16.0,0,,1080,2400,haut performance
+oneplus,OnePlus Ace 2,348.8,milieu,84.0,0.2408256880733945,0.770532316554351,excellent,True,snapdragon,8,3.2,5000,haute,1,100.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus Ace 5G,288.91,bas,84.0,0.2907479838011837,0.054069552433913134,faible,True,dimensity,8,2.85,4500,haute,1,150.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus Ace Pro,478.27,milieu,86.0,0.17981474899115563,0.4358640424404126,moyen,True,snapdragon,8,3.2,4800,haute,1,150.0,12,256,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus Ace Racing Edition 5G,229.12,bas,83.0,0.36225558659217877,0.09868886970889618,faible,True,dimensity,8,2.85,5000,haute,1,,8,128,6.59,120,3,1.0,android,64.0,16.0,0,,1080,2412,haut performance
+oneplus,OnePlus Clover,149.48,bas,69.0,0.46160021407546165,0.1606779349303611,moyen,False,snapdragon,8,1.8,6000,haute,1,18.0,4,64,6.52,60,3,1.0,android,13.0,8.0,1,,720,1560,basique
+oneplus,OnePlus Nord 2 Lite 5G,229.21,bas,83.0,0.36211334584005933,0.09860011431785336,faible,True,snapdragon,8,2.2,5000,haute,1,33.0,8,128,6.59,120,3,1.0,android,64.0,16.0,1,,1080,2412,performance intermédiaire
+oneplus,OnePlus Nord 2T (12GB RAM + 256GB),337.85,milieu,85.0,0.25159094272606186,0.8295838448409243,excellent,True,dimensity,8,3.0,4500,haute,1,80.0,12,256,6.43,90,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+oneplus,OnePlus Nord 2T 5G,289.0,bas,84.0,0.2906574394463668,0.05401305456323436,faible,True,dimensity,8,3.0,4500,haute,1,80.0,8,128,6.43,90,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+oneplus,OnePlus Nord 3 5G,279.04,bas,84.0,0.3010321100917431,0.060486642029206464,faible,True,dimensity,8,3.1,4200,moyenne,1,120.0,8,128,6.43,90,3,1.0,android,50.0,32.0,0,,1080,2400,performance intermédiaire
+oneplus,OnePlus Nord 3T 5G,298.88,bas,84.0,0.2810492505353319,0.04801773640507305,faible,True,dimensity,8,3.0,4500,haute,1,80.0,8,128,6.43,90,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+oneplus,OnePlus Nord 4 5G,298.97,bas,83.0,0.2776198280763956,0.04587784522157919,faible,True,snapdragon,8,2.36,4500,haute,1,80.0,8,128,6.43,120,3,1.0,android,50.0,32.0,0,,1080,2412,performance intermédiaire
+oneplus,OnePlus Nord 5,348.8,milieu,76.0,0.21788990825688073,0.6447208151725518,bon,True,dimensity,8,3.0,5000,haute,1,120.0,8,128,6.57,120,3,1.0,android,64.0,32.0,0,,1080,2400,haut performance
+oneplus,OnePlus Nord CE 2 Lite 5G,199.21,bas,81.0,0.4066060940715827,0.12636270140360423,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,6,128,6.59,120,3,1.0,android,64.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),219.2,bas,84.0,0.3832116788321168,0.11176505310761244,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,8,128,6.59,120,3,1.0,android,64.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),249.14,bas,85.0,0.3411736373123545,0.08553415402864914,faible,True,snapdragon,8,2.2,5000,haute,1,33.0,8,256,6.59,120,3,1.0,android,64.0,16.0,1,1024.0,1080,2412,haut performance
+oneplus,OnePlus Nord CE 3 5G,219.24,bas,83.0,0.37858055099434407,0.10887532174661917,moyen,True,snapdragon,8,2.2,5000,haute,1,67.0,6,128,6.7,120,3,1.0,android,108.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+oneplus,OnePlus Nord CE 3 Lite 5G,189.34,bas,81.0,0.427801837963452,0.13958842265110347,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,6,128,6.59,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+oneplus,OnePlus Nord Lite,199.31,bas,77.0,0.3863328483267272,0.11371260059226336,moyen,False,snapdragon,8,2.0,4300,moyenne,1,30.0,8,128,6.55,90,3,1.0,android,48.0,16.0,0,,1080,2400,basique
+oneplus,OnePlus Nord N10,255.08,bas,81.0,0.3175474360984789,0.07079187590969564,faible,True,snapdragon,8,2.0,4300,moyenne,1,30.0,6,128,6.49,90,4,1.0,android,64.0,16.0,1,512.0,1080,2400,performance intermédiaire
+oneplus,OnePlus Nord N100,169.32,bas,68.0,0.40160642570281124,0.12324300810514557,moyen,False,snapdragon,8,1.8,5000,haute,1,18.0,4,64,6.52,90,3,1.0,android,13.0,8.0,1,256.0,720,1600,basique
+oneplus,OnePlus Nord N20 5G,209.19,bas,81.0,0.38720780152014916,0.11425855392609502,moyen,True,snapdragon,8,2.2,4500,haute,1,33.0,6,128,6.43,60,3,1.0,android,64.0,16.0,1,,1080,2400,performance intermédiaire
+oneplus,OnePlus Nord N200,169.32,bas,75.0,0.44294826364280654,0.14903949004241837,moyen,True,snapdragon,8,2.0,5000,haute,1,18.0,4,64,6.49,90,3,1.0,android,13.0,16.0,1,,1080,2400,basique
+oneplus,OnePlus Nord N300,189.25,bas,75.0,0.3963011889035667,0.1199326462034008,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,4,64,6.56,90,2,1.0,android,48.0,16.0,1,,720,1612,performance intermédiaire
+oneplus,OnePlus Nord SE,199.31,bas,73.0,0.3662636094526115,0.1011897959974999,moyen,False,snapdragon,8,2.0,4500,haute,1,65.0,4,64,6.3,60,4,1.0,android,48.0,13.0,1,256.0,1080,2400,basique
+oneplus,OnePlus Z,249.14,bas,79.0,0.31709079232560006,0.07050693930731393,faible,False,snapdragon,8,2.4,4300,moyenne,1,30.0,8,128,6.55,90,3,1.0,android,64.0,16.0,0,,1080,2400,performance intermédiaire
+oppo,OPPO A1 Pro,209.19,bas,84.0,0.4015488312060806,0.12320707028842937,moyen,True,snapdragon,8,2.2,4800,haute,1,67.0,8,128,6.7,120,2,1.0,android,108.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+oppo,Oppo A12,99.56,bas,64.0,0.6428284451586983,0.2737607348883144,bon,False,helio,8,1.8,4230,moyenne,0,,3,32,6.22,60,2,1.0,android,13.0,5.0,1,256.0,1520,720,basique
+oppo,OPPO A15,99.65,bas,66.0,0.6623181133968891,0.28592189897104475,bon,False,helio,8,2.3,4230,moyenne,0,,3,32,6.52,60,3,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+oppo,Oppo A15s (4GB RAM + 128GB),114.51,bas,72.0,0.6287660466334818,0.26498607881044484,bon,False,helio,8,2.3,4230,moyenne,0,,4,128,6.52,60,3,1.0,android,13.0,8.0,1,256.0,720,1600,basique
+oppo,OPPO A16,119.58,bas,69.0,0.577019568489714,0.23269730900077493,bon,False,helio,8,2.3,5000,haute,0,,4,64,6.52,60,3,1.0,android,13.0,8.0,1,,720,1600,basique
+oppo,OPPO A16e,89.68,bas,65.0,0.7247992863514718,0.32490890414197876,excellent,False,helio,8,2.0,4230,moyenne,0,,3,32,6.52,60,1,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+oppo,OPPO A16e (4GB RAM + 64GB),89.68,bas,68.0,0.7582515611061552,0.3457824560803901,excellent,False,helio,8,2.0,4230,moyenne,0,,4,64,6.52,60,1,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+oppo,OPPO A16K (4GB RAM + 64GB),109.62,bas,66.0,0.60207991242474,0.24833446356076438,bon,False,helio,8,2.3,4230,moyenne,0,,4,64,6.52,60,1,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+oppo,OPPO A17,124.57,bas,72.0,0.5779882796821065,0.233301765455112,bon,False,helio,8,2.3,5000,haute,1,,4,64,6.56,60,2,1.0,android,50.0,5.0,1,1024.0,720,1612,basique
+oppo,OPPO A17K,94.67,bas,62.0,0.6549065173761487,0.2812972109454931,bon,False,helio,8,2.3,5000,haute,0,,3,64,6.56,60,1,1.0,android,8.0,5.0,1,1024.0,720,1612,basique
+oppo,Oppo A31 2020 (6GB RAM + 128GB),124.48,bas,72.0,0.5784061696658097,0.23356252046634332,bon,False,helio,8,2.3,4230,moyenne,0,,6,128,6.5,60,3,1.0,android,12.0,8.0,1,256.0,720,1600,basique
+oppo,OPPO A53 2020 (6GB RAM + 128GB),139.42,bas,70.0,0.5020800459044614,0.18593654225488954,moyen,False,snapdragon,8,1.8,5000,haute,1,18.0,6,128,6.5,90,3,1.0,android,13.0,16.0,1,256.0,1600,720,basique
+oppo,OPPO A54,121.58,bas,70.0,0.575752590886659,0.23190674025780864,bon,False,helio,8,2.3,5000,haute,1,,4,64,6.51,60,3,1.0,android,13.0,16.0,1,256.0,1600,720,basique
+oppo,OPPO A54 (4GB RAM + 128GB),119.49,bas,71.0,0.5941919825926856,0.24341255274174356,bon,False,helio,8,2.3,5000,haute,1,,4,128,6.51,60,3,1.0,android,13.0,16.0,1,256.0,1600,720,basique
+oppo,OPPO A54 (6GB RAM + 128GB),149.48,bas,74.0,0.4950495049504951,0.18154962498741137,moyen,False,helio,8,2.3,5000,haute,1,,6,128,6.51,60,3,1.0,android,13.0,16.0,1,256.0,1600,720,basique
+oppo,OPPO A55 4G,134.53,bas,73.0,0.5426298966773211,0.21123884000322474,bon,False,helio,8,2.3,5000,haute,1,18.0,4,64,6.51,60,3,1.0,android,50.0,16.0,1,256.0,720,1600,basique
+oppo,OPPO A55 4G (6GB RAM + 128GB),146.5,bas,76.0,0.5187713310580204,0.19635157113189797,moyen,False,helio,8,2.3,5000,haute,1,18.0,6,128,6.51,60,3,1.0,android,50.0,16.0,1,256.0,720,1600,basique
+oppo,OPPO A55 5G,179.29,bas,74.0,0.41273913770985554,0.13018959825479992,moyen,True,dimensity,8,2.2,5000,haute,0,,6,128,6.5,60,3,1.0,android,13.0,8.0,1,,720,1600,basique
+oppo,Oppo A56 5G,179.29,bas,73.0,0.4071615817948575,0.12670931465869545,moyen,True,dimensity,8,2.2,5000,haute,0,,6,128,6.5,60,2,1.0,android,13.0,8.0,1,,720,1600,basique
+oppo,Oppo A56s,129.55,bas,75.0,0.5789270551910459,0.23388754264031258,bon,True,dimensity,8,2.4,5000,haute,0,,8,128,6.56,60,2,1.0,android,13.0,8.0,1,,720,1612,performance intermédiaire
+oppo,OPPO A57 4G,119.49,bas,67.0,0.5607163779395765,0.22252444341224067,bon,False,helio,8,2.3,5000,haute,1,33.0,3,64,6.56,60,2,1.0,android,13.0,8.0,1,,720,1612,basique
+oppo,OPPO A57 4G (4GB RAM + 64 GB),139.22,bas,69.0,0.4956184456256285,0.18190463261602144,moyen,False,helio,8,2.3,5000,haute,1,33.0,4,64,6.56,60,2,1.0,android,13.0,8.0,1,,720,1612,basique
+oppo,OPPO A58,189.25,bas,76.0,0.40158520475561427,0.1232297666575386,moyen,True,dimensity,8,2.2,5000,haute,1,33.0,6,128,6.56,90,2,1.0,android,50.0,8.0,1,1024.0,720,1612,basique
+oppo,OPPO A58x,139.42,bas,72.0,0.5164251900731602,0.1948876259723701,moyen,True,dimensity,8,2.2,5000,haute,1,10.0,6,128,6.56,90,2,1.0,android,13.0,8.0,1,1024.0,720,1612,basique
+oppo,OPPO A73,159.36,bas,62.0,0.38905622489959835,0.11541193323133059,moyen,False,helio,8,2.5,3200,faible,0,,3,32,6.0,60,1,1.0,android,13.0,16.0,1,,1080,2160,basique
+oppo,OPPO A74 5G,154.37,bas,77.0,0.49880158061799573,0.1838908453348097,moyen,True,snapdragon,8,2.0,5000,haute,1,18.0,6,128,6.5,90,3,1.0,android,48.0,8.0,1,,1080,2400,basique
+oppo,OPPO A76,164.34,bas,73.0,0.44420104661068516,0.1498212016162751,moyen,False,snapdragon,8,2.4,5000,haute,1,33.0,6,128,6.56,90,2,1.0,android,13.0,8.0,1,,720,1612,performance intermédiaire
+oppo,OPPO A77,154.46,bas,70.0,0.4531917648582157,0.15543123040145293,moyen,False,helio,8,2.3,5000,haute,1,33.0,4,64,6.56,60,2,1.0,android,50.0,8.0,1,,720,1600,basique
+oppo,OPPO A77 (4GB RAM + 128 GB),159.44,bas,71.0,0.44530858003010537,0.1505122803702112,moyen,False,helio,8,2.3,5000,haute,1,33.0,4,128,6.56,60,2,1.0,android,50.0,8.0,1,,720,1600,basique
+oppo,Oppo A77 5G,219.15,bas,76.0,0.3467944330367328,0.0890414184029974,faible,True,snapdragon,8,2.4,5000,haute,1,33.0,6,128,6.56,90,2,1.0,android,48.0,8.0,1,,720,1600,performance intermédiaire
+oppo,OPPO A77s,179.38,bas,76.0,0.42368156985171146,0.13701745756543152,moyen,False,snapdragon,8,2.4,5000,haute,1,33.0,8,128,6.56,90,2,1.0,android,50.0,8.0,1,,720,1600,performance intermédiaire
+oppo,Oppo A78,189.34,bas,79.0,0.41723882961867537,0.13299731621880626,moyen,True,dimensity,8,2.2,5000,haute,1,33.0,8,128,6.56,90,2,1.0,android,50.0,8.0,1,,720,1612,performance intermédiaire
+oppo,OPPO A96 4G,179.38,bas,80.0,0.4459805998439068,0.15093160732450334,moyen,False,snapdragon,8,2.4,5000,haute,1,33.0,8,128,6.59,90,2,1.0,android,50.0,16.0,1,,1080,2412,performance intermédiaire
+oppo,Oppo A96 5G,229.12,bas,82.0,0.357891061452514,0.09596549311171752,faible,True,snapdragon,8,2.2,4500,haute,1,33.0,8,256,6.43,60,2,1.0,android,48.0,16.0,1,,1080,2400,performance intermédiaire
+oppo,OPPO A97 5G,239.08,bas,79.0,0.3304333277563995,0.07883241517845463,faible,True,dimensity,8,2.4,5000,haute,1,33.0,12,256,6.56,90,2,1.0,android,48.0,8.0,1,1024.0,1080,2400,haut performance
+oppo,Oppo A98,308.85,milieu,87.0,0.2816901408450704,0.9946894281712183,excellent,True,snapdragon,8,3.0,5000,haute,1,67.0,8,128,6.7,120,2,1.0,android,108.0,16.0,1,1024.0,1080,2412,haut performance
+oppo,OPPO F17 Pro,189.25,bas,83.0,0.4385733157199472,0.14630960983650307,moyen,False,helio,8,2.2,4015,moyenne,1,30.0,8,128,6.43,60,4,2.0,android,48.0,16.0,1,256.0,1080,2400,basique
+oppo,OPPO F19,149.39,bas,78.0,0.5221233014257983,0.19844313375599223,moyen,False,snapdragon,8,2.0,5000,haute,1,33.0,6,128,6.4,60,3,1.0,android,48.0,16.0,1,256.0,1080,2400,basique
+oppo,OPPO F19 Pro,179.33,bas,80.0,0.4461049461885908,0.15100919696237244,moyen,False,helio,8,2.2,4310,moyenne,1,30.0,8,128,6.43,60,4,1.0,android,48.0,16.0,1,256.0,1080,2400,basique
+oppo,OPPO F19 Pro Plus 5G,199.22,bas,82.0,0.41160526051601243,0.12948208151128907,moyen,True,dimensity,8,2.4,4310,moyenne,1,50.0,8,128,6.43,60,4,1.0,android,48.0,16.0,1,256.0,1080,2400,performance intermédiaire
+oppo,OPPO F19s,159.34,bas,79.0,0.49579515501443455,0.18201489574856763,moyen,False,snapdragon,8,2.0,5000,haute,1,33.0,6,128,6.43,60,3,1.0,android,48.0,16.0,1,256.0,1080,2400,basique
+oppo,OPPO F21 Pro 4G,209.28,bas,82.0,0.3918195718654434,0.11713620659804216,moyen,False,snapdragon,8,2.4,4500,haute,1,33.0,8,128,6.5,90,3,1.0,android,64.0,32.0,1,256.0,1080,2400,performance intermédiaire
+oppo,OPPO F21 Pro 5G,258.81,bas,82.0,0.31683474363432634,0.07034717003316866,faible,True,snapdragon,8,2.2,4500,haute,1,33.0,8,128,6.43,60,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+oppo,OPPO F21s Pro,258.07,bas,82.0,0.31774324795598097,0.07091405860153646,faible,True,snapdragon,8,2.2,4500,haute,1,33.0,8,128,6.43,60,3,1.0,android,64.0,16.0,1,512.0,1080,2400,performance intermédiaire
+oppo,OPPO F21s Pro 4G,218.25,bas,82.0,0.3757159221076747,0.10708785048229817,moyen,False,snapdragon,8,2.4,4500,haute,1,33.0,8,128,6.43,90,3,1.0,android,64.0,32.0,1,512.0,1080,2400,performance intermédiaire
+oppo,OPPO F22 Pro,275.66,bas,83.0,0.3010955524922005,0.060526228821158774,faible,True,snapdragon,8,2.2,4800,haute,1,67.0,8,128,6.58,120,3,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+oppo,OPPO F23 Pro,199.22,bas,82.0,0.41160526051601243,0.12948208151128907,moyen,True,snapdragon,8,2.2,4500,haute,1,33.0,8,128,6.5,90,3,1.0,android,64.0,32.0,1,256.0,1080,2400,performance intermédiaire
+oppo,OPPO F23 Pro Plus 5G,278.95,bas,83.0,0.2975443627890303,0.05831035730701318,faible,True,snapdragon,8,2.36,4500,haute,1,65.0,8,128,6.43,90,4,1.0,android,50.0,16.0,1,256.0,1080,2460,performance intermédiaire
+oppo,Oppo Find N 5G,919.35,haut,80.5,0.08756186436068962,0.6792896465545186,bon,True,snapdragon,8,2.84,4500,haute,1,33.0,8,256,7.1,120,3,1.0,android,50.0,32.0,0,,1792,1920,haut performance
+oppo,OPPO Find N Flip,896.84,haut,88.0,0.09812229606172784,0.7712695501966514,bon,True,dimensity,8,3.5,4300,moyenne,1,44.0,8,128,6.8,120,2,1.0,,50.0,32.0,0,,1200,2400,haut performance
+oppo,Oppo Find N Fold,996.5,haut,80.5,0.08078273958855996,0.6202444047527862,bon,True,snapdragon,8,3.2,5000,haute,1,67.0,8,256,7.1,120,2,,other,50.0,,0,,1792,1920,haut performance
+oppo,Oppo Find N2 5G,946.67,haut,80.5,0.08503491184890194,0.657280238689154,bon,True,snapdragon,8,3.2,4520,haute,1,67.0,12,256,7.1,120,3,2.0,,50.0,32.0,0,,1792,1920,haut performance
+oppo,OPPO Find N2 Flip,707.49,haut,88.0,0.124383383510721,1.0,excellent,True,dimensity,8,3.2,4300,moyenne,1,44.0,8,256,6.8,120,2,1.0,,50.0,32.0,0,,1080,2520,haut performance
+oppo,Oppo Find X3 Pro,508.17,milieu,80.5,0.15841155518822442,0.31845935996375213,moyen,True,snapdragon,8,2.84,4500,haute,1,65.0,12,256,6.7,120,4,1.0,android,50.0,32.0,0,,1440,3216,haut performance
+oppo,Oppo Find X5 Pro 5G,797.18,haut,80.5,0.10098095787651472,0.7961681003424462,bon,True,snapdragon,8,3.0,5000,haute,1,80.0,8,256,6.7,120,3,1.0,android,50.0,32.0,0,,1440,3216,haut performance
+oppo,Oppo Find X6,697.52,milieu,89.0,0.12759490767289827,0.1494182930162324,faible,True,snapdragon,8,3.2,4700,haute,1,120.0,8,256,6.73,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+oppo,Oppo Find X6 Pro,777.25,haut,80.5,0.10357027983274365,0.8187207374670235,excellent,True,snapdragon,8,3.2,4700,haute,1,120.0,12,256,6.78,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+oppo,OPPO K10,134.44,bas,78.0,0.5801844689080631,0.23467214370922954,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,6,128,6.59,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+oppo,OPPO K10 (8GB RAM + 128GB),169.32,bas,80.0,0.4724781478856603,0.16746554856904178,moyen,False,snapdragon,8,2.4,5000,haute,1,33.0,8,128,6.59,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+oppo,OPPO K10 5G,169.41,bas,79.0,0.46632430198925684,0.16362567152386195,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,8,128,6.56,90,2,1.0,android,48.0,8.0,1,1024.0,720,1612,performance intermédiaire
+oppo,Oppo K10 Pro 5G,298.88,bas,81.0,0.2710117773019272,0.041754553395715696,faible,True,snapdragon,8,2.84,5000,haute,1,80.0,8,128,6.62,120,3,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+oppo,Oppo K10x 5G,169.32,bas,78.0,0.4606661941885188,0.16009512515839242,moyen,True,snapdragon,8,2.2,5000,haute,1,67.0,6,128,6.59,120,3,1.0,android,64.0,16.0,0,,1080,2412,performance intermédiaire
+oppo,Oppo K5 (8GB RAM + 128GB),199.22,bas,82.0,0.41160526051601243,0.12948208151128907,moyen,False,snapdragon,8,2.2,4000,moyenne,1,30.0,8,128,6.4,60,4,1.0,android,64.0,32.0,1,256.0,1080,2340,performance intermédiaire
+oppo,OPPO Reno 10,328.87,milieu,84.0,0.25542007480159334,0.8505880949368797,excellent,True,snapdragon,8,2.5,5000,haute,1,120.0,8,256,6.73,120,3,1.0,android,50.0,32.0,0,,1080,2412,haut performance
+oppo,OPPO Reno 10 Pro,428.44,milieu,86.0,0.2007282233218187,0.5505824268031717,bon,True,dimensity,8,3.5,5000,haute,1,120.0,16,256,6.73,120,2,1.0,android,50.0,32.0,0,,1080,2412,haut performance
+oppo,Oppo Reno 10 Pro Plus,587.89,milieu,88.0,0.14968786677779858,0.27060660129223546,faible,True,snapdragon,8,3.2,4700,haute,1,80.0,12,256,6.73,120,4,1.0,android,64.0,32.0,0,,1080,2412,haut performance
+oppo,Oppo Reno 5,298.88,bas,83.0,0.277703426124197,0.04593000873528726,faible,True,snapdragon,8,2.4,4300,moyenne,1,65.0,8,128,6.43,60,4,1.0,android,64.0,32.0,0,,1080,2400,performance intermédiaire
+oppo,Oppo Reno 5 Pro 5G,385.68,milieu,84.0,0.2177971375233354,0.6442119323107087,bon,True,dimensity,8,2.6,4350,moyenne,1,65.0,8,128,6.53,90,4,1.0,android,64.0,32.0,0,,1080,2400,performance intermédiaire
+oppo,Oppo Reno 5A,229.12,bas,80.0,0.34916201117318435,0.09051873991736019,faible,True,snapdragon,8,2.4,4000,moyenne,1,18.0,6,128,6.5,90,4,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+oppo,OPPO Reno 6,262.9,bas,83.0,0.3157093952073032,0.06964497506996996,faible,True,dimensity,8,2.0,4300,moyenne,1,65.0,8,128,6.43,90,3,1.0,android,64.0,32.0,0,,1080,2400,performance intermédiaire
+oppo,OPPO Reno 6 Pro 5G,366.35,milieu,87.0,0.23747782175515217,0.752167992720881,excellent,True,dimensity,8,3.0,4500,haute,1,65.0,12,256,6.55,90,4,1.0,android,64.0,32.0,0,,1080,2400,haut performance
+oppo,OPPO Reno 6 Pro Plus 5G,448.37,milieu,87.0,0.19403617548007226,0.5138739916409736,bon,True,snapdragon,8,3.2,4500,haute,1,65.0,8,128,6.55,90,4,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+oppo,OPPO Reno 8 House of Dragon Edition,328.78,milieu,84.0,0.25548999330859545,0.8509716246189172,excellent,True,dimensity,8,3.0,4500,haute,1,80.0,8,128,6.43,90,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+oppo,Oppo Reno 8 Pro (8GB RAM + 256GB),428.44,milieu,85.0,0.19839417421342545,0.5377792770966867,bon,True,dimensity,8,2.85,4500,haute,1,80.0,8,256,6.7,120,3,1.0,android,50.0,32.0,0,,1080,2412,haut performance
+oppo,OPPO Reno 8 Pro 5G,458.43,milieu,86.0,0.1875967977662893,0.47855154851426435,moyen,True,dimensity,8,2.85,4500,haute,1,80.0,12,256,6.7,120,3,1.0,android,50.0,32.0,0,,1080,2412,haut performance
+oppo,OPPO Reno 8 Pro House of Dragon Edition,458.43,milieu,86.0,0.1875967977662893,0.47855154851426435,moyen,True,dimensity,8,2.85,4500,haute,1,80.0,12,256,6.7,120,3,1.0,android,50.0,32.0,0,,1080,2412,haut performance
+oppo,OPPO Reno 8 Z,268.98,bas,86.0,0.3197263737080824,0.07215148949944855,faible,True,snapdragon,8,2.2,4500,haute,1,33.0,8,256,6.43,60,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+oppo,Oppo Reno 8T,298.88,bas,87.0,0.2910867237687366,0.0542809194144304,faible,True,snapdragon,8,2.2,5000,haute,1,66.0,8,256,6.67,120,3,1.0,android,108.0,16.0,1,1024.0,1080,2400,haut performance
+oppo,Oppo Reno 8T 4G,199.31,bas,83.0,0.4164367066379008,0.13249680748440854,moyen,False,helio,8,2.2,5000,haute,1,66.0,8,256,6.67,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+oppo,OPPO Reno 9 5G,284.02,bas,83.0,0.29223294134215905,0.054996136308558145,faible,True,snapdragon,8,2.4,4500,haute,1,67.0,8,256,6.7,120,2,1.0,android,64.0,32.0,0,,1080,2412,haut performance
+oppo,OPPO Reno 9 Pro 5G,398.63,milieu,86.0,0.21573890575220128,0.6329217459124394,bon,True,dimensity,8,2.85,4500,haute,1,67.0,16,256,6.7,120,2,1.0,android,50.0,32.0,0,,1080,2412,haut performance
+oppo,OPPO Reno 9 Pro Plus,458.43,milieu,86.0,0.1875967977662893,0.47855154851426435,moyen,True,snapdragon,8,3.2,4700,haute,1,80.0,16,256,6.7,120,3,1.0,android,50.0,32.0,0,,1080,2412,haut performance
+oppo,OPPO Reno 9 Z,229.12,bas,84.0,0.36662011173184356,0.10141224630607483,moyen,True,snapdragon,8,2.2,4800,haute,1,33.0,8,128,6.58,120,3,1.0,android,50.0,32.0,1,,1080,2400,performance intermédiaire
+oppo,OPPO Reno7 5G,259.06,bas,85.0,0.32810931830463985,0.0773822796539677,faible,True,dimensity,8,2.0,4500,haute,1,65.0,8,256,6.43,90,3,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+oppo,OPPO Reno7 Pro 5G,318.85,milieu,87.0,0.27285557472165595,0.9462284629485195,excellent,True,dimensity,8,3.0,4500,haute,1,65.0,12,256,6.55,90,3,1.0,android,50.0,32.0,1,,1080,2400,haut performance
+oppo,OPPO Reno7 Z 5G,179.38,bas,84.0,0.46827962983610216,0.16484575708357516,moyen,True,snapdragon,8,2.2,4500,haute,1,33.0,8,128,6.43,60,3,1.0,android,64.0,16.0,1,,1080,2400,performance intermédiaire
+oppo,OPPO Reno8 5G,292.4,bas,83.0,0.2838577291381669,0.0497701710127072,faible,True,dimensity,8,3.0,4500,haute,1,80.0,8,128,6.43,90,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+oppo,OPPO X 2021,1345.4,haut,86.0,0.06392151033149993,0.47338542339127426,moyen,False,snapdragon,8,2.84,4000,moyenne,1,45.0,8,256,7.4,60,3,1.0,android,64.0,16.0,0,,1440,3200,haut performance
+oukitel,Oukitel WP19,298.88,bas,84.0,0.2810492505353319,0.04801773640507305,faible,False,helio,8,2.0,21000,haute,1,33.0,8,256,6.78,60,3,1.0,android,64.0,16.0,1,,1080,2400,performance intermédiaire
+oukitel,Oukitel WP21,229.12,bas,82.0,0.357891061452514,0.09596549311171752,faible,False,helio,8,2.2,9800,haute,1,66.0,12,256,6.78,120,3,1.0,,64.0,,0,,1080,2400,haut performance
+oukitel,Oukitel WP9,258.11,bas,72.0,0.27895083491534617,0.04670836693010143,faible,False,helio,8,2.0,8000,haute,0,,6,128,5.86,60,3,1.0,android,16.0,8.0,1,,720,1520,basique
+poco,POCO C31,64.77,bas,65.0,1.0035510267098966,0.4988444278982377,excellent,False,helio,8,2.3,5000,haute,0,,3,32,6.53,60,3,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+poco,POCO C31 (4GB RAM + 64GB),74.74,bas,68.0,0.9098207118009098,0.4403585816948349,excellent,False,helio,8,2.3,5000,haute,0,,4,64,6.53,60,3,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+poco,Poco C50,64.77,bas,79.5,1.2274201018990274,0.638534263720545,excellent,False,helio,4,2.0,5000,haute,1,10.0,2,32,6.52,60,2,1.0,android,8.0,5.0,1,512.0,720,1600,basique
+poco,Poco C50 (3GB RAM + 32GB),72.74,bas,61.0,0.8386032444322244,0.39592030313399507,excellent,False,helio,4,2.0,5000,haute,1,10.0,3,32,6.52,60,2,1.0,android,8.0,5.0,1,512.0,720,1600,basique
+poco,Poco C55,79.72,bas,70.0,0.8780732563973909,0.420548803013492,excellent,False,helio,8,2.0,5000,haute,0,,4,64,6.71,60,2,1.0,android,50.0,5.0,1,512.0,720,1650,basique
+poco,Poco F3 GT,328.87,milieu,79.0,0.2402164989205461,0.7671906816695332,excellent,True,dimensity,8,3.0,5065,haute,1,67.0,6,128,6.67,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+poco,Poco F4 (12GB RAM + 256GB),298.97,bas,86.0,0.28765427969361473,0.05213914280273022,faible,True,snapdragon,8,3.2,4500,haute,1,67.0,12,256,6.67,120,3,1.0,android,64.0,20.0,0,,1080,2400,haut performance
+poco,Poco F4 5G,259.11,bas,82.0,0.31646790938211566,0.07011827277961982,faible,True,snapdragon,8,3.2,4500,haute,1,67.0,6,128,6.67,120,3,1.0,android,64.0,20.0,0,,1080,2400,haut performance
+poco,Poco F4 5G (8GB RAM + 128GB),279.04,bas,85.0,0.3046158256880734,0.06272280905166051,faible,True,snapdragon,8,3.2,4500,haute,1,67.0,8,128,6.67,120,3,1.0,android,64.0,20.0,0,,1080,2400,haut performance
+poco,POCO F4 GT 5G,398.63,milieu,86.0,0.21573890575220128,0.6329217459124394,bon,True,snapdragon,8,3.0,4700,haute,1,120.0,8,128,6.67,120,3,1.0,android,64.0,20.0,0,,1080,2400,haut performance
+poco,Poco F5,348.71,milieu,85.0,0.243755556192825,0.786603760817642,excellent,True,snapdragon,8,3.2,4700,haute,1,67.0,8,128,6.7,120,3,1.0,android,64.0,32.0,0,,1080,2400,haut performance
+poco,POCO F5 GT 5G,428.53,milieu,86.0,0.20068606631974426,0.550351179565573,bon,True,dimensity,8,3.0,4500,haute,1,150.0,8,128,6.67,120,3,1.0,android,64.0,20.0,0,,1080,2412,haut performance
+poco,Poco F5 Pro,298.97,bas,84.0,0.28096464528213533,0.0479649444152962,faible,True,snapdragon,8,3.2,5500,haute,1,67.0,8,128,6.67,120,3,1.0,android,64.0,16.0,0,,1440,3200,haut performance
+poco,Poco M2,108.53,bas,74.0,0.6818391228231825,0.29810261932976734,bon,False,helio,8,2.0,5000,haute,1,18.0,6,64,6.53,60,4,1.0,android,13.0,8.0,1,512.0,1080,2340,basique
+poco,POCO M2 Pro,127.55,bas,76.0,0.595844766758134,0.24444385708123822,bon,False,snapdragon,8,2.3,5000,haute,1,33.0,4,64,6.67,60,4,1.0,android,48.0,16.0,1,512.0,1080,2400,basique
+poco,Poco M3,114.6,bas,75.0,0.6544502617801048,0.2810125165577107,bon,False,snapdragon,8,2.0,6000,haute,1,18.0,6,64,6.53,60,3,1.0,android,48.0,8.0,1,512.0,1080,2340,basique
+poco,POCO M3 Pro 5G,159.45,bas,75.0,0.4703668861712136,0.1661481633874582,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,4,64,6.5,90,3,1.0,android,48.0,8.0,1,1024.0,1080,2400,basique
+poco,POCO M3 Pro 5G (6GB RAM + 128GB),147.49,bas,79.0,0.5356295342057088,0.20687075350655243,bon,True,dimensity,8,2.2,5000,haute,1,18.0,6,128,6.5,90,3,1.0,android,48.0,8.0,1,1024.0,1080,2400,basique
+poco,Poco M4 5G,114.6,bas,75.0,0.6544502617801048,0.2810125165577107,bon,True,dimensity,8,2.2,5000,haute,1,18.0,4,64,6.58,90,2,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+poco,Poco M4 5G (6GB RAM + 128GB),134.53,bas,79.0,0.5872296142124434,0.23906817379995002,bon,True,dimensity,8,2.2,5000,haute,1,18.0,6,128,6.58,90,2,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+poco,POCO M4 Pro 4G,119.58,bas,77.0,0.6439203880247533,0.2744420854480454,bon,False,helio,8,2.5,5000,haute,1,33.0,6,64,6.43,90,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,POCO M4 Pro 4G (6GB RAM + 128GB),129.55,bas,79.0,0.609803164801235,0.25315361893349897,bon,False,helio,8,2.5,5000,haute,1,33.0,6,128,6.43,90,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,POCO M4 Pro 4G (8GB RAM + 128GB),139.51,bas,81.0,0.5806035409648054,0.2349336363104501,bon,False,helio,8,2.5,5000,haute,1,33.0,8,128,6.43,90,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,Poco M4 Pro 5G,129.55,bas,76.0,0.5866460825935932,0.2387040617136092,bon,True,dimensity,8,2.4,5000,haute,1,33.0,4,64,6.6,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,Poco M4 Pro 5G (6GB RAM + 128GB),149.48,bas,81.0,0.541878512175542,0.21076999106728178,bon,True,dimensity,8,2.4,5000,haute,1,33.0,6,128,6.6,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,Poco M4 Pro 5G (8GB RAM + 128GB),159.45,bas,82.0,0.5142677955471935,0.19354145483693466,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,8,128,6.6,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,Poco M5,107.62,bas,74.0,0.6876045344731462,0.3017001211560068,excellent,False,helio,8,2.2,5000,haute,1,18.0,4,64,6.58,90,3,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+poco,Poco M5 (6GB RAM + 128GB),144.5,bas,77.0,0.532871972318339,0.20515008991337366,bon,False,helio,8,2.2,5000,haute,1,18.0,6,128,6.58,90,3,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+poco,Poco M6 Pro,199.22,bas,84.0,0.42164441321152496,0.13574631247148963,moyen,True,dimensity,8,2.5,5100,haute,1,120.0,8,128,6.73,120,3,1.0,android,108.0,32.0,1,1024.0,1080,2400,haut performance
+poco,Poco X3,134.53,bas,80.0,0.5946629004682971,0.24370639609940423,bon,False,snapdragon,8,2.3,6000,haute,1,33.0,6,64,6.67,120,4,1.0,android,64.0,20.0,1,512.0,1080,2400,performance intermédiaire
+poco,Poco X3 Pro,195.83,bas,82.0,0.4187305315835163,0.13392810847936482,moyen,False,snapdragon,8,2.96,5160,haute,1,33.0,6,128,6.67,120,4,1.0,android,48.0,20.0,1,,1080,2400,performance intermédiaire
+poco,Poco X4,149.39,bas,79.0,0.5288171899056162,0.20261998659718355,bon,True,dimensity,8,2.2,5000,haute,1,67.0,6,128,6.67,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,POCO X4 GT 5G,249.05,bas,84.0,0.3372816703473198,0.08310564430298814,faible,True,dimensity,8,2.85,5080,haute,1,67.0,8,128,6.6,144,3,1.0,android,64.0,16.0,0,,1080,2460,haut performance
+poco,POCO X4 GT 5G (8GB RAM + 256GB),288.91,bas,85.0,0.2942092693226264,0.05622932553261371,faible,True,dimensity,8,2.85,5080,haute,1,67.0,8,256,6.6,144,3,1.0,android,64.0,16.0,0,,1080,2460,haut performance
+poco,Poco X4 Pro 5G,149.48,bas,80.0,0.5351886540005353,0.20659565305587174,bon,True,snapdragon,8,2.2,5000,haute,1,67.0,6,64,6.67,120,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,Poco X4 Pro 5G (6GB RAM + 128GB),164.43,bas,82.0,0.4986924527154412,0.18382275170115978,moyen,True,snapdragon,8,2.2,5000,haute,1,67.0,6,128,6.67,120,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,Poco X4 Pro 5G (8GB RAM + 128GB),179.38,bas,84.0,0.46827962983610216,0.16484575708357516,moyen,True,snapdragon,8,2.2,5000,haute,1,67.0,8,128,6.67,120,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+poco,Poco X5,149.48,bas,74.0,0.4950495049504951,0.18154962498741137,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,4,128,6.67,120,3,1.0,android,48.0,8.0,0,,1080,2400,performance intermédiaire
+poco,POCO X5 GT,298.88,bas,84.0,0.2810492505353319,0.04801773640507305,faible,True,dimensity,8,3.2,5000,haute,1,80.0,8,128,6.7,144,3,1.0,android,64.0,32.0,0,,1080,2400,haut performance
+poco,Poco X5 Pro,209.28,bas,81.0,0.38704128440366975,0.11415465056810346,moyen,True,snapdragon,8,2.4,5000,haute,1,67.0,6,128,6.67,120,3,1.0,android,108.0,16.0,0,,1080,2400,performance intermédiaire
+poco,Poco X6 Pro 5G,199.31,bas,72.0,0.36124629973408257,0.09805909484880904,faible,True,snapdragon,8,3.35,5000,haute,1,,6,128,6.67,120,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,haut performance
+realme,Realme 10,139.51,bas,74.0,0.530427926313526,0.2036250539749973,bon,False,helio,8,2.2,5000,haute,1,33.0,4,64,6.4,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,basique
+realme,Realme 10 (8GB RAM + 128GB),169.41,bas,79.0,0.46632430198925684,0.16362567152386195,moyen,False,helio,8,2.2,5000,haute,1,33.0,8,128,6.4,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme 10 5G,144.5,bas,79.0,0.5467128027681661,0.2137864919333817,bon,True,dimensity,8,2.2,5000,haute,1,33.0,8,128,6.6,90,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+realme,Realme 10 Pro,189.34,bas,82.0,0.43308334213584027,0.14288397586725204,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,6,128,6.72,120,2,1.0,android,108.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme 10 Pro (8GB RAM + 128GB),199.31,bas,84.0,0.42145401635642965,0.13562750863309936,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,8,128,6.72,120,2,1.0,android,108.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme 10 Pro Plus,249.14,bas,82.0,0.3291322148189773,0.07802054666798156,faible,True,dimensity,8,2.6,5000,haute,1,67.0,6,128,6.7,120,3,1.0,android,108.0,16.0,0,,1080,2412,performance intermédiaire
+realme,Realme 10 Pro Plus (8GB RAM + 256GB),279.04,bas,85.0,0.3046158256880734,0.06272280905166051,faible,True,dimensity,8,2.6,5000,haute,1,67.0,8,256,6.7,120,3,1.0,android,108.0,16.0,0,,1080,2412,haut performance
+realme,Realme 10s,129.55,bas,80.0,0.6175221922037822,0.2579701380067956,bon,True,dimensity,8,2.4,5000,haute,1,33.0,8,128,6.6,90,2,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+realme,Realme 11 Pro,289.0,bas,82.0,0.2837370242214533,0.049694853553230375,faible,True,snapdragon,8,3.0,5000,haute,1,65.0,6,128,6.4,120,3,1.0,android,64.0,32.0,1,256.0,1080,2400,haut performance
+realme,Realme 11 Pro Plus,249.14,bas,78.0,0.31307698482780766,0.06800240352042473,faible,True,dimensity,8,2.2,4200,moyenne,1,66.0,6,128,6.4,90,3,1.0,android,50.0,16.0,0,,1080,2400,basique
+realme,Realme 6 (6GB RAM + 64GB),129.45,bas,77.0,0.5948242564696795,0.24380707902456042,bon,False,helio,8,2.5,4300,moyenne,1,30.0,6,64,6.5,90,4,1.0,android,64.0,16.0,1,256.0,1080,2400,performance intermédiaire
+realme,Realme 6 Pro,144.41,bas,80.0,0.5539782563534381,0.21831998999533514,bon,False,snapdragon,8,2.3,4300,moyenne,1,30.0,6,64,6.6,90,4,2.0,android,64.0,16.0,1,256.0,1080,2400,basique
+realme,Realme 7 Pro (8GB RAM + 128GB),219.24,bas,85.0,0.38770297390987046,0.11456753161658428,moyen,False,snapdragon,8,2.3,4500,haute,1,65.0,8,128,6.4,60,4,1.0,android,64.0,32.0,1,256.0,1080,2400,performance intermédiaire
+realme,Realme 8,159.45,bas,78.0,0.48918156161806214,0.17788814543723383,moyen,False,helio,8,2.0,5000,haute,1,30.0,4,128,6.4,60,4,1.0,android,64.0,16.0,1,256.0,1080,2400,basique
+realme,Realme 8 (8GB RAM + 128GB),179.38,bas,83.0,0.4627048723380533,0.16136721964380718,moyen,False,helio,8,2.0,5000,haute,1,30.0,8,128,6.4,60,4,1.0,android,64.0,16.0,1,256.0,1080,2400,performance intermédiaire
+realme,Realme 8 5G,164.43,bas,75.0,0.4561211457763182,0.15725910564132262,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.5,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,basique
+realme,Realme 8 5G (8GB RAM + 128GB),184.36,bas,80.0,0.4339336081579518,0.14341452489879516,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,8,128,6.5,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme 8i,124.57,bas,74.0,0.5940435096732761,0.24331990860266878,bon,False,helio,8,2.5,5000,haute,1,18.0,4,64,6.6,120,3,1.0,android,50.0,16.0,1,256.0,1080,2412,performance intermédiaire
+realme,Realme 8i (6GB RAM + 128GB),139.51,bas,77.0,0.5519317611640743,0.2170430178330485,bon,False,helio,8,2.5,5000,haute,1,18.0,6,128,6.6,120,3,1.0,android,50.0,16.0,1,256.0,1080,2412,performance intermédiaire
+realme,Realme 8s 5G,179.38,bas,80.0,0.4459805998439068,0.15093160732450334,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,6,128,6.5,90,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme 8s 5G (8GB RAM + 128GB),174.4,bas,82.0,0.4701834862385321,0.1660337254890372,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,8,128,6.5,90,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme 9 4G,149.48,bas,81.0,0.541878512175542,0.21076999106728178,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,6,128,6.4,90,3,1.0,android,108.0,16.0,1,256.0,1080,2400,performance intermédiaire
+realme,Realme 9 4G (8GB RAM + 128GB),159.45,bas,84.0,0.5268109125117592,0.20136810953678508,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,8,128,6.4,90,3,1.0,android,108.0,16.0,1,256.0,1080,2400,performance intermédiaire
+realme,Realme 9 5G,139.51,bas,75.0,0.5375958712637088,0.20809770859434773,bon,True,dimensity,8,2.4,5000,haute,1,18.0,4,64,6.5,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme 9 5G (6GB RAM + 128GB),154.46,bas,79.0,0.5114592774828435,0.19178899560610257,moyen,True,dimensity,8,2.4,5000,haute,1,18.0,6,128,6.5,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme 9 5G SE,189.34,bas,80.0,0.4225203337910637,0.13629286943495486,moyen,True,snapdragon,8,2.4,5000,haute,1,30.0,6,128,6.6,144,3,1.0,android,48.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+realme,Realme 9 5G SE (8GB RAM + 128GB),229.2,bas,82.0,0.35776614310645727,0.0958875465564056,faible,True,snapdragon,8,2.4,5000,haute,1,30.0,8,128,6.6,144,3,1.0,android,48.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+realme,Realme 9 Pro 5G,189.34,bas,80.0,0.4225203337910637,0.13629286943495486,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,6,128,6.6,120,3,1.0,android,64.0,16.0,1,256.0,1080,2412,performance intermédiaire
+realme,Realme 9 Pro 5G (8GB RAM + 128GB),209.28,bas,82.0,0.3918195718654434,0.11713620659804216,moyen,True,snapdragon,8,2.2,5000,haute,1,33.0,8,128,6.6,120,3,1.0,android,64.0,16.0,1,256.0,1080,2412,performance intermédiaire
+realme,Realme 9 Pro Plus 5G,258.12,bas,78.0,0.302185030218503,0.061206041182873705,faible,True,dimensity,8,2.5,4500,haute,1,60.0,6,128,6.4,90,3,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+realme,Realme 9 Pro Plus 5G (8GB RAM + 128GB),229.16,bas,81.0,0.3534648280677256,0.09320361180091144,faible,True,dimensity,8,2.5,4500,haute,1,60.0,8,128,6.4,90,3,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+realme,Realme 9 Pro Plus 5G (8GB RAM + 256GB),244.11,bas,82.0,0.33591413706935397,0.08225233082537091,faible,True,dimensity,8,2.5,4500,haute,1,60.0,8,256,6.4,90,3,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+realme,Realme 9i,124.57,bas,75.0,0.6020711246688609,0.24832898017644717,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,4,64,6.6,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+realme,Realme 9i (4GB RAM + 128GB),139.51,bas,75.0,0.5375958712637088,0.20809770859434773,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,4,128,6.6,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+realme,Realme 9i (6GB RAM + 128GB),149.48,bas,78.0,0.5218089376505218,0.19824697703305158,moyen,False,snapdragon,8,2.4,5000,haute,1,33.0,6,128,6.6,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2412,performance intermédiaire
+realme,Realme 9i 5G,149.14,bas,75.0,0.5028831969961111,0.1864376925099583,moyen,True,dimensity,8,2.4,5000,haute,1,18.0,4,64,6.6,90,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+realme,Realme 9i 5G (6GB RAM + 128GB),169.41,bas,78.0,0.46042146272357004,0.15994241760764935,moyen,True,dimensity,8,2.4,5000,haute,1,18.0,6,128,6.6,90,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+realme,Realme A1,89.68,bas,78.5,0.8753345227475468,0.4188398878648296,excellent,False,helio,8,2.1,4000,moyenne,0,,2,16,6.2,60,2,1.0,android,13.0,8.0,1,256.0,720,1520,basique
+realme,Realme C11,64.68,bas,61.0,0.9431045145330859,0.46112701045290155,excellent,False,helio,8,2.3,5000,haute,0,,2,32,6.5,60,2,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+realme,Realme C11 2021,64.77,bas,61.0,0.941794040450826,0.4603093007748426,excellent,False,sc9863a,8,1.6,5000,haute,0,,2,32,6.52,60,1,1.0,android,8.0,5.0,1,,720,1600,basique
+realme,Realme C11 2021 (4GB RAM + 64GB),77.23,bas,61.0,0.7898485044671759,0.3654983182505395,excellent,False,sc9863a,8,1.6,5000,haute,0,,4,64,6.52,60,1,1.0,android,8.0,5.0,1,,720,1600,basique
+realme,Realme C2,69.75,bas,78.5,1.125448028673835,0.5749057247843239,excellent,False,helio,8,2.0,4000,moyenne,0,,2,16,6.1,60,2,1.0,android,13.0,5.0,1,256.0,1560,720,basique
+realme,Realme C21Y,69.75,bas,62.0,0.8888888888888888,0.4272975418724674,excellent,False,unisoc,8,1.8,5000,haute,0,,3,32,6.5,60,3,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+realme,Realme C25Y (4GB RAM + 64GB),89.68,bas,69.0,0.7694023193577163,0.3527403067265272,excellent,False,tiger,8,1.8,5000,haute,1,18.0,4,64,6.5,60,3,1.0,android,50.0,8.0,1,256.0,1600,720,basique
+realme,Realme C2s,34.87,bas,63.0,1.8067106395182106,1.0,excellent,False,helio,8,2.0,4000,moyenne,0,,3,32,6.1,60,2,1.0,android,13.0,5.0,1,128.0,720,1560,basique
+realme,Realme C30,52.81,bas,78.5,1.4864608975572808,0.8001705512971604,excellent,False,tiger,8,1.82,5000,haute,0,,2,32,6.5,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C30 (3GB RAM + 32GB),62.78,bas,60.0,0.9557183816502071,0.4689978118361942,excellent,False,tiger,8,1.82,5000,haute,0,,3,32,6.5,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C30s,71.21,bas,78.5,1.102373262182278,0.5605075309287387,excellent,False,unisoc,8,1.6,5000,haute,1,10.0,2,32,6.5,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C30s (4GB RAM + 64GB),89.59,bas,62.0,0.6920415224913494,0.30446871314346524,excellent,False,unisoc,8,1.6,5000,haute,1,10.0,4,64,6.5,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C31,82.71,bas,62.0,0.7496070608148955,0.3403884603914733,excellent,False,tiger,8,1.82,5000,haute,0,,3,32,6.52,60,3,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C31 (4GB RAM + 64GB),89.68,bas,65.0,0.7247992863514718,0.32490890414197876,excellent,False,tiger,8,1.82,5000,haute,0,,4,64,6.52,60,3,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C32,94.67,bas,65.0,0.6865955424104785,0.3010705302423847,excellent,False,tiger,8,1.82,5000,haute,0,,4,64,6.52,60,3,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C33,89.2,bas,64.0,0.7174887892376681,0.3203472998170225,excellent,False,unisoc,8,1.8,5000,haute,0,,3,32,6.5,60,2,1.0,android,50.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C33 (4GB RAM + 64GB),99.65,bas,67.0,0.6723532363271449,0.2921836154381353,bon,False,unisoc,8,1.8,5000,haute,0,,4,64,6.5,60,2,1.0,android,50.0,5.0,1,1024.0,720,1600,basique
+realme,Realme C35,117.88,bas,70.0,0.5938242280285035,0.24318308123188856,bon,False,tiger,8,1.8,5000,haute,1,18.0,4,64,6.6,60,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,basique
+realme,Realme C35 (4GB RAM + 128GB),127.44,bas,71.0,0.5571249215317012,0.2202834462778431,bon,False,tiger,8,1.8,5000,haute,1,18.0,4,128,6.6,90,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,basique
+realme,Realme C35 (6GB RAM + 128GB),139.51,bas,74.0,0.530427926313526,0.2036250539749973,bon,False,tiger,8,1.8,5000,haute,1,18.0,6,128,6.6,90,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,basique
+realme,Realme G1,79.72,bas,64.0,0.8028098344204717,0.3735859295103128,excellent,False,helio,8,2.3,6000,haute,0,,3,32,6.52,60,3,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+realme,Realme GT 2 5G,288.95,bas,84.0,0.29070773490223223,0.05404443792409613,faible,True,snapdragon,8,2.84,5000,haute,1,65.0,8,128,6.62,120,3,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+realme,Realme GT 2 Explorer Master Edition,408.51,milieu,86.0,0.2105211622726494,0.6043004325653837,bon,True,snapdragon,8,3.2,5000,haute,1,100.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+realme,Realme GT 2 Pro 5G,497.89,milieu,89.0,0.17875434332884774,0.43004731288004855,moyen,True,snapdragon,8,3.0,5000,haute,1,65.0,8,128,6.7,120,3,1.0,android,50.0,32.0,0,,1440,3216,haut performance
+realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),468.39,milieu,89.0,0.1900125963406563,0.49180312522578684,moyen,True,snapdragon,8,3.0,5000,haute,1,65.0,12,256,6.7,120,3,1.0,android,50.0,32.0,0,,1440,3216,haut performance
+realme,Realme GT 5G,308.89,milieu,85.0,0.27517886626307103,0.9589726032965451,excellent,True,snapdragon,8,2.84,4500,haute,1,65.0,8,128,6.43,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+realme,Realme GT Explorer Master Edition,328.78,milieu,85.0,0.25853154084798347,0.8676556731019344,excellent,True,snapdragon,8,3.2,4500,haute,1,65.0,8,128,6.55,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+realme,Realme GT Master Edition 5G,279.04,bas,84.0,0.3010321100917431,0.060486642029206464,faible,True,snapdragon,8,2.4,4300,moyenne,1,65.0,8,128,6.43,120,3,1.0,android,64.0,32.0,0,,1080,2400,performance intermédiaire
+realme,Realme GT Neo 3 5G,318.85,milieu,83.0,0.2603104908264074,0.8774138923322867,excellent,True,dimensity,8,2.85,5000,haute,1,80.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+realme,Realme GT Neo 3T,249.14,bas,79.0,0.31709079232560006,0.07050693930731393,faible,True,snapdragon,8,3.2,5000,haute,1,80.0,6,128,6.62,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+realme,Realme GT Neo 3T (8GB RAM + 128GB),264.09,bas,81.0,0.30671362035669664,0.06403179106537245,faible,True,snapdragon,8,3.2,5000,haute,1,80.0,8,128,6.62,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+realme,Realme GT Neo 3T (8GB RAM + 256GB),284.02,bas,82.0,0.2887120625308077,0.052799178186082346,faible,True,snapdragon,8,3.2,5000,haute,1,80.0,8,256,6.62,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+realme,Realme GT Neo 4T,298.97,bas,80.0,0.26758537645917646,0.03961654764042812,faible,True,snapdragon,8,3.0,5000,haute,1,120.0,8,128,6.73,144,3,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+realme,Realme GT Neo 5,348.8,milieu,83.0,0.23795871559633028,0.7548058788816261,excellent,True,snapdragon,8,3.2,4600,haute,1,240.0,8,128,6.7,120,3,1.0,android,50.0,16.0,0,,1080,2412,haut performance
+realme,Realme GT Neo2 5G,318.9,milieu,82.0,0.25713389777359674,0.8599890676936516,excellent,True,snapdragon,8,3.2,5000,haute,1,65.0,8,128,6.62,120,3,1.0,android,64.0,16.0,0,,2400,1080,haut performance
+realme,Realme Narzo 20,104.63,bas,72.0,0.6881391570295327,0.3020337149633044,excellent,False,helio,8,2.0,6000,haute,1,18.0,4,64,6.5,60,3,1.0,android,48.0,8.0,1,256.0,720,1600,basique
+realme,Realme Narzo 30 5G,169.41,bas,80.0,0.47222714125494364,0.16730892544007456,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,6,128,6.5,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme Narzo 30 Pro 5G (8GB RAM +128GB),199.31,bas,83.0,0.4164367066379008,0.13249680748440854,moyen,True,dimensity,8,2.4,5000,haute,1,30.0,8,128,6.5,120,3,1.0,android,48.0,16.0,1,256.0,1080,2400,performance intermédiaire
+realme,Realme Narzo 50,109.62,bas,74.0,0.6750592957489508,0.2938721425204852,bon,False,helio,8,2.0,5000,haute,1,33.0,4,64,6.6,120,3,1.0,android,50.0,16.0,1,256.0,1080,2412,basique
+realme,Realme Narzo 50 (6GB RAM + 128GB),154.46,bas,77.0,0.4985109413440373,0.18370949222729152,moyen,False,helio,8,2.0,5000,haute,1,33.0,6,128,6.6,120,3,1.0,android,50.0,16.0,1,256.0,1080,2412,basique
+realme,Realme Narzo 50 5G,179.38,bas,79.0,0.44040584234585795,0.14745306988473536,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,6,128,6.6,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme Narzo 50 5G (4GB RAM + 128GB),149.48,bas,76.0,0.5084292213005085,0.1898983010102315,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,4,128,6.6,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme Narzo 50 5G (4GB RAM + 64GB),134.53,bas,75.0,0.5574964691890285,0.22051528460213315,bon,True,dimensity,8,2.4,5000,haute,1,33.0,4,64,6.6,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme Narzo 50 Pro 5G,204.2,bas,81.0,0.396669931439765,0.12016273418807989,moyen,True,dimensity,8,2.5,5000,haute,1,33.0,6,128,6.4,90,3,1.0,android,48.0,16.0,1,256.0,1080,2400,performance intermédiaire
+realme,Realme Narzo 50 Pro 5G (8GB RAM + 128GB),229.21,bas,83.0,0.36211334584005933,0.09860011431785336,faible,True,dimensity,8,2.5,5000,haute,1,33.0,8,128,6.4,90,3,1.0,android,48.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+realme,Realme Narzo 50A,114.6,bas,71.0,0.6195462478184992,0.25923310832226304,bon,False,helio,8,2.0,6000,haute,1,18.0,4,64,6.5,60,3,1.0,android,50.0,8.0,1,256.0,720,1600,basique
+realme,Realme Narzo 50A Prime,113.6,bas,73.0,0.642605633802817,0.2736217050482344,bon,False,tiger,8,1.82,5000,haute,1,18.0,4,64,6.6,60,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,basique
+realme,Realme Narzo 50A Prime (4GB RAM + 128GB),118.39,bas,74.0,0.6250527916209139,0.2626690817770951,bon,False,tiger,8,1.82,5000,haute,1,18.0,4,128,6.6,60,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,basique
+realme,Realme Narzo 50i,64.68,bas,78.5,1.2136672850958563,0.6299527804598212,excellent,False,unisoc,8,1.6,5000,haute,0,,2,32,6.5,60,1,1.0,android,8.0,5.0,1,256.0,720,1600,basique
+realme,Realme Narzo 50i (4GB RAM + 64GB),89.68,bas,62.0,0.6913470115967886,0.3040353522035675,excellent,False,unisoc,8,1.6,5000,haute,0,,4,64,6.5,60,1,1.0,android,8.0,5.0,1,256.0,720,1600,basique
+realme,Realme Narzo 50i Prime,79.72,bas,61.0,0.7651781234320121,0.35010449275872313,excellent,False,tiger,8,1.82,5000,haute,1,10.0,3,32,6.5,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+realme,Realme Narzo 50i Prime (4GB RAM + 64GB),86.9,bas,64.0,0.7364787111622554,0.3321966321720293,excellent,False,tiger,8,1.82,5000,haute,1,10.0,4,64,6.5,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+realme,Realme Q2i,99.65,bas,69.0,0.6924234821876568,0.3047070483723165,excellent,True,dimensity,8,2.0,5000,haute,1,18.0,4,128,6.5,60,3,1.0,android,13.0,8.0,0,,720,1600,basique
+realme,Realme Q3,149.48,bas,80.0,0.5351886540005353,0.20659565305587174,bon,True,snapdragon,8,2.2,5000,haute,1,30.0,6,128,6.5,120,3,1.0,android,48.0,16.0,1,,1080,2400,performance intermédiaire
+realme,Realme Q3i 5G,109.53,bas,76.0,0.6938738245229618,0.3056120330493369,excellent,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.5,60,3,1.0,android,48.0,16.0,1,,1080,2400,basique
+realme,Realme Q5 5G,149.39,bas,78.0,0.5221233014257983,0.19844313375599223,moyen,True,snapdragon,8,2.2,5000,haute,1,60.0,6,128,6.6,120,3,1.0,android,50.0,16.0,1,,1080,2412,performance intermédiaire
+realme,Realme X50 Pro 5G (12GB RAM + 256GB),279.04,bas,87.0,0.31178325688073394,0.0671951430965686,faible,True,snapdragon,8,2.84,4200,moyenne,1,65.0,12,256,6.44,90,4,2.0,android,64.0,32.0,0,,1080,2400,haut performance
+realme,Realme X50 Pro 5G (8GB RAM + 128GB),249.14,bas,85.0,0.3411736373123545,0.08553415402864914,faible,True,snapdragon,8,2.84,4200,moyenne,1,65.0,8,128,6.44,90,4,2.0,android,64.0,32.0,0,,1080,2400,haut performance
+realme,Realme X7 Max,269.07,bas,84.0,0.31218641989073476,0.06744670877007247,faible,True,dimensity,8,3.0,4500,haute,1,50.0,8,128,6.43,120,3,1.0,android,64.0,16.0,0,,1080,2400,haut performance
+realme,Realme XT,132.34,bas,75.0,0.566722079492217,0.22627188134299267,bon,False,snapdragon,8,2.3,4000,moyenne,1,20.0,4,64,6.4,60,4,1.0,android,64.0,16.0,1,256.0,1080,2340,basique
+redmi,Redmi 12C,79.72,bas,70.0,0.8780732563973909,0.420548803013492,excellent,False,helio,8,2.0,5000,haute,0,,4,64,6.71,60,2,1.0,android,50.0,5.0,1,512.0,720,1650,basique
+redmi,Redmi Note 11 Pro 2023,189.34,bas,81.0,0.427801837963452,0.13958842265110347,moyen,False,snapdragon,8,2.3,5000,haute,1,67.0,6,128,6.67,120,4,1.0,android,108.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+redmi,Redmi Note 12 Pro Speed Edition,199.31,bas,81.0,0.4064020872008429,0.1262354051870268,moyen,True,snapdragon,8,2.4,5000,haute,1,67.0,6,128,6.67,120,3,1.0,android,108.0,16.0,0,,1080,2400,performance intermédiaire
+royole,Royole FlexPai 2,1096.25,haut,87.0,0.07936145952109463,0.6078652513853068,bon,True,snapdragon,8,2.84,4450,moyenne,0,,8,128,7.8,60,3,1.0,,64.0,32.0,0,,1440,1920,haut performance
+royole,Royole FlexPai 3 5G,1494.89,haut,87.0,0.05819826207948411,0.42353672045532653,moyen,True,snapdragon,8,2.84,3360,faible,0,,8,128,7.2,60,3,1.0,,64.0,32.0,0,,1440,1920,performance intermédiaire
+samsung,Samsung Galaxy A01 Core,49.82,bas,79.0,1.5857085507828181,0.8620991065168216,excellent,False,mediatek,4,1.5,3000,faible,0,,1,16,5.3,60,1,1.0,android,8.0,5.0,1,,720,1480,basique
+samsung,Samsung Galaxy A03,72.24,bas,66.0,0.9136212624584719,0.44273004946875893,excellent,False,unisoc,8,1.6,5000,haute,1,15.0,3,32,6.5,60,2,1.0,android,48.0,5.0,1,1024.0,720,1560,basique
+samsung,Samsung Galaxy A03 (4GB RAM + 64GB),114.6,bas,69.0,0.6020942408376964,0.2483434042045392,bon,False,unisoc,8,1.6,5000,haute,1,15.0,4,64,6.5,60,2,1.0,android,48.0,5.0,1,1024.0,720,1560,basique
+samsung,Samsung Galaxy A03 Core,64.77,bas,79.0,1.2197004786166437,0.6337173728301206,excellent,False,unisoc,4,1.6,5000,haute,0,,2,32,6.5,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A03s,84.7,bas,67.0,0.7910271546635183,0.36623377245420696,excellent,False,helio,8,2.3,5000,haute,1,15.0,3,32,6.5,60,3,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A04,119.58,bas,71.0,0.5937447733734739,0.24313350311259257,bon,False,helio,8,2.3,5000,haute,1,,4,64,6.5,60,2,1.0,android,50.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A04 (4GB RAM + 128GB),129.55,bas,72.0,0.555769972983404,0.21943798542042273,bon,False,helio,8,2.3,5000,haute,1,,4,128,6.5,60,2,1.0,android,50.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A04e,92.67,bas,65.0,0.7014136182151721,0.3103167138638225,excellent,False,helio,8,2.3,5000,haute,0,,3,32,6.5,60,2,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A04e (3GB RAM + 64GB),99.16,bas,66.0,0.6655909640984268,0.28796409250216326,bon,False,helio,8,2.3,5000,haute,0,,3,64,6.5,60,2,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A04e (4GB RAM + 128GB),114.6,bas,69.0,0.6020942408376964,0.2483434042045392,bon,False,helio,8,2.3,5000,haute,0,,4,128,6.5,60,2,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A04s,129.46,bas,71.0,0.5484319480920747,0.21485920431158131,bon,False,exynos,8,2.0,5000,haute,1,15.0,4,64,6.5,90,3,1.0,android,50.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A04s (4GB RAM + 128GB),144.5,bas,72.0,0.4982698961937716,0.1835590848633538,moyen,False,exynos,8,2.0,5000,haute,1,15.0,4,128,6.5,90,3,1.0,android,50.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A05,129.46,bas,63.0,0.4866367990112776,0.17630026434893184,moyen,False,mediatek,8,2.0,5000,haute,1,18.0,4,64,6.5,60,2,1.0,android,48.0,5.0,1,1024.0,720,1560,basique
+samsung,Samsung Galaxy A11,99.56,bas,63.0,0.6327842507030936,0.26749335797041995,bon,False,snapdragon,8,1.8,4000,moyenne,1,15.0,2,32,6.4,60,3,1.0,android,13.0,8.0,1,512.0,720,1560,basique
+samsung,Samsung Galaxy A12,119.58,bas,71.0,0.5937447733734739,0.24313350311259257,bon,False,helio,8,2.3,5000,haute,1,15.0,4,64,6.5,60,4,1.0,android,48.0,8.0,1,,720,1560,basique
+samsung,Samsung Galaxy A12 (6GB RAM + 128GB),139.51,bas,75.0,0.5375958712637088,0.20809770859434773,bon,False,helio,8,2.3,5000,haute,1,15.0,6,128,6.5,60,4,1.0,android,48.0,8.0,1,,720,1560,basique
+samsung,Samsung Galaxy A13,144.01,bas,75.0,0.5207971668634123,0.19761565225082459,moyen,False,exynos,8,2.0,5000,haute,1,25.0,4,64,6.6,60,4,1.0,android,50.0,8.0,1,1024.0,1080,2408,basique
+samsung,Samsung Galaxy A13 (4GB RAM + 128GB),149.48,bas,75.0,0.5017393631255018,0.18572396299882146,moyen,False,exynos,8,2.0,5000,haute,1,25.0,4,128,6.6,60,4,1.0,android,50.0,8.0,1,1024.0,1080,2408,basique
+samsung,Samsung Galaxy A13 (6GB RAM + 128GB),164.43,bas,78.0,0.4743659916073709,0.16864352538125282,moyen,False,exynos,8,2.0,5000,haute,1,25.0,6,128,6.6,60,4,1.0,android,50.0,8.0,1,1024.0,1080,2408,basique
+samsung,Samsung Galaxy A13 5G,179.29,bas,73.0,0.4071615817948575,0.12670931465869545,moyen,True,dimensity,8,2.2,5000,haute,1,15.0,4,64,6.5,90,3,1.0,android,50.0,5.0,1,,720,1600,basique
+samsung,Samsung Galaxy A14 5G,164.43,bas,75.0,0.4561211457763182,0.15725910564132262,moyen,True,exynos,8,2.4,5000,haute,1,15.0,4,64,6.6,90,3,1.0,android,50.0,13.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),189.34,bas,79.0,0.41723882961867537,0.13299731621880626,moyen,True,exynos,8,2.4,5000,haute,1,15.0,6,128,6.6,90,3,1.0,android,50.0,13.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),209.28,bas,82.0,0.3918195718654434,0.11713620659804216,moyen,True,exynos,8,2.4,5000,haute,1,15.0,8,128,6.6,90,3,1.0,android,50.0,13.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy A15,159.36,bas,63.0,0.3953313253012048,0.11932747066823808,moyen,False,mediatek,8,2.2,5000,haute,1,,6,64,6.5,60,3,1.0,android,48.0,8.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A21s (6GB RAM + 128GB),174.4,bas,75.0,0.43004587155963303,0.14098865483755194,moyen,False,exynos,8,2.0,5000,haute,0,,6,128,6.5,60,4,1.0,android,48.0,13.0,1,512.0,720,1600,basique
+samsung,Samsung Galaxy A22,184.36,bas,76.0,0.4122369277500542,0.12987622926100878,moyen,False,helio,8,2.0,5000,haute,1,15.0,6,128,6.4,60,4,1.0,android,48.0,13.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A22 5G,179.29,bas,79.0,0.4406269172848458,0.14759101623532245,moyen,True,dimensity,8,2.2,5000,haute,1,15.0,6,128,6.6,90,3,1.0,android,48.0,8.0,1,1024.0,1080,2408,basique
+samsung,Samsung Galaxy A23,184.36,bas,79.0,0.4285094380559774,0.1400299509893486,moyen,False,snapdragon,8,2.4,5000,haute,1,25.0,6,128,6.6,60,4,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy A23 (8GB RAM + 128GB),199.22,bas,82.0,0.41160526051601243,0.12948208151128907,moyen,False,snapdragon,8,2.4,5000,haute,1,25.0,8,128,6.6,60,4,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy A23 5G,229.21,bas,79.0,0.34466210025740585,0.08771088529738172,faible,True,snapdragon,8,2.2,5000,haute,1,25.0,6,128,6.6,120,4,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),249.14,bas,81.0,0.3251184073211849,0.07551601088109236,faible,True,snapdragon,8,2.2,5000,haute,1,25.0,8,128,6.6,120,4,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy A24,179.38,bas,77.0,0.42925632734976027,0.14049599500519946,moyen,False,exynos,8,1.8,4000,moyenne,1,15.0,6,64,6.4,60,3,1.0,android,48.0,16.0,1,1024.0,1080,2408,basique
+samsung,Samsung Galaxy A32,164.43,bas,80.0,0.48652922216140604,0.17623313854120629,moyen,False,helio,8,2.0,5000,haute,1,15.0,6,128,6.4,90,4,1.0,android,64.0,20.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A32 (8GB RAM + 128GB),164.43,bas,82.0,0.4986924527154412,0.18382275170115978,moyen,False,helio,8,2.0,5000,haute,1,15.0,8,128,6.4,90,4,1.0,android,64.0,20.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A32 5G,244.16,bas,79.0,0.32355832241153343,0.07454254902748902,faible,True,dimensity,8,2.0,5000,haute,1,15.0,6,128,6.5,90,4,1.0,android,48.0,13.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy A33 5G,259.11,bas,82.0,0.31646790938211566,0.07011827277961982,faible,True,exynos,8,2.4,5000,haute,1,25.0,6,128,6.4,90,4,1.0,android,48.0,13.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),274.06,bas,85.0,0.3101510618112822,0.06617668594213998,faible,True,exynos,8,2.4,5000,haute,1,25.0,8,128,6.4,90,4,1.0,android,48.0,13.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A34 5G,249.14,bas,75.0,0.30103556233443046,0.06048879615975715,faible,True,exynos,8,2.6,5000,haute,1,33.0,6,128,6.5,90,4,1.0,android,48.0,13.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A40,179.29,bas,69.0,0.3848513581348653,0.11278818027427745,moyen,False,exynos,8,2.2,3100,faible,1,15.0,4,64,5.9,60,2,1.0,android,16.0,25.0,1,512.0,1080,2340,basique
+samsung,Samsung Galaxy A50s,159.36,bas,80.0,0.502008032128514,0.18589160709566513,moyen,False,exynos,8,2.3,4000,moyenne,1,15.0,4,128,6.4,60,3,1.0,android,48.0,32.0,1,512.0,1080,2340,basique
+samsung,Samsung Galaxy A52,249.05,bas,83.0,0.33326641236699456,0.08060020344394145,faible,False,snapdragon,8,2.3,4500,haute,1,25.0,6,128,6.5,90,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A52 (8GB RAM + 128GB),224.18,bas,86.0,0.3836203051119636,0.1120200277524858,moyen,False,snapdragon,8,2.3,4500,haute,1,25.0,8,128,6.5,90,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A53 (8GB RAM + 256GB),363.75,milieu,89.0,0.24467353951890033,0.7916392495353112,excellent,True,exynos,8,2.4,5000,haute,1,25.0,8,256,6.5,120,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,haut performance
+samsung,Samsung Galaxy A53 5G,318.9,milieu,87.0,0.27281279397930386,0.9459937942575657,excellent,True,exynos,8,2.4,5000,haute,1,25.0,6,128,6.5,120,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,haut performance
+samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),333.85,milieu,89.0,0.2665867904747641,0.9118417900623338,excellent,True,exynos,8,2.4,5000,haute,1,25.0,8,128,6.5,120,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,haut performance
+samsung,Samsung Galaxy A54 5G,348.8,milieu,76.0,0.21788990825688073,0.6447208151725518,bon,True,exynos,8,2.4,5000,haute,1,25.0,6,128,6.4,120,3,1.0,android,50.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A7 (2018),214.17,bas,70.0,0.3268431619741327,0.07659222336868357,faible,False,exynos,8,2.2,3300,faible,0,,4,64,6.0,60,3,1.0,android,24.0,24.0,1,512.0,2220,1080,basique
+samsung,Samsung Galaxy A71,224.18,bas,86.0,0.3836203051119636,0.1120200277524858,moyen,False,snapdragon,8,2.2,4500,haute,1,25.0,8,128,6.7,60,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A73 5G,418.56,milieu,79.0,0.18874235474006115,0.4848353654998485,moyen,True,snapdragon,8,2.4,5000,haute,1,25.0,8,128,6.7,120,4,1.0,android,108.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy A73 5G (8GB RAM + 256GB),418.47,milieu,79.0,0.18878294740363705,0.48505803174404977,moyen,True,snapdragon,8,2.4,5000,haute,1,25.0,8,256,6.7,120,4,1.0,android,108.0,32.0,1,1024.0,1080,2400,haut performance
+samsung,Samsung Galaxy A74 5G,428.53,milieu,79.0,0.18435115394488136,0.46074795406974983,moyen,True,snapdragon,8,2.36,5000,haute,1,33.0,8,128,6.7,120,4,1.0,android,108.0,32.0,1,1024.0,1080,2412,performance intermédiaire
+samsung,Samsung Galaxy A75 5G,448.46,milieu,83.0,0.18507782187932034,0.46473400488507705,moyen,True,snapdragon,8,2.3,5000,haute,1,67.0,8,128,6.7,120,4,1.0,android,108.0,32.0,1,1024.0,1080,2412,performance intermédiaire
+samsung,Samsung Galaxy A82 5G,398.54,milieu,86.0,0.2157876248306318,0.6331889886420224,bon,True,snapdragon,8,2.96,4500,haute,1,25.0,6,128,6.71,120,3,1.0,android,64.0,10.0,1,1024.0,1440,3200,haut performance
+samsung,Samsung Galaxy A83 5G,398.54,milieu,86.0,0.2157876248306318,0.6331889886420224,bon,True,snapdragon,8,3.2,4500,haute,1,25.0,6,128,6.71,120,3,1.0,android,64.0,10.0,1,1024.0,1440,3200,haut performance
+samsung,Samsung Galaxy A9 Pro (2019),398.54,milieu,78.0,0.1957143574045265,0.5230794596562955,bon,False,snapdragon,8,2.2,3400,faible,1,,6,128,6.4,60,3,1.0,android,24.0,24.0,1,512.0,1080,2340,basique
+samsung,Samsung Galaxy A92 5G,478.27,milieu,80.0,0.16726953394526106,0.3670487524128578,moyen,True,dimensity,8,3.0,5000,haute,1,,8,128,6.7,60,3,1.0,android,48.0,16.0,0,,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy F04,84.7,bas,68.0,0.8028335301062574,0.37360071514541804,excellent,False,helio,8,2.3,5000,haute,1,15.0,4,64,6.5,60,2,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy F12,104.63,bas,73.0,0.6976966453216095,0.3079973969469188,excellent,False,exynos,8,2.0,6000,haute,1,15.0,4,64,6.5,90,4,1.0,android,48.0,8.0,1,512.0,720,1600,basique
+samsung,Samsung Galaxy F13,109.62,bas,74.0,0.6750592957489508,0.2938721425204852,bon,False,exynos,8,2.0,6000,haute,1,15.0,4,64,6.6,60,3,1.0,android,50.0,8.0,1,1024.0,2408,1080,basique
+samsung,Samsung Galaxy F13 (4GB RAM + 128GB),119.58,bas,75.0,0.6271951831409935,0.2640058913362278,bon,False,exynos,8,2.0,6000,haute,1,15.0,4,128,6.6,60,3,1.0,android,50.0,8.0,1,1024.0,2408,1080,basique
+samsung,Samsung Galaxy F14,149.39,bas,67.0,0.4484905281478011,0.1524977525028874,moyen,False,exynos,8,2.4,5000,haute,1,25.0,4,64,6.62,60,3,1.0,android,50.0,16.0,1,1024.0,2408,1080,basique
+samsung,Samsung Galaxy F22,114.6,bas,73.0,0.6369982547993019,0.27012281243998687,bon,False,helio,8,2.0,6000,haute,0,,4,64,6.4,90,4,1.0,android,48.0,13.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy F22 (6GB RAM + 128GB),134.53,bas,76.0,0.5649297554448822,0.22515350690158736,bon,False,helio,8,2.0,6000,haute,0,,6,128,6.4,90,4,1.0,android,48.0,13.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy F23 5G,159.45,bas,78.0,0.48918156161806214,0.17788814543723383,moyen,True,snapdragon,8,2.2,5000,haute,1,25.0,4,128,6.6,120,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),169.41,bas,80.0,0.47222714125494364,0.16730892544007456,moyen,True,snapdragon,8,2.2,5000,haute,1,25.0,6,128,6.6,120,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy F24 5G,149.48,bas,78.0,0.5218089376505218,0.19824697703305158,moyen,True,snapdragon,8,2.2,5000,haute,1,25.0,4,128,6.6,120,3,1.0,android,50.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy F41 (6GB RAM + 128GB),199.31,bas,82.0,0.41141939691937185,0.12936610633571766,moyen,False,exynos,8,2.3,6000,haute,1,15.0,6,128,6.4,60,3,1.0,android,64.0,32.0,1,512.0,1080,2340,performance intermédiaire
+samsung,Samsung Galaxy F42 5G,154.37,bas,80.0,0.5182354084342813,0.19601716610851397,moyen,True,dimensity,8,2.2,5000,haute,1,15.0,6,128,6.6,90,3,1.0,android,64.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy F42 5G (8GB RAM + 128GB),229.21,bas,82.0,0.357750534444396,0.09587780706273545,faible,True,dimensity,8,2.2,5000,haute,1,15.0,8,128,6.6,90,3,1.0,android,64.0,8.0,1,1024.0,1080,2408,performance intermédiaire
+samsung,Samsung Galaxy F63,219.24,bas,84.0,0.38314176245210724,0.1117214266816017,moyen,True,dimensity,8,2.0,7000,haute,1,33.0,6,128,6.7,60,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy M04,84.7,bas,66.0,0.7792207792207791,0.3588668297629959,excellent,False,helio,8,2.3,5000,haute,1,15.0,4,64,6.5,60,2,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy M04 (4GB RAM + 128GB),94.67,bas,68.0,0.7182845674448083,0.3208438495392763,excellent,False,helio,8,2.3,5000,haute,1,15.0,4,128,6.5,60,2,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy M12,109.62,bas,72.0,0.6568144499178982,0.282487722780555,bon,False,exynos,8,2.0,6000,haute,1,15.0,4,64,6.5,90,4,1.0,android,48.0,8.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy M13,129.55,bas,75.0,0.5789270551910459,0.23388754264031258,bon,False,exynos,8,2.0,6000,haute,1,15.0,6,128,6.6,60,3,1.0,android,50.0,8.0,1,1024.0,1080,2400,basique
+samsung,Samsung Galaxy M13 (4GB RAM + 64GB),105.94,bas,71.0,0.6701906739663961,0.29083421967691503,bon,False,exynos,8,2.0,6000,haute,1,15.0,4,64,6.6,60,3,1.0,android,50.0,8.0,1,1024.0,1080,2400,basique
+samsung,Samsung Galaxy M13 5G,139.51,bas,75.0,0.5375958712637088,0.20809770859434773,bon,True,dimensity,8,2.2,5000,haute,1,15.0,6,128,6.5,90,2,1.0,android,50.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),129.0,bas,71.0,0.5503875968992248,0.2160794901441202,bon,True,dimensity,8,2.2,5000,haute,1,15.0,4,64,6.5,90,2,1.0,android,50.0,5.0,1,1024.0,720,1600,basique
+samsung,Samsung Galaxy M14,149.48,bas,60.0,0.4013914905004014,0.12310889282767055,moyen,False,exynos,8,2.4,6000,haute,0,,4,64,6.5,60,3,1.0,android,48.0,8.0,1,512.0,720,1600,basique
+samsung,Samsung Galaxy M21 2021,116.85,bas,76.0,0.6504065040650406,0.27848929243287224,bon,False,exynos,8,2.3,6000,haute,1,15.0,4,64,6.4,60,3,1.0,android,48.0,20.0,1,512.0,1080,2340,basique
+samsung,Samsung Galaxy M32,123.22,bas,76.0,0.6167829897743873,0.2575088904409386,bon,False,helio,8,2.0,6000,haute,1,15.0,4,64,6.4,90,4,1.0,android,64.0,20.0,1,1024.0,1080,2400,basique
+samsung,Samsung Galaxy M32 (6GB RAM + 128GB),144.41,bas,80.0,0.5539782563534381,0.21831998999533514,bon,False,helio,8,2.0,6000,haute,1,15.0,6,128,6.4,90,4,1.0,android,64.0,20.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy M32 Prime Edition,120.79,bas,75.0,0.6209123271794023,0.26008551458464463,bon,False,helio,8,2.0,6000,haute,1,15.0,4,64,6.4,90,4,1.0,android,64.0,20.0,1,1024.0,1080,2400,basique
+samsung,Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),148.08,bas,79.0,0.5334954078876283,0.20553910126854288,bon,False,helio,8,2.0,6000,haute,1,15.0,6,128,6.4,90,4,1.0,android,64.0,20.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy M33 5G,174.19,bas,81.0,0.4650094724151788,0.16280524410581815,moyen,True,exynos,8,2.4,6000,haute,1,25.0,6,128,6.6,120,4,1.0,android,50.0,8.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),194.33,bas,84.0,0.43225441259712855,0.14236674037560107,moyen,True,exynos,8,2.4,6000,haute,1,25.0,8,128,6.6,120,4,1.0,android,50.0,8.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy M34 5G,169.41,bas,84.0,0.49583849831769083,0.18204194110492494,moyen,True,exynos,8,2.4,6000,haute,1,25.0,6,128,6.5,120,4,1.0,android,64.0,32.0,1,,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy M35,229.21,bas,74.0,0.32284804327908906,0.0740993490217922,faible,False,exynos,8,2.4,6000,haute,1,,8,128,6.5,60,3,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy M51s 5G,249.05,bas,72.0,0.289098574583417,0.05304035399442799,faible,True,Snapdragon,8,2.2,6000,haute,1,,6,128,6.7,60,3,1.0,android,64.0,32.0,1,1024.0,1080,2400,basique
+samsung,Samsung Galaxy M52s 5G,249.05,bas,74.0,0.29712909054406744,0.05805123571252134,faible,True,Snapdragon,8,2.4,5000,haute,1,,8,128,6.5,60,3,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy M53 5G,237.09,bas,85.0,0.358513644607533,0.09635397257739123,faible,True,dimensity,8,2.4,5000,haute,1,25.0,6,128,6.7,120,4,1.0,android,108.0,32.0,1,1024.0,1080,2400,haut performance
+samsung,Samsung Galaxy M53 5G (8GB RAM + 128GB),252.03,bas,87.0,0.3451970003571003,0.08804465228616537,faible,True,dimensity,8,2.4,5000,haute,1,25.0,8,128,6.7,120,4,1.0,android,108.0,32.0,1,1024.0,1080,2400,haut performance
+samsung,Samsung Galaxy M54 5G,348.8,milieu,85.0,0.2436926605504587,0.7862587542270758,excellent,True,snapdragon,8,2.84,6000,haute,1,25.0,6,128,6.67,90,3,1.0,android,64.0,32.0,1,1024.0,1080,2412,haut performance
+samsung,Samsung Galaxy M62,239.17,bas,83.0,0.34703349082242757,0.08919058569109888,faible,False,exynos,8,2.73,7000,haute,1,,6,128,6.71,60,4,1.0,android,64.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy Note 10 Lite,398.63,milieu,83.0,0.20821312997014776,0.5916399949635913,bon,False,exynos,8,2.7,4500,haute,1,25.0,6,128,6.7,60,3,1.0,android,12.0,32.0,1,1024.0,1080,2400,basique
+samsung,Samsung Galaxy Note 10 Plus,587.98,milieu,89.0,0.1513656927106364,0.2798101165577448,faible,False,exynos,8,2.73,4300,moyenne,1,45.0,12,256,6.8,60,4,1.0,android,12.0,10.0,1,1024.0,1440,3040,performance intermédiaire
+samsung,Samsung Galaxy Note 10 Plus 5G,926.83,haut,89.0,0.09602623997928422,0.753013190802488,bon,True,exynos,8,2.7,4300,moyenne,1,,12,256,6.8,60,4,1.0,android,12.0,10.0,1,512.0,1440,3040,performance intermédiaire
+samsung,Samsung Galaxy Note 20,857.08,haut,87.0,0.1015074438792178,0.800753720814079,excellent,False,exynos,8,2.73,4300,moyenne,1,25.0,8,256,6.7,60,3,1.0,android,64.0,10.0,0,,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy Note 30 Ultra 5G,1046.42,haut,79.0,0.07549549893924046,0.5741932679030148,moyen,True,snapdragon,8,3.2,4500,haute,1,67.0,12,256,6.71,120,3,1.0,android,200.0,10.0,1,1024.0,1440,3214,haut performance
+samsung,Samsung Galaxy S10 5G,787.21,haut,86.0,0.10924657969283927,0.8681605263843759,excellent,True,exynos,8,2.7,4500,haute,1,25.0,8,256,6.7,60,3,1.0,android,16.0,10.0,1,512.0,1440,3040,performance intermédiaire
+samsung,Samsung Galaxy S10 Plus,428.53,milieu,81.0,0.18901827176627076,0.486348875639985,moyen,False,exynos,8,2.7,4100,moyenne,1,15.0,8,128,6.4,60,3,2.0,android,16.0,10.0,1,512.0,1440,3040,performance intermédiaire
+samsung,Samsung Galaxy S20,418.56,milieu,88.0,0.21024464831804282,0.6027836480452854,bon,False,exynos,8,2.73,4000,moyenne,1,25.0,8,128,6.2,120,3,1.0,android,64.0,10.0,1,1024.0,1440,3200,performance intermédiaire
+samsung,Samsung Galaxy S20 5G,747.44,haut,89.0,0.11907310285775446,0.9537481878960948,excellent,True,exynos,8,2.73,4000,moyenne,1,25.0,8,128,6.2,60,3,1.0,android,64.0,10.0,1,1024.0,1440,3200,performance intermédiaire
+samsung,Samsung Galaxy S20 FE,353.68,milieu,86.0,0.2431576566387695,0.7833240536887365,excellent,False,exynos,8,2.73,4500,haute,1,25.0,8,128,6.5,120,3,1.0,android,12.0,32.0,1,1024.0,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy S20 FE 5G,311.33,milieu,88.0,0.28265827257251147,1.0,excellent,True,snapdragon,8,2.84,4500,haute,1,,8,128,6.5,120,3,1.0,android,12.0,32.0,1,,1080,2400,haut performance
+samsung,Samsung Galaxy S20 Plus,827.18,haut,88.0,0.10638555090790397,0.8432413602550362,excellent,False,exynos,8,2.73,4500,haute,1,25.0,8,128,6.7,120,4,1.0,android,64.0,10.0,1,1024.0,1440,3200,haut performance
+samsung,Samsung Galaxy S20 Plus 5G,856.98,haut,79.0,0.0921841816611823,0.7195493927409251,bon,True,exynos,8,2.73,4500,haute,1,25.0,8,128,6.7,60,4,1.0,android,64.0,10.0,1,1024.0,1440,3200,performance intermédiaire
+samsung,Samsung Galaxy S20 Ultra 5G,996.59,haut,79.0,0.07927031176311221,0.6070713669841988,bon,True,exynos,8,2.73,5000,haute,1,45.0,12,128,6.9,60,4,1.0,android,108.0,40.0,1,1024.0,1440,3200,performance intermédiaire
+samsung,Samsung Galaxy S21,487.34,milieu,88.0,0.18057208519719292,0.44001832042418293,moyen,True,exynos,8,2.9,4000,moyenne,1,25.0,8,128,6.2,120,3,1.0,android,64.0,10.0,0,,1080,2400,haut performance
+samsung,Samsung Galaxy S21 FE 5G,398.63,milieu,87.0,0.21824749767955248,0.6466823295620556,bon,True,exynos,8,2.9,4500,haute,1,25.0,8,128,6.4,120,3,1.0,android,12.0,32.0,0,,1080,2340,haut performance
+samsung,Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),438.49,milieu,88.0,0.20068872722296974,0.5503657756347936,bon,True,exynos,8,2.9,4500,haute,1,25.0,8,256,6.4,120,3,1.0,android,12.0,32.0,0,,1080,2340,haut performance
+samsung,Samsung Galaxy S21 Plus,592.48,milieu,88.0,0.14852822036186875,0.26424549834185274,faible,True,exynos,8,2.9,4800,haute,1,25.0,8,128,6.7,120,3,1.0,android,64.0,10.0,0,,1080,2400,haut performance
+samsung,Samsung Galaxy S21 Ultra,1056.39,haut,79.0,0.07478298734368935,0.5679873901739585,moyen,True,exynos,8,2.9,5000,haute,1,25.0,12,256,6.8,120,4,1.0,android,108.0,40.0,0,,1440,3200,haut performance
+samsung,Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB),1016.52,haut,79.0,0.07771612953999922,0.5935346541706313,moyen,True,exynos,8,2.9,5000,haute,1,25.0,12,128,6.8,120,4,1.0,android,108.0,40.0,0,,1440,3200,haut performance
+samsung,Samsung Galaxy S22 5G,498.29,milieu,86.0,0.17259025868470168,0.39623495725366,moyen,True,snapdragon,8,3.0,3700,moyenne,1,25.0,8,128,6.1,120,3,1.0,android,50.0,10.0,0,,1080,2340,haut performance
+samsung,Samsung Galaxy S22 5G (8GB RAM + 256GB),578.02,milieu,87.0,0.1505138230511055,0.2751372865208075,faible,True,snapdragon,8,3.0,3700,moyenne,1,25.0,8,256,6.1,120,3,1.0,android,50.0,10.0,0,,1080,2340,haut performance
+samsung,Samsung Galaxy S22 FE 5G,518.22,milieu,79.0,0.15244490756821427,0.28573002172912493,faible,True,exynos,8,3.0,4200,moyenne,1,33.0,8,128,6.4,120,3,1.0,android,12.0,32.0,0,,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy S22 Plus 5G,642.3,milieu,87.0,0.13545072396076602,0.1925104420368042,faible,True,snapdragon,8,3.0,4500,haute,1,45.0,8,128,6.6,120,3,1.0,android,50.0,10.0,0,,1080,2340,haut performance
+samsung,Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),886.96,haut,88.0,0.09921529719491295,0.7807894393221334,bon,True,snapdragon,8,3.0,4500,haute,1,45.0,8,256,6.6,120,3,1.0,android,50.0,10.0,0,,1080,2340,haut performance
+samsung,Samsung Galaxy S22 Ultra 5G,916.86,haut,79.0,0.08616364548567938,0.6671113529927688,bon,True,snapdragon,8,3.0,5000,haute,1,45.0,12,256,6.8,120,4,1.0,android,108.0,40.0,0,,1440,3080,haut performance
+samsung,Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),1185.94,haut,79.0,0.06661382531999932,0.49683511562233124,moyen,True,snapdragon,8,3.0,5000,haute,1,45.0,12,512,6.8,120,4,1.0,android,108.0,40.0,0,,1440,3080,haut performance
+samsung,Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),996.5,haut,79.0,0.07927747114902157,0.607133724248061,bon,True,snapdragon,8,3.0,5000,haute,1,45.0,8,128,6.8,120,4,1.0,android,108.0,40.0,0,,1440,3080,haut performance
+samsung,Samsung Galaxy S23,707.49,haut,88.0,0.124383383510721,1.0,excellent,True,snapdragon,8,3.2,3900,moyenne,1,25.0,8,128,6.1,120,3,1.0,android,50.0,12.0,0,,1080,2340,haut performance
+samsung,Samsung Galaxy S23 FE 5G,548.12,milieu,77.0,0.14048018682040428,0.220098964362062,faible,True,exynos,8,2.8,4500,haute,1,,8,128,6.5,60,4,1.0,android,64.0,32.0,0,,1080,2400,performance intermédiaire
+samsung,Samsung Galaxy S23 Plus,847.01,haut,89.0,0.10507550087956459,0.831831005187716,excellent,True,snapdragon,8,3.2,4700,haute,1,45.0,8,256,6.6,120,3,1.0,android,50.0,12.0,0,,1080,2340,haut performance
+samsung,Samsung Galaxy S23 Ultra 5G,1145.99,haut,79.0,0.06893602911020166,0.5170611903612274,moyen,True,snapdragon,8,3.2,5000,haute,1,45.0,8,256,6.8,120,4,1.0,android,200.0,12.0,0,,1440,3088,haut performance
+samsung,Samsung Galaxy S24 Ultra,1195.82,haut,85.0,0.0710809319128297,0.5357429979513538,moyen,True,snapdragon,8,3.39,5100,haute,1,45.0,12,256,6.83,144,4,1.0,android,200.0,60.0,0,,1200,2860,haut performance
+samsung,Samsung Galaxy S9 Plus (128GB),348.8,milieu,78.0,0.22362385321100917,0.6761736905180015,bon,False,exynos,8,2.8,3500,moyenne,1,,6,128,6.2,60,2,1.0,android,12.0,8.0,1,512.0,1440,2960,performance intermédiaire
+samsung,Samsung Galaxy Z Flip 3,697.61,milieu,84.0,0.12041111795989162,0.11001246611019662,faible,True,snapdragon,8,2.84,3300,faible,1,15.0,8,128,6.7,120,2,1.0,,12.0,10.0,0,,1080,2640,performance intermédiaire
+samsung,Samsung Galaxy Z Flip 4 5G,896.93,haut,88.0,0.0981124502469535,0.7711837945078823,bon,True,snapdragon,8,3.2,3700,moyenne,1,25.0,8,128,6.7,120,2,1.0,,12.0,10.0,0,,1080,2640,haut performance
+samsung,Samsung Galaxy Z Fold 3,1106.22,haut,89.0,0.0804541592088373,0.6173825149625598,bon,True,snapdragon,8,2.84,4400,moyenne,1,25.0,12,256,7.6,120,3,2.0,android,12.0,10.0,0,,1768,2208,haut performance
+samsung,Samsung Galaxy Z Fold 4,1544.71,haut,79.0,0.05114228560700714,0.3620801385264095,faible,True,snapdragon,8,3.2,4400,moyenne,1,25.0,12,256,7.6,120,3,2.0,android,50.0,10.0,0,,1812,2176,haut performance
+samsung,Samsung Galaxy Z Fold 4 (12GB RAM + 1TB),1634.22,haut,79.0,0.04834110462483631,0.3376822385050574,faible,True,snapdragon,8,3.2,4400,moyenne,1,25.0,12,1024,7.6,120,3,2.0,android,50.0,10.0,0,,1812,2176,haut performance
+sharp,Sharp Aquos R5G,597.86,milieu,88.0,0.14719165021911484,0.25691390126047153,faible,False,snapdragon,8,2.84,3730,moyenne,1,,12,256,6.5,60,3,1.0,android,48.0,16.0,1,1024.0,1440,3168,haut performance
+sony,Sony Xperia 1 II,697.61,milieu,89.0,0.12757844640988517,0.1493279967092881,faible,True,snapdragon,8,2.84,4000,moyenne,1,21.0,8,256,6.5,60,4,1.0,android,12.0,8.0,1,,1644,3840,performance intermédiaire
+sony,Sony Xperia 1 IV (12GB RAM + 512GB),926.64,haut,80.0,0.086333419666753,0.6685900626949998,bon,True,snapdragon,8,3.0,5000,haute,1,30.0,12,512,6.5,120,4,1.0,android,12.0,12.0,1,,1644,3840,haut performance
+sony,Sony Xperia 10 II,279.04,bas,75.0,0.2687786697247706,0.0403611388271201,faible,False,snapdragon,8,2.0,3600,moyenne,1,18.0,4,128,6.0,90,3,1.0,android,12.0,8.0,1,,1080,2520,basique
+sony,Sony Xperia 10 III Lite 5G,308.85,milieu,78.0,0.2525497814473045,0.8348434409857951,excellent,True,snapdragon,8,2.0,4500,haute,1,30.0,6,64,6.0,60,3,1.0,android,12.0,8.0,1,,1080,2520,basique
+sony,Sony Xperia 5 II,697.52,milieu,86.0,0.12329395572886799,0.1258259309610378,faible,True,snapdragon,8,2.84,4000,moyenne,1,21.0,8,128,6.1,120,3,1.0,android,12.0,8.0,1,,1080,2520,haut performance
+sony,Sony Xperia 5 IV 5G,819.2,haut,89.0,0.108642578125,0.8628997560312007,excellent,True,snapdragon,8,3.0,5000,haute,1,30.0,8,256,6.1,120,3,1.0,android,12.0,12.0,1,,1080,2520,haut performance
+sony,Sony Xperia Ace IV,199.22,bas,80.0,0.40156610782049995,0.12321785055108854,moyen,False,snapdragon,8,2.0,5000,haute,1,33.0,8,128,6.5,120,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+sony,Sony Xperia L5 5G,159.36,bas,73.0,0.45808232931726905,0.15848284503731283,moyen,False,helio,8,2.3,4000,moyenne,1,,4,64,6.2,60,3,1.0,android,13.0,8.0,1,512.0,720,1680,basique
+sony,Sony Xperia Pro-I,1345.4,haut,80.0,0.05946187007581388,0.4345425718290364,moyen,True,snapdragon,8,2.84,4500,haute,1,30.0,12,512,6.5,120,3,1.0,android,12.0,8.0,1,1024.0,1644,3840,haut performance
+tcl,TCL Ion X,89.59,bas,60.0,0.6697176024109833,0.2905390324660331,bon,False,helio,8,2.0,3000,faible,1,10.0,3,32,6.0,60,1,1.0,android,13.0,5.0,1,,720,1440,basique
+tecno,Tecno Camon 18,114.6,bas,75.0,0.6544502617801048,0.2810125165577107,bon,False,helio,8,2.0,5000,haute,1,18.0,4,128,6.8,90,3,1.0,android,48.0,16.0,0,,1080,2460,basique
+tecno,Tecno Camon 19,146.96,bas,79.0,0.5375612411540555,0.20807610009693514,bon,False,helio,8,2.0,5000,haute,1,18.0,6,128,6.8,60,3,1.0,android,64.0,16.0,1,512.0,1080,2460,basique
+tecno,Tecno Camon 19 Neo,149.48,bas,77.0,0.5151190794755152,0.19407263902164154,moyen,False,helio,8,2.0,5000,haute,1,18.0,6,128,6.8,90,3,1.0,android,48.0,32.0,0,,1080,2400,basique
+tecno,Tecno Camon 19 Pro,179.29,bas,81.0,0.4517820291148419,0.15455158342753142,moyen,False,helio,8,2.5,5000,haute,1,33.0,8,128,6.8,120,3,1.0,android,64.0,32.0,0,,1080,2460,performance intermédiaire
+tecno,Tecno Camon 19 Pro 5G,219.24,bas,82.0,0.3740193395365809,0.10602921681163661,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,8,128,6.8,120,3,1.0,android,64.0,16.0,0,,1080,2460,haut performance
+tecno,Tecno Camon 19 Pro Mondrian Edition,179.38,bas,84.0,0.46827962983610216,0.16484575708357516,moyen,False,helio,8,2.5,5000,haute,1,33.0,8,128,6.8,120,3,1.0,android,64.0,32.0,1,512.0,1080,2460,performance intermédiaire
+tecno,Tecno Camon 20 Premier,209.28,bas,79.0,0.3774847094801223,0.10819153850822599,moyen,True,dimensity,8,2.2,5000,haute,1,33.0,6,128,6.83,120,3,1.0,android,50.0,16.0,0,,1080,2460,performance intermédiaire
+tecno,Tecno Phantom X,259.11,bas,84.0,0.3241866388792405,0.07493460596587724,faible,False,helio,8,2.5,4700,haute,1,33.0,8,256,6.7,90,3,2.0,android,50.0,48.0,0,,1080,2340,performance intermédiaire
+tecno,Tecno Phantom X Pro,229.21,bas,84.0,0.3664761572357227,0.10132242157297126,moyen,False,helio,8,2.5,5000,haute,1,44.0,8,256,6.7,120,4,2.0,android,50.0,48.0,0,,1080,2400,performance intermédiaire
+tecno,Tecno Phantom X2,398.63,milieu,85.0,0.2132303138248501,0.6191611622628234,bon,True,dimensity,8,3.5,5160,haute,1,45.0,8,256,6.8,120,3,1.0,android,64.0,32.0,0,,1080,2400,haut performance
+tecno,Tecno Phantom X2 Pro,498.29,milieu,89.0,0.17861084910393546,0.4292601923190623,moyen,True,dimensity,8,3.5,5160,haute,1,45.0,12,256,6.8,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+tecno,Tecno Pop 5 Go,69.75,bas,74.0,1.060931899641577,0.5346489476265449,excellent,False,spreadtrum,4,1.3,4000,moyenne,0,,1,16,6.1,60,2,1.0,android,5.0,5.0,1,,720,1520,basique
+tecno,Tecno Pop 6 Pro,62.78,bas,74.0,1.1787193373685887,0.6081459584312572,excellent,False,helio,4,2.0,5000,haute,0,,2,32,6.56,60,2,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+tecno,Tecno Pova 2,109.62,bas,74.0,0.6750592957489508,0.2938721425204852,bon,False,helio,8,2.0,7000,haute,1,18.0,4,64,6.95,60,4,1.0,android,48.0,8.0,1,256.0,1080,2460,basique
+tecno,Tecno Pova 3,99.65,bas,74.0,0.7425990968389362,0.3360156307077693,excellent,False,helio,8,2.0,7000,haute,1,33.0,4,64,6.95,90,3,1.0,android,50.0,8.0,1,256.0,1080,2460,basique
+tecno,Tecno Pova 3 (6GB RAM + 128GB),137.52,bas,77.0,0.5599185573007562,0.22202661925337325,bon,False,helio,8,2.0,7000,haute,1,33.0,6,128,6.9,90,3,1.0,android,50.0,8.0,1,256.0,1080,2460,basique
+tecno,Tecno Pova 4,119.58,bas,73.0,0.6104699782572337,0.2535696972244102,bon,False,helio,8,2.2,6000,haute,1,18.0,8,128,6.82,90,2,1.0,android,50.0,8.0,1,512.0,720,1600,performance intermédiaire
+tecno,Tecno Pova 4 Pro,159.45,bas,74.0,0.46409532768893075,0.16223483603753297,moyen,False,helio,8,2.2,6000,haute,1,45.0,8,256,6.66,90,2,1.0,android,50.0,8.0,1,1024.0,720,1600,performance intermédiaire
+tecno,Tecno Pova 5G,154.46,bas,78.0,0.5049851094134403,0.187749243916697,moyen,True,dimensity,8,2.4,6000,haute,1,18.0,8,128,6.9,120,3,1.0,android,50.0,16.0,1,512.0,1080,2460,performance intermédiaire
+tecno,Tecno Pova Neo 2,139.42,bas,67.0,0.48056232965141304,0.17250991667866855,moyen,False,helio,8,2.0,7000,haute,0,,6,128,6.82,90,2,1.0,android,16.0,8.0,1,512.0,720,1600,basique
+tecno,Tecno Pova Neo 5G,154.46,bas,71.0,0.45966593292761876,0.15947098209085842,moyen,False,dimensity,8,2.4,6000,haute,1,18.0,4,128,6.8,120,2,1.0,android,50.0,8.0,1,1024.0,1080,2400,performance intermédiaire
+tecno,Tecno Spark 8 (4GB RAM + 64GB),89.68,bas,64.0,0.7136485280999108,0.31795105349584163,excellent,False,helio,8,1.8,5000,haute,0,,4,64,6.52,60,2,1.0,android,16.0,8.0,1,256.0,720,1600,basique
+tecno,Tecno Spark 8 Pro,87.69,bas,72.0,0.8210742387957578,0.3849825533915724,excellent,False,helio,8,2.0,5000,haute,1,33.0,4,64,6.8,60,3,1.0,android,48.0,8.0,1,,1080,2460,basique
+tecno,Tecno Spark 8C,73.74,bas,62.0,0.8407919717927855,0.39728602533300034,excellent,False,unisoc,8,2.0,5000,haute,0,,3,64,6.6,90,2,1.0,android,13.0,8.0,1,256.0,720,1612,basique
+tecno,Tecno Spark 8C (4GB RAM + 64GB),88.6,bas,63.0,0.7110609480812642,0.3163364551969187,excellent,False,unisoc,8,2.0,5000,haute,0,,4,64,6.6,90,2,1.0,android,13.0,8.0,1,256.0,720,1612,basique
+tecno,Tecno Spark 8T,79.72,bas,70.0,0.8780732563973909,0.420548803013492,excellent,False,helio,8,2.3,5000,haute,0,,4,64,6.6,60,2,1.0,android,50.0,8.0,1,,720,1600,basique
+tecno,Tecno Spark 9,89.68,bas,69.0,0.7694023193577163,0.3527403067265272,excellent,False,helio,8,2.3,5000,haute,0,,6,128,6.6,90,2,1.0,android,13.0,8.0,1,256.0,720,1600,basique
+tecno,Tecno Spark 9 (3GB RAM + 64GB),83.61,bas,63.0,0.7534983853606028,0.34281656926029286,excellent,False,helio,8,2.3,5000,haute,0,,3,64,6.6,90,2,1.0,android,13.0,8.0,1,256.0,720,1600,basique
+tecno,Tecno Spark 9 (4GB RAM + 64GB),79.72,bas,65.0,0.8153537380832915,0.38141307509417594,excellent,False,helio,8,2.3,5000,haute,0,,4,64,6.6,90,2,1.0,android,13.0,8.0,1,256.0,720,1600,basique
+tecno,Tecno Spark 9 Pro,99.65,bas,74.0,0.7425990968389362,0.3360156307077693,excellent,False,helio,8,2.0,5000,haute,1,18.0,4,64,6.6,90,3,1.0,android,48.0,32.0,1,,1080,2460,basique
+tecno,Tecno Spark 9T,89.38,bas,72.0,0.8055493398970688,0.375295326263468,excellent,False,helio,8,2.3,5000,haute,1,18.0,4,64,6.6,60,3,1.0,android,50.0,8.0,1,,1080,2408,basique
+tecno,Tecno Spark Go 2022,62.28,bas,61.0,0.9794476557482338,0.48380440537813607,excellent,False,mediatek,8,2.2,5000,haute,0,,2,32,6.51,60,2,1.0,android,13.0,8.0,1,256.0,720,1600,basique
+tecno,Tecno Spark Go 2023,69.75,bas,62.0,0.8888888888888888,0.4272975418724674,excellent,False,helio,4,2.0,5000,haute,1,10.0,3,32,6.56,60,2,1.0,android,13.0,5.0,1,256.0,720,1600,basique
+vertu,Vertu Signature Touch,6477.9,haut,62.0,0.009571002948486392,0.0,faible,False,snapdragon,8,1.5,2275,faible,0,,2,64,4.7,60,1,1.0,android,13.0,2.1,0,,1080,1920,basique
+vivo,Vivo S1 Pro,298.97,bas,82.0,0.27427501087065587,0.04379074602786215,faible,False,snapdragon,8,2.0,4500,haute,1,18.0,8,128,6.38,60,4,1.0,android,48.0,32.0,1,256.0,1080,2340,performance intermédiaire
+vivo,Vivo S16,298.88,bas,85.0,0.2843950749464668,0.05010546407485883,faible,True,snapdragon,8,3.2,4600,haute,1,66.0,8,128,6.78,120,3,1.0,android,64.0,50.0,0,,1080,2400,haut performance
+vivo,Vivo S16 Pro,353.78,milieu,86.0,0.24308892532082088,0.7829470361915228,excellent,True,dimensity,8,3.1,4600,haute,1,66.0,8,256,6.78,120,3,1.0,android,50.0,50.0,0,,1080,2400,haut performance
+vivo,Vivo S17 Pro,498.2,milieu,77.0,0.15455640305098353,0.2973123799037015,faible,True,dimensity,8,3.1,5000,haute,1,120.0,12,256,6.67,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+vivo,Vivo T1 44W,144.5,bas,77.0,0.532871972318339,0.20515008991337366,bon,False,snapdragon,8,2.4,5000,haute,1,44.0,4,128,6.44,60,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo T1 44W (6GB RAM + 128GB),159.45,bas,79.0,0.495453120100345,0.18180147278715905,moyen,False,snapdragon,8,2.4,5000,haute,1,44.0,6,128,6.44,60,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo T1 44W (8GB RAM + 128GB),179.38,bas,82.0,0.4571301148400045,0.15788868220403926,moyen,False,snapdragon,8,2.4,5000,haute,1,44.0,8,128,6.44,60,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo T1 5G,159.36,bas,78.0,0.4894578313253012,0.17806053222185023,moyen,True,snapdragon,8,2.2,5000,haute,1,18.0,4,128,6.58,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo T1 5G (6GB RAM + 128GB),169.32,bas,80.0,0.4724781478856603,0.16746554856904178,moyen,True,snapdragon,8,2.2,5000,haute,1,18.0,6,128,6.58,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo T1 5G (8GB RAM + 128GB),199.22,bas,83.0,0.4166248368637687,0.13261419699138935,moyen,True,snapdragon,8,2.2,5000,haute,1,18.0,8,128,6.58,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo T1 Pro,239.17,bas,81.0,0.3386712380315257,0.08397270681042342,faible,True,snapdragon,8,2.4,4700,haute,1,66.0,6,128,6.44,90,3,1.0,android,64.0,16.0,1,1024.0,1080,2404,performance intermédiaire
+vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),249.14,bas,84.0,0.3371598298145621,0.08302961824175994,faible,True,snapdragon,8,2.4,4700,haute,1,66.0,8,128,6.44,90,3,1.0,android,64.0,16.0,1,1024.0,1080,2404,performance intermédiaire
+vivo,Vivo T1x (4GB RAM + 128GB),129.55,bas,75.0,0.5789270551910459,0.23388754264031258,bon,False,snapdragon,8,2.4,5000,haute,1,18.0,4,128,6.58,90,2,1.0,android,50.0,8.0,1,,1080,2408,performance intermédiaire
+vivo,Vivo T1x (6GB RAM + 128GB),149.48,bas,77.0,0.5151190794755152,0.19407263902164154,moyen,False,snapdragon,8,2.4,5000,haute,1,18.0,6,128,6.58,90,2,1.0,android,50.0,8.0,1,,1080,2408,performance intermédiaire
+vivo,Vivo T1x 4G,119.58,bas,74.0,0.6188325806991136,0.258787794280319,bon,False,snapdragon,8,2.4,5000,haute,1,18.0,4,64,6.58,90,2,1.0,android,50.0,8.0,1,,1080,2408,performance intermédiaire
+vivo,Vivo T2 5G,249.05,bas,85.0,0.341296928327645,0.08561108516203479,faible,True,snapdragon,8,3.2,4700,haute,1,80.0,8,128,6.62,120,3,1.0,android,64.0,16.0,1,1024.0,1080,2400,haut performance
+vivo,Vivo T2 Pro 5G,298.88,bas,76.0,0.25428265524625265,0.03131591504678675,faible,True,snapdragon,8,2.8,4500,haute,1,67.0,8,128,6.44,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo T2x 5G,189.25,bas,80.0,0.4227212681638045,0.13641824847408973,moyen,True,dimensity,8,3.0,6000,haute,1,44.0,8,128,6.58,120,2,1.0,android,50.0,16.0,0,,1080,2408,haut performance
+vivo,Vivo T3 Pro,318.81,milieu,86.0,0.2697531445061322,0.929210449762577,excellent,True,snapdragon,8,2.7,4700,haute,1,80.0,8,256,6.67,120,3,1.0,android,64.0,32.0,1,1024.0,1080,2408,haut performance
+vivo,Vivo U3,99.56,bas,72.0,0.7231820008035356,0.32389975023147033,excellent,False,snapdragon,8,2.0,5000,haute,1,18.0,4,64,6.53,60,3,1.0,android,16.0,16.0,1,256.0,1080,2340,basique
+vivo,Vivo U3 (6GB RAM + 64GB),119.49,bas,74.0,0.6192986860825174,0.25907863473887077,bon,False,snapdragon,8,2.0,5000,haute,1,18.0,6,64,6.53,60,3,1.0,android,16.0,16.0,1,256.0,1080,2340,basique
+vivo,Vivo U3x,89.59,bas,71.0,0.7924991628529969,0.36715227619191015,excellent,True,snapdragon,8,2.0,5000,haute,1,18.0,6,64,6.58,90,2,1.0,android,13.0,8.0,0,,1080,2408,basique
+vivo,Vivo V11i,209.19,bas,70.0,0.3346240260050672,0.08144732726420234,faible,False,helio,8,2.0,3315,faible,0,,4,128,6.3,60,2,1.0,android,16.0,25.0,1,256.0,1080,2280,basique
+vivo,Vivo V15 Pro (8GB RAM +128GB),249.15,bas,78.0,0.3130644190246839,0.06799456271001424,faible,False,snapdragon,8,2.0,3700,moyenne,1,,8,128,6.39,60,3,1.0,android,48.0,32.0,1,256.0,1080,2316,basique
+vivo,Vivo V19 (8GB RAM + 256GB),278.95,bas,84.0,0.301129234629862,0.06054724580296436,faible,False,snapdragon,8,2.3,4500,haute,1,33.0,8,256,6.44,60,4,2.0,android,48.0,32.0,1,512.0,1080,2400,performance intermédiaire
+vivo,Vivo V20,231.9,bas,85.0,0.3665373005605865,0.10136057378762903,moyen,False,snapdragon,8,2.3,4000,moyenne,1,33.0,8,128,6.44,60,3,1.0,android,64.0,44.0,1,1024.0,1080,2400,performance intermédiaire
+vivo,Vivo V20 Pro,269.08,bas,84.0,0.3121748178980229,0.06743946935812709,faible,True,snapdragon,8,2.4,4000,moyenne,1,33.0,8,128,6.44,60,3,2.0,android,64.0,44.0,0,,1080,2400,performance intermédiaire
+vivo,Vivo V20 SE,189.35,bas,82.0,0.43306047002904674,0.14286970412900415,moyen,False,snapdragon,8,2.0,4100,moyenne,1,33.0,8,128,6.44,60,3,1.0,android,48.0,32.0,1,,1080,2400,basique
+vivo,Vivo V21,249.14,bas,83.0,0.3331460223167697,0.08052508245487075,faible,False,dimensity,8,2.4,4000,moyenne,1,33.0,8,128,6.44,90,3,1.0,android,64.0,44.0,1,,1080,2400,performance intermédiaire
+vivo,Vivo V21 5G,239.12,bas,85.0,0.3554700568752091,0.09445483456433638,faible,True,dimensity,8,2.4,4000,moyenne,1,33.0,8,128,6.44,90,3,1.0,android,64.0,44.0,1,,1080,2400,performance intermédiaire
+vivo,Vivo V21 Pro,328.87,milieu,85.0,0.25846078997780275,0.8672675775903488,excellent,True,snapdragon,8,2.4,4300,moyenne,1,33.0,8,128,6.44,60,4,2.0,android,64.0,44.0,0,,1080,2400,performance intermédiaire
+vivo,Vivo V21s,298.97,bas,86.0,0.28765427969361473,0.05213914280273022,faible,True,dimensity,8,2.4,4000,moyenne,1,33.0,8,128,6.44,90,3,1.0,android,64.0,44.0,1,,1080,2400,performance intermédiaire
+vivo,Vivo V23 5G,249.09,bas,83.0,0.3332128949375728,0.08056680963587196,faible,True,dimensity,8,2.5,4200,moyenne,1,44.0,8,128,6.44,90,3,2.0,android,64.0,50.0,0,,1080,2400,performance intermédiaire
+vivo,Vivo V23 5G (12GB RAM + 256GB),278.99,bas,86.0,0.3082547761568515,0.06499344153236235,faible,True,dimensity,8,2.5,4200,moyenne,1,44.0,12,256,6.44,90,3,2.0,android,64.0,50.0,1,,1080,2400,haut performance
+vivo,Vivo V23 Pro 5G,318.85,milieu,85.0,0.26658303277403167,0.911821177640403,excellent,True,dimensity,8,3.0,4300,moyenne,1,44.0,8,128,6.56,90,3,2.0,android,108.0,50.0,0,,1080,2376,haut performance
+vivo,Vivo V23 Pro 5G (12GB RAM + 256GB),368.68,milieu,87.0,0.23597699902354344,0.7439354075337979,excellent,True,dimensity,8,3.0,4300,moyenne,1,44.0,12,256,6.56,90,3,2.0,android,108.0,50.0,0,,1080,2376,haut performance
+vivo,Vivo V23e,268.98,bas,82.0,0.30485537958212505,0.06287228590147732,faible,False,helio,8,2.5,4050,moyenne,1,44.0,8,128,6.44,60,3,1.0,android,64.0,50.0,0,,1080,2400,performance intermédiaire
+vivo,Vivo V23e 5G,219.19,bas,84.0,0.38322916191432094,0.11177596220204943,moyen,True,dimensity,8,2.4,4050,moyenne,1,44.0,8,128,6.44,60,3,1.0,android,50.0,44.0,1,,1080,2400,performance intermédiaire
+vivo,Vivo V25 (12GB RAM + 256GB),318.9,milieu,85.0,0.266541235497021,0.9115919036320002,excellent,True,dimensity,8,2.0,4500,haute,1,44.0,12,256,6.44,90,3,1.0,android,64.0,50.0,1,1024.0,1080,2408,haut performance
+vivo,Vivo V25 5G,279.04,bas,83.0,0.2974483944954128,0.058250475006752435,faible,True,dimensity,8,2.0,4500,haute,1,44.0,8,128,6.44,90,3,1.0,android,64.0,50.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo V25 Pro (12GB RAM + 256GB),398.63,milieu,86.0,0.21573890575220128,0.6329217459124394,bon,True,dimensity,8,3.0,4830,haute,1,66.0,12,256,6.56,120,3,1.0,android,64.0,32.0,0,,1080,2376,haut performance
+vivo,Vivo V25 Pro 5G,358.77,milieu,85.0,0.23692058979290354,0.7491113628461056,excellent,True,dimensity,8,3.0,4830,haute,1,66.0,8,128,6.56,120,3,1.0,android,64.0,32.0,0,,1080,2376,haut performance
+vivo,Vivo V25e,199.22,bas,84.0,0.42164441321152496,0.13574631247148963,moyen,False,helio,8,2.2,4500,haute,1,44.0,8,256,6.44,90,3,1.0,android,64.0,32.0,1,,1080,2400,performance intermédiaire
+vivo,Vivo V26 Pro,428.44,milieu,87.0,0.20306227243021194,0.5633855765096567,bon,True,dimensity,8,3.2,4800,haute,1,100.0,12,256,6.7,120,3,1.0,android,64.0,32.0,0,,1080,2400,haut performance
+vivo,Vivo V27,278.95,bas,83.0,0.2975443627890303,0.05831035730701318,faible,True,dimensity,8,2.2,4700,haute,1,67.0,8,256,6.56,120,3,1.0,android,64.0,50.0,1,,1080,2400,performance intermédiaire
+vivo,Vivo V27 Pro,438.49,milieu,87.0,0.19840817350452689,0.5378560685485511,bon,True,dimensity,8,3.2,5000,haute,1,120.0,12,256,6.73,144,3,1.0,android,108.0,32.0,0,,1080,2400,haut performance
+vivo,Vivo V28,288.91,bas,84.0,0.2907479838011837,0.054069552433913134,faible,True,snapdragon,8,2.2,5000,haute,1,80.0,8,256,6.7,120,3,1.0,android,108.0,32.0,1,,1080,2400,performance intermédiaire
+vivo,Vivo V29,328.78,milieu,84.0,0.25548999330859545,0.8509716246189172,excellent,True,snapdragon,8,2.4,5000,haute,1,80.0,8,256,6.67,120,3,1.0,android,64.0,32.0,1,,1080,2400,haut performance
+vivo,Vivo X Fold 2,1195.82,haut,79.0,0.06606345436604172,0.4920414605194369,moyen,True,snapdragon,8,3.2,4800,haute,1,66.0,12,256,8.03,120,3,1.0,android,50.0,32.0,0,,1916,2160,haut performance
+vivo,Vivo X Fold 5G,1066.26,haut,79.0,0.07409074709733086,0.5619580731005854,moyen,True,snapdragon,8,3.0,4600,haute,1,66.0,12,256,8.03,120,4,1.0,android,50.0,16.0,0,,1916,2160,haut performance
+vivo,Vivo X Fold 5G (12GB RAM + 512GB),1185.85,haut,79.0,0.06661888097145507,0.4968791496492454,moyen,True,snapdragon,8,3.0,4600,haute,1,66.0,12,512,8.03,120,4,1.0,android,50.0,16.0,0,,1916,2160,haut performance
+vivo,Vivo X Fold Plus,1136.02,haut,79.0,0.06954102920723226,0.5223306577659439,moyen,True,snapdragon,8,3.2,4730,haute,1,80.0,12,256,8.03,120,4,2.0,android,50.0,16.0,0,,1916,2160,haut performance
+vivo,Vivo X Note 5G (12GB RAM + 512GB),827.08,haut,79.0,0.09551675775015718,0.7485756708535756,bon,True,snapdragon,8,3.0,5000,haute,1,80.0,12,512,7.0,120,4,1.0,android,50.0,16.0,0,,1440,3080,haut performance
+vivo,Vivo X80 5G,548.12,milieu,86.0,0.1568999489162957,0.31016762294452205,moyen,True,dimensity,8,3.5,4500,haute,1,80.0,8,128,6.78,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+vivo,Vivo X80 5G (12GB RAM + 256GB),597.95,milieu,88.0,0.1471694957772389,0.2567923756957431,faible,True,dimensity,8,3.5,4500,haute,1,80.0,12,256,6.78,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+vivo,Vivo X80 Pro 5G,797.27,haut,79.0,0.0990881382718527,0.7796819026397864,bon,True,snapdragon,8,3.0,4700,haute,1,80.0,12,256,6.78,120,4,1.0,android,50.0,32.0,0,,1440,3200,haut performance
+vivo,Vivo X80 Pro Plus 5G,827.08,haut,79.0,0.09551675775015718,0.7485756708535756,bon,True,snapdragon,8,3.2,4500,haute,1,120.0,12,256,6.78,120,4,1.0,android,50.0,32.0,0,,1440,3200,haut performance
+vivo,Vivo X90 5G,418.47,milieu,88.0,0.21028986546227924,0.6030316813299651,bon,True,dimensity,8,3.5,4810,haute,1,120.0,8,128,6.78,120,3,1.0,android,50.0,32.0,0,,1260,2800,haut performance
+vivo,Vivo X90 Pro 5G,568.05,milieu,79.0,0.13907226476542559,0.21237597482420978,faible,True,dimensity,8,3.5,4870,haute,1,120.0,8,256,6.78,120,3,1.0,android,50.3,32.0,0,,1260,2800,haut performance
+vivo,Vivo X90 Pro Plus 5G,737.47,haut,79.0,0.10712300161362495,0.8496644541941192,excellent,True,snapdragon,8,3.2,4700,haute,1,80.0,12,256,6.78,120,4,1.0,android,50.3,32.0,0,,1440,3200,haut performance
+vivo,Vivo Y01,79.72,bas,61.0,0.7651781234320121,0.35010449275872313,excellent,False,helio,8,2.3,5000,haute,0,,2,32,6.51,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+vivo,Vivo Y01A,77.64,bas,60.0,0.7727975270479135,0.3548588485770512,excellent,False,helio,8,2.3,5000,haute,1,10.0,2,32,6.51,60,1,1.0,android,8.0,5.0,1,,720,1600,basique
+vivo,Vivo Y02,89.68,bas,79.0,0.8809099018733273,0.42231881318789816,excellent,False,helio,8,2.0,5000,haute,1,10.0,3,32,6.51,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+vivo,Vivo Y02 (2GB RAM + 32GB),79.72,bas,79.0,0.9909683893627697,0.4909931132682609,excellent,False,helio,8,2.0,5000,haute,1,10.0,2,32,6.51,60,1,1.0,android,8.0,5.0,1,1024.0,720,1600,basique
+vivo,Vivo Y02s,89.59,bas,61.0,0.6808795624511664,0.29750387280474916,bon,False,helio,8,2.3,5000,haute,1,10.0,3,32,6.51,60,1,1.0,android,8.0,5.0,1,,720,1600,basique
+vivo,Vivo Y10,124.48,bas,63.0,0.5061053984575835,0.1884482819259338,moyen,False,helio,8,2.3,5000,haute,0,,4,128,6.51,60,2,1.0,android,13.0,8.0,0,,720,1600,basique
+vivo,Vivo Y100,298.88,bas,82.0,0.2743576017130621,0.04384228106550148,faible,True,dimensity,8,2.4,5000,haute,1,66.0,8,128,6.0,120,3,2.0,android,50.0,50.0,0,,1080,2400,performance intermédiaire
+vivo,Vivo Y11 (2019),94.58,bas,64.0,0.6766758299851977,0.2948808276274911,bon,False,snapdragon,8,2.0,5000,haute,0,,3,32,6.35,60,2,1.0,android,13.0,8.0,1,256.0,720,1544,basique
+vivo,Vivo Y12 (3GB RAM + 64GB),109.63,bas,68.0,0.6202681747696799,0.2596835763344301,bon,False,helio,8,2.0,5000,haute,0,,3,64,6.35,60,3,1.0,android,13.0,8.0,1,256.0,720,1544,basique
+vivo,Vivo Y12a,99.65,bas,65.0,0.6522829904666332,0.2796601825039542,bon,False,snapdragon,8,2.0,5000,haute,0,,3,32,6.51,60,2,1.0,android,13.0,8.0,1,,720,1600,basique
+vivo,Vivo Y12G (3GB RAM + 64GB),119.49,bas,68.0,0.5690852791028538,0.22774647074461637,bon,False,snapdragon,8,2.0,5000,haute,0,,3,64,6.51,60,3,1.0,android,13.0,8.0,1,,720,1600,basique
+vivo,Vivo Y15,124.57,bas,71.0,0.5699606646865216,0.22829269388133355,bon,False,helio,8,2.0,5000,haute,0,,4,64,6.35,60,3,1.0,android,13.0,16.0,1,256.0,720,1544,basique
+vivo,Vivo Y15C,84.7,bas,66.0,0.7792207792207791,0.3588668297629959,excellent,False,helio,8,2.3,5000,haute,0,,3,32,6.51,60,2,1.0,android,13.0,8.0,1,1024.0,720,1600,basique
+vivo,Vivo Y15C (3GB RAM + 64GB),104.54,bas,67.0,0.6409030036349722,0.2725592977978743,bon,False,helio,8,2.3,5000,haute,0,,3,64,6.51,60,2,1.0,android,13.0,8.0,1,1024.0,720,1600,basique
+vivo,Vivo Y15s,84.7,bas,66.0,0.7792207792207791,0.3588668297629959,excellent,False,helio,8,2.3,5000,haute,0,,3,32,6.51,60,2,1.0,android,13.0,8.0,1,1024.0,720,1600,basique
+vivo,Vivo Y16,99.65,bas,65.0,0.6522829904666332,0.2796601825039542,bon,False,helio,8,2.3,5000,haute,1,10.0,3,32,6.51,60,2,1.0,android,13.0,5.0,1,,720,1600,basique
+vivo,Vivo Y16 (3GB RAM + 64GB),104.63,bas,66.0,0.6307942272770716,0.2662516230616179,bon,False,helio,8,2.3,5000,haute,1,10.0,3,64,6.51,60,2,1.0,android,13.0,5.0,1,,720,1600,basique
+vivo,Vivo Y16 (4GB RAM + 64GB),124.47,bas,68.0,0.5463163814573793,0.2135391329456631,bon,False,helio,8,2.3,5000,haute,1,10.0,4,64,6.51,60,2,1.0,android,13.0,5.0,1,,720,1600,basique
+vivo,Vivo Y19,199.32,bas,73.0,0.3662452337949027,0.10117832995375849,moyen,False,helio,8,2.0,5000,haute,1,18.0,4,128,6.53,60,3,1.0,android,16.0,16.0,1,256.0,1080,2340,basique
+vivo,Vivo Y20G,139.42,bas,69.0,0.4949074738201119,0.18146100039614918,moyen,False,helio,8,2.0,5000,haute,1,18.0,4,64,6.51,60,3,1.0,android,13.0,8.0,1,256.0,720,1600,basique
+vivo,Vivo Y21 (2020),99.56,bas,65.0,0.6528726396143029,0.28002811180620885,bon,False,snapdragon,8,1.8,5000,haute,0,,4,64,6.5,60,2,1.0,android,13.0,13.0,1,256.0,720,1544,basique
+vivo,Vivo Y21 2021,134.43,bas,69.0,0.5132782860968533,0.19292402068464784,moyen,False,helio,8,2.3,5000,haute,1,18.0,4,64,6.51,60,2,1.0,android,13.0,8.0,1,1024.0,720,1600,basique
+vivo,Vivo Y21e,124.57,bas,69.0,0.553905434695352,0.21827455073377677,bon,False,snapdragon,8,2.4,5000,haute,1,18.0,3,64,6.51,60,2,1.0,android,13.0,8.0,1,1024.0,720,1600,basique
+vivo,Vivo Y21s,149.39,bas,74.0,0.4953477475065266,0.18173572239122684,moyen,False,helio,8,2.0,5000,haute,1,18.0,4,128,6.51,60,3,1.0,android,50.0,8.0,1,1024.0,720,1600,basique
+vivo,Vivo Y21T,154.46,bas,74.0,0.47908843713582805,0.17159023715907498,moyen,False,snapdragon,8,2.4,5000,haute,1,18.0,4,128,6.51,90,3,1.0,android,50.0,8.0,1,1024.0,1600,720,performance intermédiaire
+vivo,Vivo Y22,144.5,bas,72.0,0.4982698961937716,0.1835590848633538,moyen,False,helio,8,2.0,5000,haute,1,18.0,4,64,6.55,60,2,1.0,android,50.0,8.0,1,1024.0,720,1612,basique
+vivo,Vivo Y22 (6GB RAM + 128GB),164.43,bas,75.0,0.4561211457763182,0.15725910564132262,moyen,False,helio,8,2.0,5000,haute,1,18.0,6,128,6.55,60,2,1.0,android,50.0,8.0,1,1024.0,720,1612,basique
+vivo,Vivo Y22s,149.39,bas,77.0,0.5154294129459803,0.19426628091480086,moyen,False,snapdragon,8,2.4,5000,haute,1,18.0,8,128,6.55,90,2,1.0,android,50.0,8.0,1,1024.0,1612,720,performance intermédiaire
+vivo,Vivo Y25,74.74,bas,79.0,1.056997591651057,0.5321940179458562,excellent,False,helio,4,1.3,1900,faible,0,,1,16,4.5,60,1,1.0,android,5.0,2.0,1,128.0,480,854,basique
+vivo,Vivo Y3 (4GB RAM + 128GB),129.46,bas,71.0,0.5484319480920747,0.21485920431158131,bon,False,helio,8,2.3,5000,haute,1,,4,128,6.35,60,3,1.0,android,13.0,16.0,1,256.0,720,1544,basique
+vivo,Vivo Y33s,166.28,bas,80.0,0.4811161895597787,0.17285551420973796,moyen,False,helio,8,2.0,5000,haute,1,18.0,8,128,6.58,60,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo Y33T,159.36,bas,81.0,0.5082831325301205,0.18980714453257266,moyen,False,snapdragon,8,2.4,5000,haute,1,18.0,8,128,6.58,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo Y35,184.36,bas,80.0,0.4339336081579518,0.14341452489879516,moyen,False,snapdragon,8,2.4,5000,haute,1,44.0,8,128,6.58,90,3,1.0,android,50.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo Y35 5G,139.51,bas,70.0,0.5017561465127948,0.18573443549759563,moyen,True,dimensity,8,2.2,5000,haute,1,15.0,4,128,6.51,60,2,1.0,android,13.0,5.0,1,1024.0,720,1600,basique
+vivo,Vivo Y53s,154.37,bas,79.0,0.5117574658288527,0.19197505918394586,moyen,False,helio,8,2.0,5000,haute,1,19.0,8,128,6.58,60,3,1.0,android,64.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+vivo,Vivo Y53t,119.58,bas,67.0,0.5602943636059542,0.2222611148889573,bon,True,dimensity,8,2.0,6000,haute,1,15.0,4,128,6.51,60,2,1.0,android,13.0,5.0,0,,720,1600,basique
+vivo,Vivo Y55 4G,229.12,bas,83.0,0.36225558659217877,0.09868886970889618,faible,False,snapdragon,8,2.4,5000,haute,1,44.0,8,128,6.44,120,3,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+vivo,Vivo Y55 5G,209.19,bas,77.0,0.3680864286055739,0.10232719877631585,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.58,60,3,1.0,android,50.0,8.0,1,,1080,2408,basique
+vivo,Vivo Y55S,134.44,bas,79.0,0.5876227313299613,0.23931347103700087,bon,False,snapdragon,4,1.2,2730,faible,0,,3,16,5.2,60,1,1.0,android,13.0,5.0,1,,720,1280,basique
+vivo,Vivo Y55s 2023,219.24,bas,78.0,0.35577449370552816,0.0946447970717064,faible,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.58,60,3,1.0,android,50.0,8.0,1,,1080,2408,basique
+vivo,Vivo Y55s 5G,199.22,bas,79.0,0.3965465314727437,0.12008573507098828,moyen,True,dimensity,8,2.2,6000,haute,1,18.0,8,128,6.58,60,2,1.0,android,50.0,8.0,0,,1080,2408,performance intermédiaire
+vivo,Vivo Y71,249.15,bas,79.0,0.3170780654224363,0.07049899797369305,faible,False,snapdragon,4,1.4,3360,faible,0,,3,16,6.0,60,1,1.0,android,13.0,5.0,1,,720,1440,basique
+vivo,Vivo Y73 2021,199.22,bas,80.0,0.40156610782049995,0.12321785055108854,moyen,False,helio,8,2.5,4000,moyenne,1,33.0,8,128,6.44,60,3,1.0,android,64.0,16.0,1,,1080,2400,performance intermédiaire
+vivo,Vivo Y73T,169.32,bas,77.0,0.45476021733994804,0.15640991345306773,moyen,True,dimensity,8,2.0,6000,haute,1,44.0,8,128,6.58,60,2,1.0,android,50.0,8.0,0,,1080,2408,performance intermédiaire
+vivo,Vivo Y75 4G,199.22,bas,82.0,0.41160526051601243,0.12948208151128907,moyen,False,helio,8,2.5,4050,moyenne,1,44.0,8,128,6.44,60,3,1.0,android,50.0,44.0,1,1024.0,1080,2400,performance intermédiaire
+vivo,Vivo Y75 5G,219.15,bas,82.0,0.3741729409080538,0.10612506100246559,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,8,128,6.58,60,3,1.0,android,50.0,16.0,1,,1080,2408,performance intermédiaire
+vivo,Vivo Y77 5G,179.29,bas,76.0,0.42389424953985166,0.13715016544700895,moyen,True,dimensity,8,2.2,4500,haute,1,80.0,6,128,6.64,120,2,1.0,android,50.0,8.0,1,1024.0,1080,2388,performance intermédiaire
+vivo,Vivo Y78 5G,249.05,bas,77.0,0.30917486448504317,0.06556755828966139,faible,True,dimensity,8,3.0,4500,haute,1,,8,128,6.58,90,3,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+vivo,Vivo Y91c,81.71,bas,79.0,0.9668339248561988,0.47593368899657895,excellent,False,helio,8,2.0,4030,moyenne,0,,2,32,6.22,60,1,1.0,android,13.0,5.0,1,256.0,720,1520,basique
+vivo,Vivo Y93,179.39,bas,62.0,0.34561569764200906,0.08830591103724,faible,False,helio,8,2.0,4030,moyenne,0,,4,32,6.2,60,2,1.0,android,13.0,8.0,1,256.0,1520,720,basique
+vivo,Vivo Y95,149.49,bas,65.0,0.43481169308983875,0.1439624323749381,moyen,False,snapdragon,8,1.95,4030,moyenne,0,,4,64,6.22,60,2,1.0,android,13.0,20.0,1,256.0,1520,720,basique
+xiaomi,Xiaomi 11i 5G (8GB RAM + 128GB),249.05,bas,83.0,0.33326641236699456,0.08060020344394145,faible,True,dimensity,8,2.5,5160,haute,1,67.0,8,128,6.67,120,3,1.0,android,108.0,16.0,1,1024.0,2400,1080,haut performance
+xiaomi,Xiaomi 11i HyperCharge 5G,247.36,bas,83.0,0.33554333764553684,0.0820209593838609,faible,True,dimensity,8,2.5,4500,haute,1,120.0,6,128,6.67,120,3,1.0,android,108.0,16.0,1,1024.0,2400,1080,performance intermédiaire
+xiaomi,Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),269.07,bas,86.0,0.3196194298881332,0.07208475868976306,faible,True,dimensity,8,2.5,4500,haute,1,120.0,8,128,6.67,120,3,1.0,android,108.0,16.0,1,1024.0,2400,1080,haut performance
+xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),388.66,milieu,88.0,0.22641897802706734,0.6915060163630817,bon,True,snapdragon,8,2.84,5000,haute,1,120.0,12,256,6.67,120,3,1.0,android,108.0,16.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi 12 Lite 5G,298.88,bas,82.0,0.2743576017130621,0.04384228106550148,faible,True,snapdragon,8,2.4,4300,moyenne,1,67.0,6,128,6.55,120,3,1.0,android,108.0,32.0,0,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi 12 Pro 5G,508.17,milieu,89.0,0.17513824113977605,0.41021161297375813,moyen,True,snapdragon,8,3.0,4600,haute,1,120.0,8,256,6.73,120,3,1.0,android,50.0,32.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi 12 Pro 5G (12GB RAM + 256GB),517.04,milieu,80.0,0.1547269070091289,0.2982476591546107,faible,True,snapdragon,8,3.0,4600,haute,1,120.0,12,256,6.73,120,3,1.0,android,50.0,32.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi 12 Ultra 5G,757.41,haut,80.0,0.10562311033654163,0.8366006080327699,excellent,True,snapdragon,8,3.2,4800,haute,1,67.0,12,256,6.73,120,3,1.0,android,50.0,20.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi 12S Ultra,697.52,milieu,80.0,0.11469205184080744,0.07864120685064865,faible,True,snapdragon,8,3.2,4860,haute,1,67.0,8,256,6.73,120,3,1.0,android,50.0,32.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi 12T,488.23,milieu,87.0,0.17819470331606005,0.42697747392949087,moyen,True,dimensity,8,2.85,5000,haute,1,120.0,8,128,6.67,120,3,1.0,android,108.0,20.0,0,,1220,2712,haut performance
+xiaomi,Xiaomi 12T Pro 5G,597.86,milieu,89.0,0.1488642826079684,0.2660889279560966,faible,True,snapdragon,8,3.2,5000,haute,1,120.0,8,128,6.67,120,3,1.0,android,200.0,20.0,0,,1220,2712,haut performance
+xiaomi,Xiaomi 13 5G,468.3,milieu,89.0,0.19004911381592995,0.49200343750762804,moyen,True,snapdragon,8,3.2,4500,haute,1,67.0,8,128,6.36,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi 13 Pro 5G,587.89,milieu,80.0,0.1360798788889078,0.1959615968152558,faible,True,snapdragon,8,3.2,4820,haute,1,120.0,8,128,6.73,120,3,1.0,android,50.3,32.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi 13 Ultra 5G,717.54,haut,80.0,0.11149204225548402,0.8877181956152441,excellent,True,snapdragon,8,3.2,5000,haute,1,120.0,12,256,6.6,120,4,1.0,android,108.0,32.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi 14,548.12,milieu,89.0,0.1623732029482595,0.3401905091386754,moyen,True,snapdragon,8,3.2,5000,haute,1,67.0,12,256,6.43,120,3,1.0,android,50.0,32.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi Civi 2,298.97,bas,85.0,0.28430946248787503,0.05005204360901321,faible,True,snapdragon,8,2.4,4500,haute,1,67.0,8,128,6.55,120,3,2.0,android,50.0,32.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Civi 3,328.78,milieu,86.0,0.26157308838737153,0.8843397215849519,excellent,True,dimensity,8,3.1,5000,haute,1,80.0,8,256,6.7,120,3,2.0,android,64.0,32.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Mi 10 5G (8GB RAM + 256GB),548.12,milieu,88.0,0.1605487849376049,0.33018288040729105,moyen,True,snapdragon,8,2.84,4780,haute,1,30.0,8,256,6.67,90,4,1.0,android,108.0,20.0,0,,1080,2340,haut performance
+xiaomi,Xiaomi Mi 10T 5G,234.2,bas,80.0,0.3415883859948762,0.08579294893062488,faible,True,snapdragon,8,2.84,5000,haute,1,33.0,6,128,6.67,144,3,1.0,android,64.0,20.0,0,,2400,1080,haut performance
+xiaomi,Xiaomi Mi 10T Pro 5G,298.97,bas,86.0,0.28765427969361473,0.05213914280273022,faible,True,snapdragon,8,2.84,5000,haute,1,33.0,8,128,6.67,144,3,1.0,android,108.0,20.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Mi 11 Lite (8GB RAM + 128GB),186.35,bas,82.0,0.44003219747786426,0.14721992294283734,moyen,False,snapdragon,8,2.3,4250,moyenne,1,33.0,8,128,6.55,90,3,1.0,android,64.0,16.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Mi 11 Lite NE 5G,218.16,bas,83.0,0.38045471213788046,0.11004476090307241,moyen,True,snapdragon,8,2.4,4250,moyenne,1,33.0,6,128,6.55,90,3,1.0,android,64.0,20.0,1,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),229.21,bas,86.0,0.3752017800270494,0.10676703608320706,moyen,True,snapdragon,8,2.4,4250,moyenne,1,33.0,8,128,6.55,90,3,1.0,android,64.0,20.0,1,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Mi 11i 5G,234.19,bas,81.0,0.34587300909517915,0.08846646824961141,faible,True,dimensity,8,2.5,5160,haute,1,67.0,6,128,6.67,120,3,1.0,android,108.0,16.0,1,1024.0,2400,1080,performance intermédiaire
+xiaomi,Xiaomi Mi 11T Pro 5G,348.71,milieu,86.0,0.24662326861862294,0.8023342573914325,excellent,True,snapdragon,8,2.84,5000,haute,1,120.0,8,128,6.67,120,3,1.0,android,108.0,16.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Mi 11X,238.09,bas,80.0,0.3360073921626276,0.08231052014275644,faible,True,snapdragon,8,3.2,4520,haute,1,33.0,6,128,6.67,120,3,1.0,android,48.0,20.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Mi 11X 5G (8GB RAM + 128GB),259.02,bas,83.0,0.3204385761717242,0.07259588962543434,faible,True,snapdragon,8,3.2,4520,haute,1,33.0,8,128,6.67,120,3,1.0,android,48.0,20.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Mi 11X Pro,308.85,milieu,85.0,0.27521450542334464,0.9591680976855687,excellent,True,snapdragon,8,2.84,4520,haute,1,33.0,8,128,6.67,120,3,1.0,android,108.0,20.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Mi 12 5G,428.44,milieu,87.0,0.20306227243021194,0.5633855765096567,bon,True,snapdragon,8,3.0,4500,haute,1,67.0,8,128,6.28,120,3,1.0,android,50.0,32.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Mi Mix Alpha,1993.1,haut,80.0,0.0401384777482314,0.266238489699948,faible,True,snapdragon,8,2.96,4050,moyenne,1,40.0,12,512,7.92,60,3,,android,108.0,,0,,2088,2250,haut performance
+xiaomi,Xiaomi Mi Mix Fold,1096.16,haut,80.0,0.07298204641658151,0.5523014430810697,moyen,True,snapdragon,8,2.84,5020,haute,1,67.0,12,256,8.01,90,3,1.0,android,108.0,20.0,0,,1860,2480,haut performance
+xiaomi,Xiaomi Mix Fold 2 5G,1066.26,haut,80.0,0.07502860465552492,0.5701266830849913,moyen,True,snapdragon,8,3.2,4500,haute,1,67.0,12,256,8.02,120,3,1.0,android,50.0,20.0,0,,1914,2160,haut performance
+xiaomi,Xiaomi Poco F1,119.58,bas,77.0,0.6439203880247533,0.2744420854480454,bon,False,snapdragon,8,2.8,4000,moyenne,1,,6,64,6.18,60,2,1.0,android,12.0,20.0,1,256.0,1080,2246,basique
+xiaomi,Xiaomi Poco F1 (6GB RAM + 128GB),129.55,bas,78.0,0.6020841373986877,0.2483370998602024,bon,False,snapdragon,8,2.8,4000,moyenne,1,,6,128,6.18,60,2,1.0,android,12.0,20.0,1,256.0,1080,2246,performance intermédiaire
+xiaomi,Xiaomi Redmi 10,95.56,bas,71.0,0.7429886982000837,0.33625873418299856,excellent,False,snapdragon,8,2.4,6000,haute,1,18.0,4,64,6.7,60,2,1.0,android,50.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 10 (6GB RAM + 128GB),119.58,bas,75.0,0.6271951831409935,0.2640058913362278,bon,False,snapdragon,8,2.4,6000,haute,1,18.0,6,128,6.7,60,2,1.0,android,50.0,5.0,1,512.0,720,1600,performance intermédiaire
+xiaomi,Xiaomi Redmi 10 Power,119.58,bas,77.0,0.6439203880247533,0.2744420854480454,bon,False,snapdragon,8,2.4,6000,haute,1,18.0,8,128,6.7,60,2,1.0,android,50.0,5.0,1,,720,1650,performance intermédiaire
+xiaomi,Xiaomi Redmi 10 Prime,123.48,bas,74.0,0.5992873339812115,0.24659195033526482,bon,False,helio,8,2.0,6000,haute,1,18.0,4,64,6.5,90,4,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi 10 Prime (6GB RAM + 128GB),129.55,bas,77.0,0.5943651099961405,0.24352058078690578,bon,False,helio,8,2.0,6000,haute,1,18.0,6,128,6.5,90,4,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi 10 Prime Plus 5G,139.42,bas,69.0,0.4949074738201119,0.18146100039614918,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.58,90,2,1.0,android,50.0,5.0,0,,1080,2408,basique
+xiaomi,Xiaomi Redmi 10A,74.74,bas,64.0,0.8563018464008564,0.40696387760355446,excellent,False,helio,8,2.0,5000,haute,0,,3,32,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 10A (4GB RAM + 64GB),83.59,bas,66.0,0.7895681301591099,0.36532337027691053,excellent,False,helio,8,2.0,5000,haute,0,,4,64,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 10A (6GB RAM + 128GB),108.13,bas,70.0,0.6473689077961713,0.276593892973459,bon,False,helio,8,2.0,5000,haute,0,,6,128,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 10A Sport,99.65,bas,69.0,0.6924234821876568,0.3047070483723165,excellent,False,helio,8,2.0,5000,haute,0,,6,128,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 10C,139.42,bas,71.0,0.5092526179888108,0.19041208411362984,moyen,False,snapdragon,8,2.4,6000,haute,1,18.0,4,64,6.7,60,2,1.0,android,50.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 10C (4GB RAM + 128GB),149.39,bas,73.0,0.48865385902670866,0.1775588695500355,moyen,False,snapdragon,8,2.4,6000,haute,1,18.0,4,128,6.7,60,2,1.0,android,50.0,5.0,1,512.0,720,1600,performance intermédiaire
+xiaomi,Xiaomi Redmi 11 Prime,115.61,bas,74.0,0.6400830377994983,0.2720476554781815,bon,False,helio,8,2.2,5000,haute,1,18.0,4,64,6.58,90,3,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),137.27,bas,76.0,0.5536533838420631,0.2181172760307609,bon,False,helio,8,2.2,5000,haute,1,18.0,6,128,6.58,90,3,1.0,android,50.0,8.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi 11 Prime 5G,134.2,bas,74.0,0.5514157973174367,0.21672106668831734,bon,True,dimensity,8,2.2,5000,haute,1,18.0,4,64,6.58,90,2,1.0,android,50.0,5.0,1,512.0,1080,2408,basique
+xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),159.36,bas,77.0,0.48318273092369474,0.17414499478494272,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,6,128,6.58,90,2,1.0,android,50.0,5.0,1,512.0,1080,2408,basique
+xiaomi,Xiaomi Redmi 13 Prime 5G,179.29,bas,79.0,0.4406269172848458,0.14759101623532245,moyen,True,snapdragon,8,2.0,5100,haute,1,18.0,6,128,6.73,120,2,1.0,android,64.0,16.0,1,1024.0,1080,2408,performance intermédiaire
+xiaomi,Xiaomi Redmi 20X,109.53,bas,77.0,0.7030037432666849,0.3113089201665246,excellent,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.43,90,4,1.0,android,48.0,13.0,1,,1080,2340,basique
+xiaomi,Xiaomi Redmi 8 (4GB RAM + 64GB),114.51,bas,66.0,0.5763688760806917,0.23229128992149672,bon,False,snapdragon,8,2.0,5000,haute,1,18.0,4,64,6.22,60,2,1.0,android,12.0,8.0,1,512.0,720,1520,basique
+xiaomi,Xiaomi Redmi 9,89.68,bas,68.0,0.7582515611061552,0.3457824560803901,excellent,False,helio,8,2.3,5000,haute,0,,4,64,6.53,60,2,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 9 Activ,74.74,bas,68.0,0.9098207118009098,0.4403585816948349,excellent,False,helio,8,2.3,5000,haute,0,,4,64,6.53,60,2,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 9 Activ (6GB RAM + 128GB),104.63,bas,72.0,0.6881391570295327,0.3020337149633044,excellent,False,helio,8,2.3,5000,haute,0,,6,128,6.53,60,2,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 9 Power,114.6,bas,74.0,0.6457242582897034,0.2755676644988488,bon,False,snapdragon,8,2.0,6000,haute,1,18.0,4,64,6.53,60,4,1.0,android,48.0,8.0,1,512.0,1080,2340,basique
+xiaomi,Xiaomi Redmi 9A,69.75,bas,61.0,0.8745519713261649,0.41835159139296096,excellent,False,helio,8,2.0,5000,haute,0,,2,32,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 9A (6GB RAM + 128GB),109.53,bas,69.0,0.6299643933168995,0.26573382322902256,bon,False,helio,8,2.0,5000,haute,0,,6,128,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 9A Sport,64.77,bas,61.0,0.941794040450826,0.4603093007748426,excellent,False,helio,8,2.0,5000,haute,0,,2,32,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 9i (4GB RAM + 128GB),92.67,bas,67.0,0.7229955756987159,0.3237834246859995,excellent,False,helio,8,2.0,5000,haute,1,10.0,4,128,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi 9i Sport,74.74,bas,66.0,0.8830612791008832,0.4236612296491947,excellent,False,helio,8,2.0,5000,haute,1,10.0,4,64,6.53,60,1,1.0,android,13.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi A1,61.5,bas,80.0,1.3008130081300813,0.6843299727226773,excellent,False,helio,4,2.0,5000,haute,1,10.0,2,32,6.52,60,2,1.0,android,8.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi A1 Plus,72.64,bas,60.0,0.8259911894273128,0.38805063247256216,excellent,False,helio,4,2.0,5000,haute,1,10.0,2,32,6.52,60,2,1.0,android,8.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),83.7,bas,61.0,0.7287933094384706,0.32740109485131197,excellent,False,helio,4,2.0,5000,haute,1,10.0,3,32,6.52,60,2,1.0,android,8.0,5.0,1,512.0,720,1600,basique
+xiaomi,Xiaomi Redmi K20 Pro Signature Edition,4783.68,haut,88.0,0.01839587932303164,0.07686345611274632,faible,False,snapdragon,8,2.8,4000,moyenne,1,27.0,8,256,6.39,60,3,1.0,android,48.0,20.0,0,,1080,2340,performance intermédiaire
+xiaomi,Xiaomi Redmi K50 5G,278.95,bas,83.0,0.2975443627890303,0.05831035730701318,faible,True,dimensity,8,2.85,5500,haute,1,67.0,8,128,6.67,120,3,1.0,android,48.0,20.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi Redmi K50 Ultra 5G,398.63,milieu,85.0,0.2132303138248501,0.6191611622628234,bon,True,snapdragon,8,3.2,5000,haute,1,120.0,8,128,6.67,144,3,1.0,android,108.0,20.0,0,,1220,2712,haut performance
+xiaomi,Xiaomi Redmi K50i (8GB RAM + 256GB),259.11,bas,85.0,0.32804600362780284,0.07734277255900592,faible,True,dimensity,8,2.85,5080,haute,1,67.0,8,256,6.6,144,3,1.0,android,64.0,16.0,0,,1080,2460,haut performance
+xiaomi,Xiaomi Redmi K50i 5G,229.21,bas,82.0,0.357750534444396,0.09587780706273545,faible,True,dimensity,8,2.85,5080,haute,1,67.0,6,128,6.6,144,3,1.0,android,64.0,16.0,0,,1080,2460,haut performance
+xiaomi,Xiaomi Redmi K60,298.88,bas,84.0,0.2810492505353319,0.04801773640507305,faible,True,snapdragon,8,3.2,5500,haute,1,67.0,8,128,6.67,120,3,1.0,android,64.0,16.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi Redmi K60 Gaming Edition,548.03,milieu,86.0,0.1569257157454884,0.310308963831665,moyen,True,snapdragon,8,3.2,5000,haute,1,67.0,8,128,6.73,120,3,1.0,android,50.0,20.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi Redmi K60 Pro,388.66,milieu,85.0,0.21870014923069006,0.6491652959886174,bon,True,snapdragon,8,3.2,5000,haute,1,120.0,8,128,6.67,120,3,1.0,android,54.0,16.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi Redmi K60E,259.11,bas,83.0,0.3203272741306781,0.07252643937274854,faible,True,dimensity,8,3.1,5500,haute,1,67.0,8,128,6.67,120,3,1.0,android,48.0,20.0,0,,1440,3200,haut performance
+xiaomi,Xiaomi Redmi K60i,289.0,bas,85.0,0.29411764705882354,0.05617215506823635,faible,True,dimensity,8,3.1,5080,haute,1,120.0,8,128,6.67,120,3,1.0,android,50.0,32.0,0,,1080,2460,haut performance
+xiaomi,Xiaomi Redmi Note 10,139.42,bas,75.0,0.5379429063262087,0.20831425154859115,bon,False,snapdragon,8,2.2,5000,haute,1,33.0,4,64,6.43,60,4,1.0,android,48.0,13.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 10 (6GB RAM + 128GB),164.43,bas,78.0,0.4743659916073709,0.16864352538125282,moyen,False,snapdragon,8,2.2,5000,haute,1,33.0,6,128,6.43,60,4,1.0,android,48.0,13.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 10 5G,124.48,bas,76.0,0.6105398457583547,0.2536132931509698,bon,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.5,90,3,1.0,android,48.0,8.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 10 Lite,99.65,bas,76.0,0.762669342699448,0.3485390636419504,excellent,False,snapdragon,8,2.3,5020,haute,1,18.0,4,64,6.67,60,4,1.0,android,48.0,16.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),124.57,bas,77.0,0.6181263546600305,0.25834712332400395,bon,False,snapdragon,8,2.3,5020,haute,1,18.0,4,128,6.67,60,4,1.0,android,48.0,16.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),119.58,bas,80.0,0.669008195350393,0.2900963766157718,bon,False,snapdragon,8,2.3,5020,haute,1,18.0,6,128,6.67,60,4,1.0,android,48.0,16.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),179.38,bas,81.0,0.4515553573419556,0.15441014476427128,moyen,False,snapdragon,8,2.3,5020,haute,1,33.0,6,128,6.67,120,4,1.0,android,64.0,16.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 10 Pro 5G,169.41,bas,83.0,0.48993565905200404,0.17835868718871234,moyen,True,dimensity,8,2.6,5000,haute,1,67.0,6,128,6.6,120,3,1.0,android,64.0,16.0,1,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 10 Pro Max,199.31,bas,81.0,0.4064020872008429,0.1262354051870268,moyen,False,snapdragon,8,2.3,5020,haute,1,33.0,6,64,6.67,120,4,1.0,android,108.0,16.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),199.12,bas,82.0,0.4118119726797911,0.12961106577674117,moyen,False,snapdragon,8,2.3,5020,haute,1,33.0,6,128,6.67,120,4,1.0,android,108.0,16.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 10S,109.62,bas,78.0,0.7115489874110563,0.3166409820003456,excellent,False,helio,8,2.5,5000,haute,1,33.0,6,64,6.43,60,4,1.0,android,64.0,13.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 10S (6GB RAM + 128GB),119.58,bas,79.0,0.6606455929085131,0.284878279559863,bon,False,helio,8,2.5,5000,haute,1,33.0,6,128,6.43,60,4,1.0,android,64.0,13.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 10S (8GB RAM + 128GB),139.51,bas,82.0,0.5877714859149882,0.23940629092980054,bon,False,helio,8,2.5,5000,haute,1,33.0,8,128,6.43,60,4,1.0,android,64.0,13.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 10T 5G,129.55,bas,75.0,0.5789270551910459,0.23388754264031258,bon,True,dimensity,8,2.2,5000,haute,1,18.0,4,64,6.5,90,3,1.0,android,48.0,8.0,1,1024.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 10T 5G (6GB RAM +128GB),139.51,bas,79.0,0.5662676510644399,0.22598832707174935,bon,True,dimensity,8,2.2,5000,haute,1,18.0,6,128,6.5,90,3,1.0,android,48.0,8.0,1,1024.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 11,118.95,bas,76.0,0.6389239176124422,0.2713243876106058,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,4,64,6.43,90,4,1.0,android,50.0,13.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),142.41,bas,80.0,0.5617583034899235,0.22317458416501804,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,6,128,6.43,90,4,1.0,android,50.0,13.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 64GB),121.47,bas,79.0,0.6503663455997366,0.2784642343518467,bon,False,snapdragon,8,2.4,5000,haute,1,33.0,6,64,6.43,90,4,1.0,android,50.0,13.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 5G,149.39,bas,77.0,0.5154294129459803,0.19426628091480086,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,4,128,6.6,90,2,1.0,android,50.0,16.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 Pro 4G,179.38,bas,81.0,0.4515553573419556,0.15441014476427128,moyen,False,helio,8,2.5,5000,haute,1,67.0,6,128,6.67,120,4,1.0,android,108.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,179.29,bas,81.0,0.4517820291148419,0.15455158342753142,moyen,True,snapdragon,8,2.2,5000,haute,1,67.0,6,64,6.67,120,3,1.0,android,108.0,16.0,1,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,199.31,bas,83.0,0.4164367066379008,0.13249680748440854,moyen,True,snapdragon,8,2.4,5200,haute,1,33.0,6,128,6.67,120,4,1.0,android,108.0,32.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,199.31,bas,83.0,0.4164367066379008,0.13249680748440854,moyen,True,snapdragon,8,2.2,5000,haute,1,67.0,6,128,6.67,120,3,1.0,android,108.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB),226.23,bas,86.0,0.38014410113601205,0.10985094583585536,moyen,True,snapdragon,8,2.2,5000,haute,1,67.0,8,128,6.67,120,3,1.0,android,108.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),229.21,bas,87.0,0.37956459142271276,0.10948934333832497,moyen,True,snapdragon,8,2.2,5000,haute,1,67.0,8,256,6.67,120,3,1.0,android,108.0,16.0,1,1024.0,1080,2400,haut performance
+xiaomi,Xiaomi Redmi Note 11E 5G,139.42,bas,69.0,0.4949074738201119,0.18146100039614918,moyen,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.58,90,2,1.0,android,50.0,5.0,0,,1080,2408,basique
+xiaomi,Xiaomi Redmi Note 11R,129.46,bas,73.0,0.563880735362274,0.22449893930224366,bon,True,dimensity,8,2.2,5000,haute,1,18.0,4,128,6.58,90,2,1.0,android,13.0,5.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 11S,145.4,bas,80.0,0.5502063273727648,0.21596638157667114,bon,False,helio,8,2.5,5000,haute,1,33.0,6,64,6.43,90,4,1.0,android,108.0,16.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11S (6GB RAM + 128GB),154.46,bas,81.0,0.5244076136216496,0.19986849898491355,moyen,False,helio,8,2.5,5000,haute,1,33.0,6,128,6.43,90,4,1.0,android,108.0,16.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11S (8GB RAM + 128GB),157.7,bas,84.0,0.5326569435637286,0.20501591626119223,bon,False,helio,8,2.5,5000,haute,1,33.0,8,128,6.43,90,4,1.0,android,108.0,16.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11SE,119.58,bas,80.0,0.669008195350393,0.2900963766157718,bon,False,helio,8,2.5,5000,haute,1,33.0,6,64,6.43,60,4,1.0,android,64.0,13.0,1,512.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11T 5G,169.41,bas,79.0,0.46632430198925684,0.16362567152386195,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,6,64,6.6,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),169.41,bas,81.0,0.47812998052063044,0.17099217935628713,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,6,128,6.6,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),184.36,bas,83.0,0.450206118463875,0.15356824662713497,moyen,True,dimensity,8,2.4,5000,haute,1,33.0,8,128,6.6,90,2,1.0,android,50.0,16.0,1,1024.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 11T Pro 5G,199.22,bas,82.0,0.41160526051601243,0.12948208151128907,moyen,True,dimensity,8,2.85,5080,haute,1,67.0,6,128,6.6,144,3,1.0,android,64.0,16.0,1,1024.0,1080,2460,haut performance
+xiaomi,Xiaomi Redmi Note 12,177.98,bas,76.0,0.42701427126643443,0.13909699674731324,moyen,True,snapdragon,8,2.0,5000,haute,1,33.0,4,128,6.67,120,3,1.0,android,48.0,13.0,1,1024.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),199.2,bas,79.0,0.39658634538152615,0.12011057815561962,moyen,True,snapdragon,8,2.0,5000,haute,1,33.0,6,128,6.67,120,3,1.0,android,48.0,13.0,1,1024.0,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 12 4G,139.51,bas,75.0,0.5375958712637088,0.20809770859434773,bon,False,helio,8,2.2,5000,haute,1,33.0,4,64,6.67,120,3,1.0,android,48.0,13.0,1,1024.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 12 Discovery Edition,268.98,bas,86.0,0.3197263737080824,0.07215148949944855,faible,True,dimensity,8,2.6,4300,moyenne,1,210.0,8,256,6.67,120,3,1.0,android,200.0,16.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Redmi Note 12 Explorer,249.14,bas,89.0,0.35722886730352416,0.09555229717620596,faible,True,dimensity,8,2.6,4300,moyenne,1,120.0,8,256,6.67,120,3,1.0,android,200.0,16.0,1,512.0,1080,2400,haut performance
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),269.07,bas,82.0,0.3047534098933363,0.06280865885038188,faible,True,dimensity,8,2.6,5000,haute,1,67.0,8,128,6.67,120,3,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),278.99,bas,82.0,0.2939173447076956,0.05604717039797653,faible,True,dimensity,8,2.6,5000,haute,1,67.0,8,256,6.67,120,3,1.0,android,50.0,16.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,149.48,bas,77.0,0.5151190794755152,0.19407263902164154,moyen,False,snapdragon,8,2.3,5000,haute,1,67.0,6,128,6.67,120,3,1.0,android,50.0,16.0,0,,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,246.78,bas,79.0,0.3201231866439744,0.07239909285341825,faible,True,dimensity,8,2.6,5000,haute,1,67.0,6,128,6.67,120,3,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,328.87,milieu,83.0,0.2523793596253839,0.8339086122834103,excellent,True,snapdragon,8,2.36,5200,haute,1,210.0,6,128,6.67,120,4,1.0,android,108.0,32.0,1,512.0,1080,2460,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 12 Pro Plus,298.97,bas,86.0,0.28765427969361473,0.05213914280273022,faible,True,dimensity,8,2.6,4980,haute,1,120.0,8,256,6.67,120,3,1.0,android,200.0,16.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),328.87,milieu,87.0,0.2645422203302217,0.9006265428972875,excellent,True,dimensity,8,2.6,4980,haute,1,120.0,12,256,6.67,120,3,1.0,android,200.0,16.0,0,,1080,2400,haut performance
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB),269.07,bas,84.0,0.31218641989073476,0.06744670877007247,faible,True,dimensity,8,2.6,4980,haute,1,120.0,6,128,6.67,120,3,1.0,android,200.0,16.0,0,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 12 Turbo,199.31,bas,81.0,0.4064020872008429,0.1262354051870268,moyen,True,snapdragon,8,2.4,5000,haute,1,67.0,8,128,6.67,120,3,1.0,android,50.0,16.0,0,,1080,2400,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 12T 5G,159.45,bas,78.0,0.48918156161806214,0.17788814543723383,moyen,True,dimensity,8,2.0,5000,haute,1,33.0,6,64,6.52,90,3,1.0,android,64.0,16.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 13 Pro 5G,179.29,bas,78.0,0.43504936136984773,0.14411073263921792,moyen,True,dimensity,8,2.0,5000,haute,1,67.0,6,128,6.67,120,3,1.0,android,108.0,16.0,0,,1080,2460,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,204.29,bas,83.0,0.4062851828283323,0.1261624591912964,moyen,True,snapdragon,8,2.36,5200,haute,1,67.0,6,128,6.67,120,4,1.0,android,108.0,32.0,1,512.0,1080,2460,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 4,102.65,bas,65.0,0.6332196785192401,0.267765056239145,bon,False,snapdragon,8,2.0,4100,moyenne,0,,4,64,5.5,60,1,1.0,android,13.0,5.0,1,128.0,1080,1920,basique
+xiaomi,Xiaomi Redmi Note 8 2021,99.56,bas,75.0,0.7533145841703495,0.34270188098515375,excellent,False,helio,8,2.0,4000,moyenne,1,18.0,4,64,6.3,60,4,1.0,android,48.0,13.0,1,,1080,2340,basique
+xiaomi,Xiaomi Redmi Note 8 Pro,169.41,bas,78.0,0.46042146272357004,0.15994241760764935,moyen,False,helio,8,2.5,4500,haute,1,18.0,6,64,6.53,60,4,1.0,android,64.0,20.0,1,512.0,1080,2340,performance intermédiaire
+xiaomi,Xiaomi Redmi Note 9,119.48,bas,75.0,0.6277201205222631,0.26433344178751095,bon,False,helio,8,2.0,5020,haute,1,22.0,4,64,6.53,60,4,1.0,android,48.0,13.0,1,512.0,1080,2340,basique
+xiaomi,Xiaomi Redmi Note 9 Pro,139.51,bas,75.0,0.5375958712637088,0.20809770859434773,bon,False,snapdragon,8,2.3,5020,haute,1,18.0,4,64,6.67,60,4,1.0,android,48.0,16.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),143.9,bas,77.0,0.5350938151494092,0.2065364755051887,bon,False,snapdragon,8,2.3,5020,haute,1,18.0,4,128,6.67,60,4,1.0,android,48.0,16.0,1,512.0,1080,2400,basique
+xiaomi,Xiaomi Redmi Note 9 Pro Max,164.34,bas,80.0,0.48679566751855907,0.17639939512740463,moyen,False,snapdragon,8,2.3,5020,haute,1,33.0,6,64,6.67,60,4,1.0,android,64.0,32.0,1,512.0,1080,2400,basique
+zte,ZTE Axon 30S,199.31,bas,82.0,0.41141939691937185,0.12936610633571766,moyen,True,snapdragon,8,3.2,4200,moyenne,1,55.0,6,128,6.9,120,4,1.0,android,50.0,16.0,1,,1080,2460,performance intermédiaire
+zte,ZTE Axon 40 Ultra 5G,617.79,milieu,89.0,0.14406189805597372,0.239746016769611,faible,True,snapdragon,8,3.0,5000,haute,1,65.0,8,128,6.8,120,3,1.0,android,64.0,16.0,0,,1116,2480,haut performance
