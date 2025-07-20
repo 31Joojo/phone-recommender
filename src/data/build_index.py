@@ -48,4 +48,4 @@ embs = embedder.encode(texts, convert_to_numpy=True, show_progress_bar=True)
 dim = embs.shape[1]
 index = faiss.IndexFlatIP(dim)
 index.add(embs)
-faiss.write_index(index, "models/faiss_index.idx")
+faiss.write_index(index, "../models/faiss_index.idx")
