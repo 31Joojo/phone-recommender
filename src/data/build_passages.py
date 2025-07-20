@@ -43,6 +43,6 @@ for _, phone in data.iterrows():
     passages.append({'title': title, 'text': text})
 
 # --------------- Enregistrement des données au format json --------------- #
-with open('../data/processed/passages.jsonl', 'w') as f:
+with open('data/processed/passages.jsonl', 'w') as f:
     for passage in passages:
         f.write(json.dumps(passage, ensure_ascii=False) + "\n")
