@@ -15,10 +15,11 @@ Usage :
 """
 
 # ------------------------ Importation des modules ------------------------ #
-import pandas as pd, json
+import pandas as pd
+import json
 
 # ------------------------ Chargement des données ------------------------- #
-data = pd.read_csv('data/processed/Smartphones_cleaned_dataset_processed.csv')
+data = pd.read_csv('../../data/processed/Smartphones_cleaned_dataset_processed.csv')
 
 passages: list = []
 for _, phone in data.iterrows():
@@ -29,7 +30,7 @@ for _, phone in data.iterrows():
         f"Prix : {phone['price (€)']} €, Segment du prix : {phone['price_segment']}, "
         f"Taille d'écran : {phone['screen_size']}”, Taux de rafraîchissement : {phone['refresh_rate']} Hz, "
         f"Note : {phone['rating']}, Rapport qualité-prix : {phone['quality-price_ratio']}, "
-        f"5G : {'Disponible' if phone['has_5G'] else 'Non disponible'}, "
+        f"5G : {'Disponible' if phone['has_5g'] else 'Non disponible'}, "
         f"Stockage : {phone['internal_memory']} Go, RAM : {phone['ram_capacity']} Go, "
         f"CPU : {phone['processor_brand']} {phone['num_cores'] * phone['processor_speed']} GHz, "
         f"Batterie : {phone['battery_capacity']} mAh, Autonomie : {phone['quality_battery_autonomy']}, "
@@ -43,6 +44,6 @@ for _, phone in data.iterrows():
     passages.append({'title': title, 'text': text})
 
 # --------------- Enregistrement des données au format json --------------- #
-with open('data/processed/passages.jsonl', 'w') as f:
+with open('../../data/processed/passages.jsonl', 'w') as f:
     for passage in passages:
         f.write(json.dumps(passage, ensure_ascii=False) + "\n")
