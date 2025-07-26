@@ -1,0 +1,11 @@
+name: phone-recommender
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - faiss-cpu
+  - jupyter
+  - conda-forge::seaborn
+  - matplotlib
+  - plotly
+prefix: /opt/anaconda3/envs/phone-recommender
