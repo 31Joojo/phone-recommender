@@ -1,6 +1,9 @@
 # Ignore virtual environments
 venv/
 
+# Ignore file .env
+.env
+
 # VSCode and PyCharm files
 .vscode/
 .idea/
