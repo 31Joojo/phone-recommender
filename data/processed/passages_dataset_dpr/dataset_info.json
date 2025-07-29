@@ -1,6 +1,17 @@
 {
+  "builder_name": "json",
   "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 593509,
   "description": "",
+  "download_checksums": {
+    "/Users/Jorislarmaillard/Documents/Semestre_8/NN_DL/phone_recommender/notebooks/../data/processed/passages.jsonl": {
+      "num_bytes": 611131,
+      "checksum": null
+    }
+  },
+  "download_size": 611131,
   "features": {
     "title": {
       "dtype": "string",
@@ -19,5 +30,20 @@
     }
   },
   "homepage": "",
-  "license": ""
+  "license": "",
+  "size_in_bytes": 1204640,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 593509,
+      "num_examples": 979,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
 }
