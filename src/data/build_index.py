@@ -22,17 +22,12 @@ Usage :
 from sentence_transformers import SentenceTransformer
 import faiss
 import json
-import numpy as np
-from src.config import device
-### Chargement des variables d'environnement
-from dotenv import load_dotenv
-import os
 
-load_dotenv()
+# ---------------- Chargement des variables d'environnement --------------- #
+from src.config import TRANSFORMER, DEVICE
 
 # --------------- Chargement du modèle d'embeddings - BERT ---------------- #
-TRANSFORMER = os.getenv("TRANSFORMER")
-embedder = SentenceTransformer(TRANSFORMER, device=str(device))
+embedder = SentenceTransformer(TRANSFORMER, device=DEVICE)
 
 texts: list = []
 # ------------------------ Chargement des passages ------------------------ #
@@ -48,4 +43,4 @@ embs = embedder.encode(texts, convert_to_numpy=True, show_progress_bar=True)
 dim = embs.shape[1]
 index = faiss.IndexFlatIP(dim)
 index.add(embs)
-faiss.write_index(index, "../models/faiss_index.idx")
+faiss.write_index(index, "../../data/processed/faiss_index.idx")
